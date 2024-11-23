@@ -1576,7 +1576,8 @@ html.light .modal .action.hl .button {
 }
 
 html.light body {
-    font-weight: 500
+    font-weight: 500;
+    background-color: #ffffff;
 }
 
 html.light .button,
