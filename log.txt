@@ -1,0 +1,4208 @@
+7b17c041 Merge pull request #1 from lukaszwojcik89/colors
+a14ab082 color fix
+a9ca75f2 kolor zmieniony
+c2a53332 Wendigo Trick or Treat fix
+d05f885c 更新奴隶相关字符串 (#1238)
+34261f93 Fixed Gloomy
+69df833a Ghost Forge fix
+e87cf274 Fixed Trick or Treat! Feat tracker
+30be99a7 补充黑洞不稳定的汉化 (#1231)
+dacc9edf 1.3.17
+7c407655 Fixed some CSS issues
+658876df Correct CSS path
+a5ff2283 No !important Use a local copy of buefy.css that strips all !important tags so css can actually work correctly without insane hacks
+9d0cef69 Fix completed tech display for forking techs (#1226)
+f233d1f6 Increase visibility of information about time until black hole is corrupted (#1202)
+06a9ef09 Use species-neutral term for crafters (#551)
+f006b896 Fix luxury goods tooltip for high pop (#1091)
+ad2633bb Scale surveyors and gun emplacements for high population (#1102)
+59453c19 Reduce high pop growth rate penalty (#1082)
+81b97d3f fix the MAD wiki calculator and the synth MAD penalty (#1121)
+11eedd0d Prevent cancel routes exploit of entrepreneur governor (#1224)
+d6288343 Remove coal miner 0.2 scaling from cataclysm iridium mine production (#1139)
+cd2139f8 Update strings.pl-PL.json (#1217)
+545cdec5 补充汉化 (#1215)
+d8bdd47c Update zh-TW translation (#1219)
+2268b6c5 Fix floating point rounding issues (#1220)
+a34c3d9d Prevent knowledge drain for sequencing when all labs are disabled (#1225)
+84532a5b Fix missing string (#1223)
+0c615c36 Differentiate horseshoes strings on wiki "Races" (#1227)
+d54bf15b Update wiki for halloween traits (#1228)
+608e9d60 Fix cruiser soldier count during fasting (#1229)
+e4490e95 Bump cookie and express (#1230)
+96c4924f Fixed gravity well railway bug
+a07d8734 Added gloomy string
+e7313ad1 Fixed patch notes
+a9170745 1.3.16
+73557ce9 补充汉化 (#1211)
+95e08b16 Restore pickaxes to coal miners who use tools (#1210)
+46b09681 More halloween stuff
+36f7f273 Halloween theming
+f9e4e243 Fix scientific notation; use locale number formats (#1208)
+31f284f2 Fix a LS knowledge exploit (#1207)
+719e56de 补充一些汉化 (Update ZH-CN Translation) (#1206)
+45b3134e Ninja Turtles
+491d966f Zombies
+b9bbf872 Emocorns
+4df7b4cd Update zh-TW translation (#1204)
+ee09d09e Fixed Fasting Feat
+5d408a82 Fixed changelog typo
+f052cb78 Redraw tech on completeion of waygate
+02ad349c Fixed Dark Bomb option
+da1bfd4c Fix AI drift (#1203)
+3a886b76 1.3.15 B7
+5cad54a5 Added timer to devilish dish. (#1201)
+0469ae6d 1.3.15 Beta 6
+03ff5a89 Devilish dish expansion (#1200)
+aea0aaa8 Fixed unlock condition for second Fasting objective
+b87704a6 1.3.15 B4
+f10d4acc Starvation threshold tooltip update. (#1195)
+40abf676 Fixed world collider
+99964c24 Fix interstellar industrial powerup assignments (#1193)
+26c10ab4 Some corrections in the Portuguese-BR language strings (#1194)
+61e4bf4b Fix percision errors
+6f543fe6 1.3.15 Beta 2
+6da2dad1 Updates and bug fixes to Fasting scenario (#1191)
+5843e727 Wiki fixes for powered and supported structs, part 2 (#1192)
+4ac18dde 1.3.15 Beta 1
+9d1149fb Merge branch '930' into 1.3.15
+acdf582a Fix powered building counts on wiki (#1186)
+2db784a7 Fasting hell expansion. (Devilish Dish) (#1189)
+67414214 1.3.14a
+fc80741d Added fix for factory production tooltip. (#1187)
+d29ad3c8 Fixed incorrect scientist label
+47330aa7 1.3.14 release
+dc3daf80 Updated changelog
+9e4733e5 Beta 5 build
+8eb9adce Support automatic power-on option for additional structures (#1103)
+f2c4ed81 Update time format (#1163)
+0342a8dc Remove manual crafting cost discount from High Pop (#1165)
+ec719b6c Prevent servent NaN on unlock
+a2628bfa Update vbind after purchase (#1085)
+9358b5b8 Removed accidently commited test garbage
+2c845700 Fix power issues
+4cc082f9 Revert " Fix stellar engine tooltip truncation + reformat .py files (#1170)"
+218b2692 Fixed some display bugs
+614cbf29 Merge branch '1179' into 1.3.14
+d7f83b59  Fix stellar engine tooltip truncation + reformat .py files (#1170)
+b8e77b6e Fix support calculation for gateway and remove fractional ships (#1174)
+df8c05ac Update strings.zh-CN.json (#1184)
+62e57887 Miscellaneous fixes (#1123)
+685a3718 Added patch notes
+e5e9b6b2 Build 1.3.14 beta 1
+feaaeb43 Fix backup save for Demonic Infusion reset (#1086)
+ba2c3410 Check fuel usage for ships still en route to Ceres (#1178)
+bc780c46 Allow easter eggs 7 and 13 to be found by demonic races (#1118)
+9afeffde Fix Gemini astrology sign (#1164)
+7b5578fe Wagons for demonic races, slight fix (#1112)
+c1d8e50e max war machine (#1097)
+9a7dd9b6 Accept both .txt and .json extensions by default for string pack import (#1166)
+ae684622 Fix war assembly tooltip after vaxxing (#1167)
+645c2b4d Fasting scenario tweak to reduce difficulty. (#1172)
+61f69637 更新中文字符串 (#1176)
+e6ca6fc0 Added achievement icon for fasting feat. (#1177)
+f0bbc460 More fasting fixes. (#1171)
+b4fcc962 Fix slight inconsistency in index.html
+77be7ab1 Improve building queue styling
+c2986deb Build Game Bundle
+3d2060cf Add missing imports (#1173)
+96b5ead5 1.3.13b
+7b0d2be3 Prevent replicator scheduler from breaking on Supplies (#1159)
+bfd19e70 Fix v1.3.13 starting Cataclysm from Dial it to 11 (#1162)
+d359b0b3 Fixed humpback miner bonus. (#1161)
+bed2a841 Fix embassy unlock requirement for fasting scenario. (also fasting penalty tooltip fix) (#1160)
+5eb9c41d do not return to 2023
+2ae15098 Remove dup message
+4ae08fce 1.3.13a part 2
+714eafe9 Fix color of new description line (#1157)
+9d4fcd77 1.3.13a
+000e7aa7 Fix crafter unassignment issue in Cataclysm and LS (#1154)
+ff7158ac 1.3.13a (#1155)
+475e91d0 Merge pull request #1152 from pmotschmann/1.3.13
+6de681d3 1.3.13 final build
+f2b3f36e Improve tab refresh behavior (#1125)
+c4e12c45 Smart Shipyard Ship sorting (#1141)
+c2fdd9d0 Increase merc replenishment rate for high pop races (#1136)
+afcb6c3a Recompile again for 1.3.13
+f3663ebf Fix edge case on governor crate builder (#1126)
+5c0d523f segments (#1087)
+e7e294f1 Update Tranditional Chinese translation (#1106)
+b4d3d671 Fix power cost modifier for high-tech farms (#1107)
+9d793faf Fix partial fulfillment for >1 support structs (#1127)
+a7a6b0e2 更新/修订汉化 (#1124)
+048a5395 Show the number of soul gems in report logs (#1133)
+64ee8b3b added search functionality (#1119)
+91d40ea5 Screen reader: make more menus usable (#1111)
+9a7581e8 Race "entity" strings cleanup (#1117)
+bbabdd9e Rebuild game
+7878013a Fix upgrade condition for equilibrium (#1132)
+eb9b23fb Italian Translation Strings (#1151)
+23c500fc Create setting to control build queue auto-resize (#1100)
+4879be63 Strengthen checks to prevent missing workers (#1128)
+530c566a Version Inf
+7d116761 Max craftsman (#1096)
+289d626d Fix typo in strings.json (#1142)
+ce4e09ae Update PT-BR translation (a few of strings were fixed) (#1144)
+7209814d New Scenario: Fasting (your citizens can not eat food) (#1137)
+c9bcd5f4 Update Korean translations (#1093)
+3f88dcda 修复中文字符串错误+补充“总是为新建造的建筑供能” (#1104)
+37ba07bd 1.3.12 patch
+4f8d7b3d Fixed cat-related typo in strings.json (#1113)
+109879c6 Bugfix of the check whether the current date is within easter event bounds. (#1116)
+16a31b7e Update korean translation (#1088)
+73f1faa5 Fixed issue with not having a foundry
+cbaf36f6 1.3.11 Release
+f0761b76 Update main.js (#1083)
+ae9685d1 Rebuild bundle
+23d85b88 Update wiki to display rewards for Matrix, Retirement, and Eden resets. (#955)
+d13c00c6 Fix missing UI refresh for crafter count
+582b20fc Prevent exploits to assign too many crafters
+eb60dc05 补充/修订汉化 (#1080)
+3f6394a6 Recompile for V1.3.11 B3
+4acb048b Fixes for governor income penalties (#1079)
+330b2c16 Fix skilled servant description (#1078)
+c1c3b302 Minor fixes to worker scaling in odd situations (#1076)
+a31f764a Added new settings (#1077)
+3afada36 Wagons for Demonic races, non-lodge edition (#1075)
+149bc933 Add missing save file upgrade logic (#1072)
+368eb5d8 PT-BR translation update to v1.3.11 (#1074)
+64efaea6 Added changelog for 1.3.11
+f9904a50 Correct implementation of #1022 (#1048)
+2fc8c3ad Fix version upgrade for slave_pen
+ee4efd48 Set version flag
+98e94bb0 Italian Language Strings (Incomplete) (#1056)
+b56ee099 Bump Semver to 5.7.2 over security warnings (#980)
+92864c98 Gravity Well English localisation fixes (#1041)
+f8abb927 Enhance Korean translations (#1047)
+24650a46 Korean translation for TruePath (#1046)
+28b8efe7 Accessibility: all description links now show to screen readers as description buttons, allowing screen readers to go down long lists of buildings and queue techs 2x faster. (#1050)
+d270f7ef Major update PT-BR translation (#1058)
+8d28dfc5 Lots of minor fixes. (most are high population related) (#1062)
+95b20360 Fix arraak thralls and human thralls. (#1060)
+cc5fc6e9 Added queue styles (#1059)
+7161a33f 补充汉化 (#1067)
+d2126f15 typo (#1069)
+2e0fd2eb Automatically reduce build queue size as needed (#950)
+8b49e595 Add setting to auto-power all new structs (#1010)
+e5d6c079 Convert slaves into a normal resource (#1012)
+8d9abcf0 Fix priority inversion of DNA sequencer and build queues (#1023)
+05cee329 Merge branch '1024' into 1.3.11
+2a864c7f Adding accelerated time for time the system was suspended/hibernated, two bugfixes of accelerated time (#1030)
+1e4defd1 Fix incorrect display of additions for Aquarius sign (#1042)
+694a7761 Fix a variety of issues related to the Gravity Well challenge (#1049)
+3dfa83d5 Pet names properly check for species and string table (#1052)
+0fbf2115 Build cleanup (#1061)
+fe8740e4 Finalize 1.3.10
+9e3faec1 Set default queue style
+1fb4f315 Release version
+adcc3c24 Merge branch '998' into 1.3.10
+be7d085e Beta 5 Build
+4f308314 Display evolution path on Species/Races page (#1032)
+e2de2f79 Added Escape Velocity perk (#1040)
+eb9e4220 Added Escape Velocity perk
+f9371381 Rebuild game
+089364df Add missing dots to tech_*_effect messages (#1036)
+7c7433f5 Capitalize tab name (#1033)
+997582ea Scale jobs in Athleticism information (#1022)
+0456279d Add final cat name and update strings.pl-PL (#1028)
+cc823437 More English localisation fixes (#1025)
+7c374a06 Updated PT-BR translation (strings.pt-BR.json) up to line 2700 (#1026)
+ed98dcd1 German Translation for 1.3.10 (#1018)
+00548d3d 修复一个猫的名字 (#1015)
+62fee58d Fix breakdown for cultural centers during Aquarius (#1034)
+fed4fe3f Allow all non-Micro universes to improve Evolve Adept perk
+abad5638 Update package json
+306a58d3 Merged Stuff
+a94cfbd6 Merge branch '1000' into 1.3.10
+74593577 Update strings.pl-PL and add translation credit for Polish (#1009)
+930afc0d Miscellaneous string fixes (English) (#1013)
+f96addbe 补充汉化 (#996)
+53797a0d Resolve issue #958 (#1011)
+e41817ba Fix bugs with Moldling thralls (#995)
+55081313 Fixed cat name
+f535328f Format date as fixed-length string when exporting save to file (#1002)
+5b596eb8 Removes deprecated -x flag from less; adds csso tool for css minification
+95f71d95 remove debugger call
+6a3f2789 add bullet list style; position the list items inside to fit nicely
+b79aa5a4 works, persists, runs on load
+49e2f230 New appearance as default; next add preference; later add numbering
+28346f8c Add final cat name
+a8bde214 Updated strings.pl-PL (#994)
+bec6a576 New minor event: Pet
+b66238fd Rebuild bundles
+5ef79374 Disable "Form DNA" action if DNA storage is full (#975)
+64fc33f6 Add biome restrictions to cold snap and heat wave (#990)
+66ec3f97 Update PT-BR translation up to line 2409 (#976)
+d643446d use global unicode for up/down arrows in hell stats tab (#971)
+ac3ba022 add garrison info to hell tab (#970)
+856447f6 中文字符串再次调整 (#967)
+f3df3ae3 Fix for undefined custom breaking wiki list of feats. (#953)
+edde9f20 silence meta viewport bug, fixes pmotschmann/evolve#959 (#983)
+11e95d13 Added Polish localisation (#992)
+2a6c73c9 Merge branch 'master' into 1.3.10
+e38d951e 中文字符串微调 (#963)
+07e91c00 Updated translation up to line 551 (#965)
+48e8c373 Removed duplicate keys
+8f93b9e7 Merge branch '906' into 1.3.10
+9c7d8526 Rebuild Beta 2
+595f2aa2 ARPA: don't sometimes srSpeak() Javascript code for descriptions (#952)
+d84602af Get noble trait level when adjusting tax (#962)
+1459960e 中文字符串优化+调整+修订+新增#1 (#947)
+8f6979da Update Brazilian Portuguese translation (#957)
+1a4150d5 Update korean translation (#956)
+a3cc7b44 Bunch of fixes (#961)
+e4a3fd89 Gravity Well challenge
+f27dc7b4 Fixed achievement icons
+69cc2ad8 Set version to 1.3.9
+f5f90906 Fixed subtab cycling
+c62d7222 Accessibility: make achievements display their prestige level in a way that reads properly. (#933)
+feefd6ac repeatedly pressing tab selection key now cycles sub tabs (#941)
+d4be71a3 Avoid scroll-bars in build queue when possible (#944)
+71898166 Assorted English localisation fixes (#940)
+5359c4e2 Update strings.zh-CN.json (#937)
+70e14535 Update korean translation (#936)
+3c8a0993 fix #895 Bilateral Symmetry DNA bonus is not applied (#929)
+9310bd5a :bug: Fix quarantine not working while in firework event (#925)
+53a30e87 Update strings.ko-KR.json (#920)
+989006fb Update strings.zh-CN.json (#914)
+68f4b5f7 change stats->stats->mastery to show base values
+05285c0f Psychic passive fix
+186ed9fc Import prod
+9abfe579 Update strings.zh-CN.json (#913)
+e4aa640a High pop fix
+849d1184 Eldritch fixes and etc
+6475f8dd Added documentation on thralls
+25ef1237 补充几处汉化 (#909)
+3ebbb911 Correct revision
+5495589b Fixed mana costs
+c4204096 Witch Hunter mana cost changes
+5b908e98 补一个汉化 (#908)
+7425b1cc minor fixes
+86dd0a89 Fixed wiki errors
+0e3616a9 Fixed vulpine fathom
+ef7efdaf 1.3.7 Release
+6e7e16c8 Prevent lose of lodges
+57c00756 Murder tracking
+b5922ab3 Flag new challeges as universe exclusive
+0532b0d3 补充少量汉化 (#905)
+b7f979c1 Updated phychic trait
+a39e4379 Updated Equilibrium conditions
+4ea8757c Fixed more things
+5e5c1ce6 Fixed trashed bonus
+5d89c5f0 Assorted bug fixes Additional phychic powers
+76ca457c potential bugfix (#907)
+e4590e2c run build
+184da953 uninstall webpack
+42a8c8ef webpack to esbuild
+7236d183 Fixed farmer with servant code
+0f2154f6 Merge branch '892' into challenge
+4d829ac0 Adjusted living tool stone buff
+c650f427 Unfathomable compatability with Cata/OD/LS
+3af9ee54 More correct high pop wizard adjustment
+ca780107 Merge branch '903' into challenge
+955c1f72 新增部分汉化 (#902)
+7e991501 Added remaining eldritch traits
+f9cfc11e Fixed WH event messaging
+9d80ccce Merge branch 'pmotschmann:master' into patch-2
+81035ba8 More severe witch hunts
+91a84afe Fixed xeno race function
+3339cefa Spelling/grammar fixes for the new-branch content
+3ec89e57 skip Missionaries for Terrifying races
+a8ec0eef Fixed ascending bug
+6c4cdfa3 Fixed food bug with soul eater
+57706c8d Fixed power fluctuations
+67569f95 Eldritch tweaks
+6f804634 Living Tool trait More eldritch upgrades
+4967c307 新增部分汉化 (#899)
+75fc66b2 Unfathomable Raiders Psychic Assault
+6e91d199 Fixed duplicate thralls
+348f0e97 Fixed errors with new psychic powers
+d37ac5f1 Psychic Powers
+dc22bec3 Fixed unfathomable thrall count issue
+ae7fee9d Reorg hunting code
+e3d535be Fixed eldritch tech showing up outside eldritch
+b6d60d3e Added Shoggoth extinction achievement
+6d4f7ba0 新增部分汉化 (#898)
+3135fbab More Unfathomable Stuff
+8b398363 Shoggoth
+884abb51 Captives
+815b781b 新增/修订汉化 (#894)
+6ff7b5ca Cattle
+d8e8ca79 Mess of Ghast stuff
+a6a35a33 Eldritch boilerplate
+0d83b58b Alchemy crystal cost adjusted
+72e20d4f Fixed string typo
+eab04052 Fixed chinese soul cap string
+3b802249 Update strings.zh-CN.json (#893)
+7a9f2174 Witch Hunter reset & perk
+63173f05 Update strings.ko-KR.json (#891)
+194f682e 新增/修订中文字符串 (#890)
+eeb4494a Witch Hunter reset fork
+3b14f1d7 Power distro bug fix
+6c605ace Fix decay's resource colours being swapped
+a875e074 More Witch Hunter stuff
+a995ec8d Fixed Witch Hunter unlock check
+e2365bb5 Witch Hunting
+e16c4d54 Suspicion
+03ff1fc6 Rebuild Gamepack
+1fae63ee 新增中文字符串 (#887)
+cd17d6c6 yet more string fixes, ft. Bayer Process alt desc (#889)
+56c95579 Update resort building description (#888)
+4dec50e2 Additional Antimatter TP Dark Energy effect
+16f7a5b8 Balance changes
+07d1f298 New challenge boilerplate
+ea05ffaf 修订中文字符串 (#882)
+065adc2b Update strings.ko-KR.json (#881)
+2d096672 1.3.6 release
+92b03c68 Removed additional hellsim link from hell page
+eef276b2 Removed hell sim link from wiki Not maintained, too many changes to base game not accounted for
+a60f3010 Queue building error with launch facility
+54fa4051 Merge branch 'master' into 1.3.6
+f02426ee 更新中文字符串 (#879)
+d424f28c Reduced Lone Survivor Wireless sig needed for Contact
+0bf1f1c6 Update strings.ko-KR.json
+cbf85842 Smelter changes Astro tooltip update
+18c8b869 Astro Sign formatting
+afd9f500 Updated wiki entry on astrology
+39bfa180 Orbit Decay TP hospitals
+90856392 Added Motivated event
+2e446f52 更新中文字符串 (#878)
+f10954c1 Remaining astrology effects
+17924de9 a few more spelling/grammar fixes (#877)
+1618842b Astrology
+d8500b5f Egg 17 in Cataclysm made easier
+a5c5921b Egg Accessibility improvements
+cf512c77 Update Chinese Strings (#876)
+49f1a884 Fixed broken civic code
+06281b75 rush joke is bad
+e6de4ca1 Fixed altrace texts
+98163c76 Holy RPG
+cc6f1d71 Rebuild game
+5658984b case issue fix (#875)
+f034ad58 Real egg fix
+d1ab4f78 Fixed unlocking of easter feat with new eggs
+159b77a9 Update Chinese Strings (#874)
+6102b3c5 Chocolate Bunnies
+c441fa65 !.3.5 release
+0a8bb287 Update & Add Chinese Strings (#863)
+642da660 Update strings.ko-KR.json (#869)
+b8f23589 Fixed issues with preload tab content in early game
+cdcc77ad Assorted English localisation fixes, mostly for True Path (#870)
+5cfe796a Tau Ceti lang bug fix
+f11faa97 Added extra info to Flier wiki entry
+f9bfa797 Sky Lover trait
+a9aa48f0 Housing label enhancements
+9559b9e2 hide Omnivore from wiki Resolves #866
+d160b9f0 Fixed challenge gene selection
+23d61cf5 Fix strings
+f5372e1d full spelling/grammar/wording cleanup (#868)
+ad84f155 Refactoring some hooved code
+b5595e71 Avian hooved reskins
+945b0719 Fixed AI start with Flier
+e1e3cb61 Fix for Hooved Fey reskin (#867)
+4c9f3276 Isolation Wireless Storage
+d1ab2ae0 Skip cement req for flier
+a3197d25 Avian Flier trait
+b1d34dfe Fixed names of planets in power grid Resolves #865
+b4bc2186 Fixed dreadnought power consumption Resolves #861
+1f3d5ee3 Prevent power distribution issues
+5a50415c Update strings.ko-KR.json (#862)
+24e0670d Added restore point when picking isolation
+4d926cc4 Update strings.ko-KR.json (#859)
+63846a24 Fixed type in changelog
+b3dc2a53 Merge pull request #860 from pmotschmann/1.3.4
+7e257fdf 1.3.4 release
+601ca8b1 ZH-CN Translation Addition & Revision, and ZH-TW Synchronization (#856)
+9e285690 Merge branch 'master' into 1.3.4
+759d0cbf Release skilled servants
+d662fa6b Boosted isolation extractor ship/ore refinery output by 20% Locked down Explorer ship components
+4345b1d7 Sandals
+0a3d3114 More Hooved reskins
+44fe8677 Update strings.ko-KR.json (#858)
+91fa3233 Simulation is now beta only
+6f5d1ae9 Simulation open with beta flag
+899c5084 Fixed some preload tab issues
+22fe2794 Hooved stuff
+9d8a0433 Merge branch 'master' into 1.3.4
+aeb4fe4c Fixed config issue with home region of space for new players
+b402528b Do not create backup restore points while in sim Refund goe costs for backup restore
+c6d8e874 Simulation Starting State
+15461271 Basic Simulation Config
+68d5c576 Simulation Exit
+eb02f68e Basic Simulation
+70cf145b Fixed fuel calculation issue with power plants Refactored Coal Power plant into fuel usage loop
+f6475cee More ZH-CN translation & Revision (#855)
+4b5342df New imitation code extended to work with customs
+0004ceb0 Fixed lone synth evolution
+4d07d8ab Synth Evo Changes
+9f8ed2c9 Updated patch notes to be less vague about hell changes
+c7c2be38 Fixed issue with chinese lang file Resolves #854
+46c2896b Update strings.zh-CN.json (#852)
+5acc94c2 1.3.3 release
+df28b67a Updated Mass Ejector gov task
+b51eb821 Lone Survivor Hivemind fix
+2562060e Bump version of webpack
+59b1af16 Do not apply racial traits to servants
+46bcfbb7 Some ZH-CN Addition & Fix (#849)
+9088acc6 Annihilation Icon fix
+3a0e84ad Squashed commit of the following:
+859c28cd Fixed another governor replicator issue
+1a000d34 Fixed various bugs in beta version
+b3b1d614 Lightning Icon
+25cf2cb5 Add detailed requirement information for partial space buildings (#831)
+ee6fc702 Antimatter Replicator
+f8d4e8b5 Soul Gem overhaul
+b99dffbb Added wiki section on multiplier stacking
+9bea77f5 Zh cn translation fill (#842)
+f3c90898 Fixed preload cataclysm
+b6c402d5 Smoldering Rock Quarry fix
+0fa5c5db Added revision tag
+d03c0e48 Adjusted hell patrol drop rate
+f802e7db Updated change log
+3a132743 Blocking Resources & other ZH-CN addition (#840)
+e4dc7e72 Added Chrysotile to Isolation
+c61e2ca5 Fixed replicate gov task swapping resources without caps
+522de80a High tech factory crafting changed again
+26f40ece Hell Shakeup
+108a5fa3 Fixed Catacylsm reset
+203ac4e1 Added Alien Crafting to Isolation
+d56f9d9a Fixed issues with fuel consumption
+93de92d6 Fixed calculation issue with trash task
+84981501 Added margin to bottom of old tach page
+5f2d19d5 Safer adjust costs function
+9ada50b9 Stopped self replicating synth & nano
+a0d98703 Fix resource check for HellArmy
+9854e9b4 Merge pull request #838 from LoveBodhi/tiancangwu-translation
+22980092 ergerg#$%#$
+0991e3de Fixed buying cripsr in antimatter
+1d7f0469 Merge branch 'pmotschmann:master' into tiancangwu-translation
+36949d97 Fixed typo in blocking resources documentation
+ecd32ff8 Merge branch 'pmotschmann:master' into tiancangwu-translation
+55a9c8b9 Merge branch 'master' of https://github.com/pmotschmann/Evolve
+a103259f Fixed issue with mass ejector governor task
+850afc0f Update strings.zh-CN.json
+bea53de7 Update strings.zh-CN.json
+c19d0c3e Update strings.zh-CN.json
+46988014 Merge pull request #837 from LoveBodhi/tiancangwu-translation
+aeba8a7c Typo Fix
+1a15c2cc Update strings.zh-CN.json
+79262376 Update strings.zh-CN.json
+bf80ef10 Fixed typo in string file
+83ddcce6 Update strings.zh-CN.json
+a2c2fbe3 Update strings.zh-CN.json
+50e43943 Fixed wiki issue with pathfinder
+49140494 Update strings.zh-CN.json
+905d839f Update strings.zh-CN.json
+2f22e980 Update strings.zh-CN.json
+896d9aec Fixed AntiMatter universe
+fa694edf Update strings.zh-CN.json
+c68d9cb2 Update strings.zh-CN.json
+fde4e40e Fixed spelling in change log
+9c1682b5 Merge pull request #835 from pmotschmann/tauceti
+cc14da56 1.3.0 Release
+7b519530 Enhanced wiki Pathfinder tooltip
+952a1d64 Merge pull request #834 from malconsilveira/patch-1
+e6a36726 Merge branch 'master' into tauceti
+2c04f4fc Replicator gov changes
+0e3a27cc Fixed importing of old custom species
+1cd17f65 Fixed arpa queue timer
+6659aac7 Prediction Q Timer enchancements
+aee2e1f8 Cloning adjust again
+c2bcb60b Adjusted cloning costs for high pop
+c1e5df00 didn't save string file, yay!
+010c0e90 Fixes for LS and Cata with preload tab content Other stuff
+5d947d5c Fixed a syntax error in the line 139
+d477b9f0 Update up to 151 line to PT-BR
+fbb85926 Updated the entries up to line 117
+2b929380 Lone Survivor plant mimic fix
+51d9861d Merge branch 'master' into tauceti
+7d99edcd Fixed Tau Ceti tech progression
+2bc220b8 Rep Gov power polish
+f5e9624c Fixed starting issues with some species in lone survivor
+a54225ed Merge pull request #833 from malc7/master
+cecc8289 Refactored new struct power on code
+10cd897c Update translation up to line 98
+fd80613a Update: new entries up to line 30
+6e6297ef Fixed pylon mana cap
+70525920 Pylons added to Isolation
+7288340a Polished Precognition feature
+dcb1aad0 Bug fixes
+0ea4befa Fixed missing import
+0557bc73 Precognition
+7d5b749e Merge branch 'master' into tauceti
+ad2ce081 Merge branch '825'
+d457a899 Refactors government code Buffed most governors Lone survivor only unlocked by Retirement Matrix now unlocks unimplimneted simulation mode
+bf4c794d Fixed some flavor stuff
+d76e21ce Timetracking fix for none positive production
+5f0841e0 Replicator modal improvements
+7bf35f5f Merge branch '830' into tauceti
+a1188877 Removed modal dark background effect
+2379b88d Fixed geo deposits on reset Replicator gov task changes
+d6d73a46 Wiki Tech Logging
+dfb4297c Replicator Gov Task
+43ffe140 Made womling lab wiki safe
+79823078 Syndicate + TP Ships Wiki Entries
+2cfe9a80 Code Transfer
+6d0eacf0 Fixed reset tracking on Eden and Retirement
+86f7698a Polished Matrix and Retirement resets Added servants to wiki
+afbba76b Fixed lone survivor progression
+169b43ea Updated wiki with various 1.3 entries Added perk for Adam & Eve achievement
+3d6ed946 Fixed various wiki issues
+49e741b9 Blood Stone and Artifact refactor
+ccbf9925 Eden Reset
+4441b716 Genetics stuff
+f989344e Fixed Genetics in Lone Survivor
+03e20c5f Fallback job for Servants
+e6e9b643 Lone Survivor path to the garden
+9a4525ed Less terrible replicator UI
+9f43fbb3 Lone Survivor adjustments
+52b0ae21 Womling contact
+f9b85dd4 Matter Replicator
+6d7c0459 Update strings.zh-CN.json
+07250406 Update strings.zh-CN.json
+8666b931 Update strings.zh-CN.json
+3340ea3b Rough setup for Lone Survivor
+5c14772a Fixed servant tooltips
+4bd4e756 fixed import issue
+82f4e9d6 servant adjustments
+716133d1 Update strings.zh-CN.json
+b7e53382 Update strings.zh-CN.json
+022c3de6 Update strings.zh-CN.json
+7cd67196 Update strings.zh-CN.json
+7ca644a1 Update strings.zh-CN.json
+f6287fbf Update strings.zh-CN.json
+b79b0d67 Skilled Servants
+99e2dde9 Fixed servant scavangers
+720c12b4 Fixed dismantling bug
+1e3d9bd1 Retired Achievement
+e02e1fed Retirement
+6ed9c120 Matrioshka Brain
+4c8e403a Tune translation
+448a454f basic alien data techs
+913b2b5d Alien Space Station research
+b5c96bd4 Improved overlord wiki description Now tracks tasks for completion
+5e5091b4 low usage tooltip updates
+87715d85 Power Balancer v2
+7ad2389a Low Power Balancing mode
+2908f57d Update strings.zh-CN.json
+ed475469 Update strings.zh-CN.json
+fd04e45a Fixed iso queue clearing
+71d38977 Alien Space Station
+75d4e1d5 Code cleanup
+bfb63c43 Servants
+08815b2f Update strings.zh-CN.json
+292882ce Update strings.zh-CN.json
+b2d62a53 Update strings.zh-CN.json
+3a0a37b2 Tau Gas2 unlock
+43ad70c4 Update strings.zh-CN.json
+7be5096d Added Overlord perk
+2793712c Added Pathfinder rank 4 perk
+61fa3341 Cultural Center and Womling Recycling
+d8844028 Extra info on womling farm
+741dba84 More varied gas giant names
+a5fdab19 Fixed preload issue with dismantle
+03e8e994 Improved resource indicator to work with alert resource
+69a7d9fb Refactored overlord stat tracking
+d757ea29 Queue blocking resource indication improvements
+6489220f Added Overlord Achievement
+02f47734 Fixed tech keys
+db5574f2 Added Matrix transition effect
+2813040a Prestige storage refactor
+64c5c1d8 Sensor changes
+310d8ba3 Cost Adjustments
+f588394a Matrix Reset
+acc961ff Ringworld
+9982f3fc Some vaccine tweaks
+cf157899 Basic Cloning
+d56f7d50 Vaccine Strategy
+e46f399c Quanantine progression changes
+28b4e462 vars code refactoring Decode Virus
+ee7fbddc Fixed s_max error with tau.roid
+6ac439f6 Fixed more isolation issues
+afd01364 Fixed bugs with unlocking ship tech & tauceti
+a836edbe Fixed loadTemplate logic for tauceti
+fbe72cdc Added Encrypted Data to isolation fixed import issue with nf_resources
+6a7068a2 Updated Vuejs to 2.7.14 Updated Buefy to 0.9.22
+75e6bde5 fixed e_reactor description error
+99c9f436 Some code refactoring
+796cc95a Isolation fixes
+ba8604db Removed Fusion Generator as a support structure Refactored power generation code
+334c4fee Gene mutation fixed in Isolation
+a0406738 Outpost Boost
+f0d80665 Added Pit Bosses Fixed additional bugs with TP
+fe1484fb Fixed missing reference error
+feba82b2 Isolation balance changes
+b0e4976b Remaining basic isolation properties
+fb2f36b8 More Isolation stuff
+b3ca90cf Update strings.zh-CN.json
+61d99e47 Isolation Code
+403a2fe7 Jump Gate shutdown, rough cut
+eddb85fc Ore Refinery and Whaling Processor functionality
+7e07f9d9 Infectious Disease Lab
+ffa73c87 Minor tweak
+63b7b46e Remove some ENG strings in CN Translation
+5dbd0794 Minor polishment
+429f1346 Remove ENG translation of feats
+f95d3dfc Symbol tuning
+3ff7ce46 Polish translation
+adf10a6a Remove one ENG translation
+cbf1ed8a Update strings.ko-KR.json
+aa9eb52c Translation Fix 2
+b6e4fb8c Update strings.ko-KR.json
+6a4ee242 Merge branch 'master' into tauceti
+089416ec Merge branch '823'
+92bbb02c New translation
+dc5e6543 Update strings.ko-KR.json
+4ba275ee Translation minor fix 2
+561bb66d Update strings.ko-KR.json
+213eb354 Minor fix
+d5bd7aac Merge branch 'master' into tauceti
+cce8a706 Added missing fragment to Korean string key: wiki_perks_progress_note1
+44cf8b4e Updated patched notes
+058a9213 Merge branch '807' into 1.2.21-2
+bf343da7 Merge pull request #821 from An9e/patch-4
+1e416f5e Merge pull request #820 from LoveBodhi/patch-1
+c6bbc828 Update strings.ko-KR.json
+b21fbe8f Update strings.ko-KR.json
+2690ae5c Minor fix
+1179f75c Merge pull request #819 from An9e/patch-3
+4292fee2 1.2.21 package stuff
+5f77694e Update strings.ko-KR.json
+b603b33d Merge branch 'master' into 1.2.21-2
+87d5d5fa Cleaned up chinese lang file
+65d1efd8 Merge branch '812' into 1.2.21-2
+509b4049 更新“团结”特质的信息
+864fd682 Update strings.zh-CN.json
+f9d6d449 Update strings.zh-CN.json
+1079605d Update strings.zh-CN.json
+75476d22 Add retrograde CN translation
+2a73441d Update strings.zh-CN.json
+e9383898 Update strings.zh-CN.json
+a6990e76 Add orbital Decay
+55ceec27 Update strings.zh-CN.json
+01132718 Update strings.zh-CN.json
+97527dde Update strings.zh-CN.json
+f007dadb Update strings.zh-CN.json
+ffcca5d2 Update strings.zh-CN.json
+0f2e85c7 Update strings.zh-CN.json
+7895d515 Update strings.zh-CN.json
+769b2998 Update strings.zh-CN.json
+9aa86238 Update strings.zh-CN.json
+d7e112b6 Update strings.zh-CN.json
+500ec634 Update strings.zh-CN.json
+d362053c Update strings.zh-CN.json
+8c23f1ac Update strings.zh-CN.json
+603d9904 Update strings.zh-CN.json
+69ace4c3 Update strings.zh-CN.json
+5eae808b Update strings.zh-CN.json
+37b86df6 Bump qs and express
+be49d811 Fix tyop
+7c94ece6 Merge pull request #813 from fredden/tyop
+321a5496 Fix tyop
+918cdd22 Create strings.zh-CN.json
+564b6fd9 Fixed bug with Completed/Incomplete achievement filters
+1e241da8 Added Language strings for wiki achivement filters
+066de336 Added Completed and Incomplete filters for achievements in wiki
+6b1379a8 Added Obtained and Missing Filters for achievements in wiki
+bf05137f ZH-CN String Update
+aad26479 Merge branch 'master' into tauceti
+6a6b646b Supernatural string fix
+2101f643 Merge branch 'master' into tauceti
+82e22f52 Fixed andromeda bug with custom race data
+5c645893 PlanetName refactoring
+064fb151 High Tech Farm & Factory
+5050cbb9 Fusion Generator fixes
+9d0f48c8 Refactored Garage code
+eed80d48 Repository of hording stuff
+b55193ea Quarantine stuff
+fd198ef2 Merge branch 'master' into tauceti
+daed2b7f finalized patch notes for 1.2.20
+623bd27d Accessibility improvements for challenge gene selection
+a68aa617 Added wiki info about homeless
+86d577de Set beta status
+cc048e8a Homelessness tweaks
+a16e35c7 Merge branch '799' into 1.2.20
+9c97ed14 Imitation fixes
+cbec6a47 Reusing human resources
+d166b787 Merge pull request #796 from Vollch/fixes
+64de3f95 Generic resource purging
+f1091277 Fixed color of resource diff during decay
+8e7f2515 Bug fixes
+65bfa3fd Asteroid First Steps
+e997116e Finalized Grandmaster Perk
+8b7eed78 Evolution bug fixes
+d5ca232b Merge branch '797' into tauceti
+920651f0 Refueling Station
+e37d3058 Removed addRaces
+a10ae096 Improved evolution migration
+631cc57c More refactoring of evolution code
+293f453e Refactor of Evolution code
+cb5f2069 Womling FirstAid, Logistics, and Repulser Pad techs
+bf996045 Womling Tech Leveling
+3dddb0ad Womling Lab Refactoring Crate/Container string code
+e7198c06 Womling Village basics
+606c5606 Womling Village Framework
+c68d03bf Updated power grid for Tau Ceti
+f568a532 Jeff
+34b24c57 Enabled Tau Ceti sections in Wiki
+1f12b824 Fusion Generator
+637fad63 Jump Gate transition
+302575e1 Jump Gates
+4e10989b Materials
+e2944942 Dismantle Explorer Ship
+6a15816d Initital Arrival stuff
+20e5f3e8 Merge branch 'master' into tauceti
+305f0730 Moved spc_home to spc_moon in Cataclysm
+1e550029 Merge branch 'master' into tauceti
+560c179e Fixed deactivation of space structures that consumed fuel when fuel ran out Resolves #714
+38b8ca87 Planets for everyone!
+baecdd81 Buffed Star Forge as fuel source
+ac7c474c Default production for Stellar and Infernal Forges Resolves #719
+9988f403 Repeat gov tasks will no longer show as an option. Resolves #793
+25d65d68 Added trait scaling effects for: Carnivore, Hooved, Leathery, Unified, & Magnificent.
+0b9bca10 Applied previous Home->Red merge logic to Cataclysm
+3e016243 Merged homeplanet space structs with red planet in orbit decay
+a5ec908d Fixed ARPA Queue
+f6fe6298 Fixed hooved skin bug
+0882fa55 Finalized 1.2.18 patch notes
+e5af5c66 Fixed issue with TP loot Hooved flavor skins
+1bc0802c Optimistic fine tuning
+05537e60 Res Timer with Gov Trash task adjustments
+5068f68f Merge branch 'master' into tauceti
+c8bbad44 Cheese event is now extra cheesy
+933a9521 Moved HP healing bonus
+de867324 More refactoring of HP code and Genetics
+bfd5da9c Refactored genetics code high pop healing scaling
+c85122d2 1.2.17 Patch notes
+3150f650 Merge pull request #788 from Beorseder/Bugs-Bugs-and-Wiki
+42fa9b05 Spy Mechanics Entry + Quantum Level Calc
+f6d93358 High Pop FIxes
+ebb7ab30 Misc Fixes
+fa36afcf Merge pull request #787 from Beorseder/1.2.17
+5ba52b6e Hell Observation Update
+58464b8a Merge branch 'master' into tauceti
+fc67555e 1.2.16a notes
+4289aeb1 Merge pull request #786 from Vollch/fix
+078f9b32 Launch facility removed from queue on build
+1b757e92 OD fixes
+1ec608a3 Fixed soft reset save bug
+8d8241bd Fixed ascension bug
+5ec1f306 Fixed bug with no c species in wiki
+e5ff1fe4 remove debug
+fd0f137e Last minute fixes
+0aec57c2 Updated OD related wiki entries
+5d1a2ed0 Can use GECK with Blackhole Added Star Dock to wiki structures
+627d1a41 Bunch of OD related changes
+bf6dd5e5 Fixed new game issue with custom data
+7a859c0a Potential release version of OD
+a45cc29a Biodome bug fix
+4877ce91 Nanite Factory region fixes
+9233a988 Proper Flare planet name Added some food storage to OD TP Biodome
+ea805d9d Updated Flare event code
+3b1afdcb OD bug fixes
+52475da5 Fixed morale displayo
+58e26b91 Rejuvenated Effects
+075912b2 Planet gen bug fix
+047a5586 G.E.C.K. And stuff
+35d4b07a Saved planets are now 1 per universe
+f9379f99 Merge pull request #783 from Vollch/odfixes
+4aed4c90 Moved titan unlock to long range probe tech
+d276bd98 More OD fixes
+c30a400c Fixed manual food gathering
+fc30b539 Geo UI refactoring
+b054b244 Minor display fixes
+2e98a2d4 Fixed zigs and priests in OD TP
+6b97afff Refactored some tech code to use post method
+7820dea9 Merge pull request #781 from Vollch/map
+efbb0a79 OD Fixes
+1d7ded98 Solar map
+d5811bbd OD wiki polish
+e80df75e Removed debug from space.js Fixed incorrect plant store key
+1b0280d4 Revamped saved custom planet system
+7329ec75 Persistent custom planet option
+6d8176dc Fixed bug with university and piracy Rebalanced Broadcast Beacons
+29939361 Crafting OD reward fix
+fd5dc357 Various orbit decay fixes and adjustments
+bd1adb82 Merge branch '779' into decay
+c6931f20 Added missing terraform defination
+e841d397 Regenerate package-lock
+2f47160a Added wiki entries for Orbital Decay
+a694654f Update wiki.css
+8bf259c3 Update wiki.less
+1f85cacd spite
+ca1bf62a Decayed Pylons on moon impact
+5d06d5fb Orbit Decay countdown timer
+0d6859e0 Orbit Decay fixes
+10c67ee7 Merge pull request #773 from w-e-w/master
+15705997 Merge pull request #776 from Sploopo/master
+648f83e1 Merge pull request #775 from Vollch/qfix
+b6260a2b missing colon in multiple tabs warning
+e374b1ac Fixed a single capitalization error
+3f27118a Prioritize first target even with no queue order
+16e1d610 Decay TP support
+da8984e8 Terraform reset
+49cf629a Merge pull request #774 from Vollch/prom
+496e70d2 Synthetic promiscuous
+baa5006c Rebuild bundle
+d30e18d6 Merge branch 'decay' of https://github.com/pmotschmann/Evolve into decay
+7c820e63 Planet Generator
+83ffcf32 add translation zh-TW
+609d741a Merge pull request #772 from Vollch/escan
+e54c3a3b Merge pull request #771 from Vollch/imitation
+c10e5ce7 Fixed eris scanning
+d5ad34c2 Imitation fixes
+eb5b2336 Merge pull request #770 from Vollch/arpafix2
+cad638d8 Skipping queued unaffordable ARPAs
+45dfba60 Decay fixes
+1f402559 Merge pull request #769 from Vollch/fireworks
+1e9492bb Queue fix
+c100f749 Soldier training in orbit decay
+b4f3a4c4 Fixed issues with Red University
+ba12deda Fixed geothermal issue with orbit decay
+e24da357 Merge pull request #768 from Vollch/arpafix
+34e9a396 more zig fixes
+7b2c23c1 fixed no zig error with professors
+833f62d5 Queueable slaves, and some fixes
+33c80c62 orbit decay craftsmen
+f447f856 Satellite synergies in orbit decay
+7e07df0b Merge pull request #767 from Vollch/arpafix
+4f1c9a7c Queue refactoring and fixes
+73f5a2c2 Worker adjustments for Orbit Decay
+e2ae1cfb Fixes for special buildings after orbit decay
+8e75d67c Better dead then red achievement
+132a65ea Merge branch 'master' into decay
+498b8864 update some out of date strings
+8dd32dc7 Fixed critial new game bug
+c0e63ee0 Fix typo in patch notes
+18b28680 reorder patch notes
+bcc0a2be Merge pull request #766 from pmotschmann/1.2.15
+a0ad69d9 rebuild
+4c7545a6 Merge branch '765' into 1.2.15
+5c69aac4 1.2.15 release
+fea5621f Bunch of fixes
+5bd7347c Merge pull request #760 from ezeoleaf/master
+2c4492af Merge pull request #761 from garygruener/patch-4
+caf6b8bc Merge pull request #759 from azzzertyy/master
+ce1782c1 star travel
+f8a92fe4 Update strings.ko-KR.json
+1a4c728e update strings es-ES file
+8ab3d156 update strings es-ES file
+43edf100 fixescomment
+ff906b37 dracula
+8fc0ff9c 1.2.14a notes Some minor bug fixes
+336f0bca Merge pull request #755 from DSLM/patch-4
+1e34a072 Fix easter wiki bug
+3fc98b0b Merge branch '1.2.15' into decay
+ae8c6342 Merge pull request #729 from jacob-keller/jk-fix-aquatic-term
+87ac0d7d Merge pull request #748 from DSLM/patch-2
+0770874e Merge pull request #734 from garygruener/patch-1
+32b17773 Merge pull request #737 from garygruener/patch-2
+1e16bf81 Merge pull request #749 from DSLM/patch-3
+ef9814a2 Merge pull request #750 from ARudiuk/patch-1
+f483241c Merge branch 'master' into 1.2.14
+d24c9fbc Small spelling fix in strings.json
+a0a1fa10 Update strings.zh-CN.json for 1.2.14
+4c083064 Add more detail to the export file name
+b2665056 1.2.14 patch notes
+c04f669b Bugs and Wiki
+98da23cc Fixed restore check setting
+5ba977d8 Merge branch 'master' into 1.2.13
+4bf0ee53 Restore Backup requires double click
+51afaa69 Merge pull request #739 from SleepyAnge/patch-2
+e5a58291 Merge pull request #736 from DSLM/patch-1
+c38e26e5 Merge pull request #735 from sirspect/patch-20
+0c818a74 Orbit Decay Very buggy, much work needed
+7cf77e80 Update strings.ko-KR.json
+04949867 Update strings.ko-KR.json
+27176177 Update strings.ko-KR.json
+089754fd Update strings.ko-KR.json
+e77cabe4 Update strings.zh-CN.json
+93a46465 translate all governor name(KR)
+f7a8c5b0 translate governor(KR)
+db21c0e8 Merge pull request #732 from Beorseder/korean-fix
+989f9778 mistranslation patch
+d7de2ef3 Fixed Korean Translation
+2e6601ab Merge pull request #728 from sirspect/patch-19
+e79aa254 Fixed double density achievement
+26e88636 use Aquatic consistently
+6ad5f8ef modify typo
+ffe392e7 translate new planet
+3adffabb Fixed mech inferno upgrade not skipping unaffordable mechs in list
+cffaee0c Fixed typo
+712abef7 Fixed swamp attacking bug
+6a021b47 Merge pull request #727 from atikin19sh/ru-RU-1
+47f5f6d8 Planet trait bug fixes
+203d32df Updated translation (ru-RU)
+3baa7d60 Updated swamp effect 1 description
+ec9b33cc Added permafrost planet trait
+3315a740 Taiga modifiers
+85d66a93 Swamp modifiers
+db942fd4 Prevent old saves from discovering vault if already opened
+602eca6a Added mass to water Savanna adjustments
+ab119a35 Advanced Biomes and Multiple planet traits
+4d1c9487 Vault must now be discovered by archaeology
+95634b7f Uprank exotic mats in ejector task Resolves #643
+0a95444b Fixed potential issues with removing imitation
+ff287263 Merge pull request #723 from atikin19sh/ru-RU
+5f951b8e Merge pull request #722 from sirspect/patch-18
+765fd66a Update translation ru-RU
+f8f4e301 Update translation (ru-RU)
+fc1ea9b8 modify typo
+6b530e0c Translate wiki_mechanics_mastery
+8233ba6e Fix the ru-RU translation
+7204f71a translate Gameplay
+516b45e5 modify wrong information(KR)
+67b96987 translate all planet achievements(KR)
+7e1989f6 translate all Genus achievement(KR)
+77dfb7fc translate all FAQ(KR)
+cbae0d39 Update russian translation
+9c02bec3 translate all traits Additional explanation.
+dc0220ab Updated credits
+e66af161 1.2.11 patch notes
+8372bc58 Merge pull request #721 from Beorseder/1.2.11
+2cd58601 Calculator Updates, Minor Bug Fixes, and Info
+ea6cd46d Fixed trait skin function
+8c0a914b Merge pull request #720 from sirspect/patch-17
+a9e9ff25 modify wrong information
+9b8ff3a9 Merge pull request #718 from sirspect/patch-15
+f88f970f Merge branch 'master' into patch-15
+88ee2142 Merge pull request #717 from hanziKR/master
+fbad594b modify typo
+c3775ea9 modify  adamantite
+fd09ea8b modify typo
+3099b066 modify typo
+0604897e modify typo
+fc4701cf translate
+f3ff1652 modify more typo
+cc4b33e5 modify typo
+7308eb40 번역 6차
+ef181a33 번역 5차-수정
+60a1c734 번역 5차
+39ab1ae7 누락된 데이터 추가
+01fb706f 업적 번역 4차-수정
+a8f6bac9 업적 번역 4차
+6a191582 업적 번역 3차
+7d45d7a2 업적 번역 2차
+d13354b8 업적 번역 1차
+828f5563 Fixed syndicate labeling on eris
+0b89dc05 Fixed Savings Bond + High Pop interaction
+497fdae2 Disabled resource trading while game is paused
+548bc33d Truepath Bioseed probe creep
+bfa754ca Merge pull request #712 from sirspect/patch-14
+4b055901 Merge pull request #710 from Vollch/fixes2
+d12b13b5 Translate all achievements species(KR)
+47bd117d Bugfixes
+0343ba7b Fixed spy caught logic
+fe8f2dc8 trait skinning logic
+5790df4a Fixed spy caught logic
+7fac74f2 Fixed some issue with new genetics lab
+641d7e07 Trait desc cleanup
+23836b11 2nd 1/2 of Gentics lab update
+56c5cae6 Merge pull request #704 from Vollch/desc
+c1eda670 Trait scaling descriptions, and some fixes
+c97a6cc8 Genetic tab UI reorg part 1
+806c9e28 Spy fail mechanics updated
+adce6f9d Fixed pre-eletric miner string Resolves #701
+eef180d8 Merge pull request #689 from DSLM/master
+539c6fbe Merge pull request #700 from sTo1212/patch-5
+f0e5a710 Merge pull request #702 from Vollch/fixes
+e27c4923 Mutation fixes
+c2336f1d Update strings.ko-KR.json
+a71dac43 Added scaling to High Pop anarchy
+b2afb7e2 Lowered Wireless Signal cost of Symposium
+8c0ac036 Merge branch '695'
+03268048 Fixed Farmer per farm scaling for HP Adjusted HP Hivemind
+1c56f14f change for 1.2.8
+18722e74 Merge branch 'pr-1/pmotschmann/master'
+1d29545a Revert "Merge branch 'pmotschmann:master' into master"
+b59c5f48 Merge branch 'pmotschmann:master' into master
+fd6d9e23 translate(KR)
+69c3cdfe Fixed Korea lang file
+12a89711 Fixed hivemind trait description
+db74d92e Fixed prestige calculation
+8b2b519d Minor carport string refactor
+74fe83a8 HP Scaling for War Droids
+b58bf2d6 High Pop TP fixes
+b7438c48 Added footnote to High Pop wiki entry
+9f35221d Sappy High Pop adjustments
+7193bc3d Fixed return error
+adbf8f19 High Pop Armor changes
+4b78b626 Updated Bireme warship for new mil format
+ab94bb79 High Pop Soldiers
+ce280ca5 Merge pull request #693 from DSLM/patch-2
+c500245d Merge pull request #692 from sirspect/patch-7
+5915d27e Merge branch '1.2.8' into patch-7
+12eefb19 High Pop Colonists
+7eb2c2e1 Fix iridium smelter popover
+fa73c248 modifi
+491e4b8e Fix the display of lazy
+ec360c3a translate all races&event
+3b50d9c8 Pillar counts
+06aaaa40 Fixed Hyper and Slow time calcualtion bug
+f61948a7 Hivemind + High Pop interactions
+57859310 Many High Pop trait effects
+4b01c68a High Pop crafting
+883e1d5b Merge pull request #690 from sirspect/patch-6
+1595086e Merge branch '1.2.8' into patch-6
+2f23288d Merge pull request #688 from sirspect/patch-5
+608cd12b Merge pull request #687 from sirspect/patch-4
+b3f6fbfa Merge pull request #686 from DSLM/patch-1
+8e04bad1 translate races (KR)
+79600edb High Pop trait, rough cut Lots more work to be done
+7bc56e0d Translate races
+26b4c03b Merge branch 'pmotschmann:master' into master
+10c1e0bf Show the full description of traits in arpa and custom lab. Move some functions from "src/wiki/species.js" to "src/functions.js".
+7229aff0 Fixed changelog date
+becb04cd Add and translate above average
+6122769c translate event&creature planet
+706c650a Fixed aluminium bug
+60541376 Fix the base of iron ship
+a1deb47c Fixed standard storage
+eeb61a73 Added wiki description for slime lord
+9f21f8f2 Slime Lord Genetics lab fixes for Sludge
+3c1d0abe Rebuild game bundle
+8217c146 Merge pull request #685 from DSLM/1.2.7
+5246da08 Merge pull request #684 from sirspect/patch-2
+685ff694 Fixed problems with sub resource effect labels
+ff9b0eb2 Update strings.ko-KR.json
+fcbf26bc Fix the bases of copper and titanium from red mine.
+030524aa Update strings.ko-KR.json
+f370a746 miner event
+1861c4bb Lemon Cleaner perk
+89f65803 Governor sludge beakers
+bcf6e6d8 Updated wiki challeng entries for GDE and FE
+24e9b65f Fixed antimatter wiki bug with intergalactic tech page
+7bcd0b44 Ooze trait removed from ascend lab
+01c61487 Ramped up ooze stank
+7e5dead1 Added uncommited ooze change
+79195041 Changed 3rd ooze effect
+b3d42efa Merged zig patch Resolves #539
+181310d5 Merge branch '677' into 1.2.7
+580e6503 Fixed smoldering loot bug Resolves #680
+d68d82dc Gross achievement
+28d8e5c8 Sludge updates
+ef2e4aca Added Failed Experiment to wiki
+32b9c1ac Sludge
+36c3562a Show ziggurat bonus in hover display
+14e45c12 Fixed immoral bug
+b4b5a9de Fixed tab switching issue with preload tabs
+1382a5d4 Fixed issues with synthetic evolution and some traits
+8c4ce0e3 Updated holdiay gift wiki entry
+9640706d updated 2021 holiday gift
+fd04e46b Fixed geology loss on AI reset
+3db9d7a0 updated game version tag to 1.2.5
+894a36e3 Merge pull request #674 from Vollch/trailfix
+a8b6a9f3 Merge pull request #673 from DSLM/master
+4a862e14 Ship trail fix for elliptical orbits + ships speed displayed using km/s
+9682a95f wiki species page updated
+5075d9fc Fix the display of scavenger on trashed planet.
+4fbedc9b Trait ranks in genetics tab
+c8d74800 No red mine amber in cataclysm Resovles #668
+220368ba Overhall orbits, again
+c7927295 Elliptical solar map orbits
+d067380a Fixed spelling of increased Resolves #667
+b2a69e53 Fixed used count of containers
+a0bf3fa6 package rebuild
+4a467404 Merge branch '670' into 1.2.4
+b9445d5a Random fixes
+64e09106 Display those building offered crates and containers
+d466182f Fixed Snowman reskin
+5f6325d1 More festive races
+ad4595dd Expand Festive Season event
+d76be7e8 Fixed string errors and stuff
+36773495 Label only planets on solar map that are visitable
+3b227e91 Fixed graphene plants showing in industry tab for truepath
+50cb23f6 Added wiki entry for Holiday Elves
+54828140 Load wiki without game data
+2140f454 Fixed indoctrination bug without faith
+169e0812 Syndicate Intel data improvement
+0448ef26 Smelting metal shuffling Resolves #665
+469d958c Fixed planet section of wiki
+6f5e0a14 Fixed Bad/Weak gene toggling bug
+10d1cc44 Fixed power on of AI Core
+0bbc893a Traits ranks added to wiki
+0e345f8d Fixed composting bug
+cd76c300 Fixed Befuddle bug
+e01d9920 badgenes now uses setTraitRank function
+f656f21e Fixed plasmid storage bug
+ddf62436 Mobile switch
+1d6e448f Updated Solar Map
+2237e065 Fixed some types in changelog
+0c6f125b Map tweaks and additional scaled traits
+1b0f6458 Merge pull request #661 from Vollch/fleet
+006ecb8b Map fixes
+77add368 More trait scaling
+00c1bf81 Powered Citizens now discharge
+4dd1714d Digital Ascension Feat
+216d88b7 Excess Securty reports
+74c92936 Smelter UI changes
+a77fe087 Artifical Cataclysm fixes
+b939df42 Heat+Plant Chrysotile
+a14d2715 Added traits to debug export list
+05052a9f Expanded trait ranks
+eb934833 Zoom solar map with mouse wheel
+f818002e Added non-destinations to solar map Corrects status of moons to orbit missing gas giants
+3ee3f5e5 Ships respects orbital mechanic
+aff62082 Ported Volch's solar map into base game
+8e14db03 Fixed origin problem with ship movement
+3a9624b5 Imitation changes
+dbf45af9 Added Region Intel to space sectors Indicates effectiveness of your ships in sector to locate threats
+658e7225 New ship transit calculations
+aeb93260 Updated Wiki with new entries Added Truepath Scenario Added Bad and Weak Genes Added AI Core resource Added AI Apoc reset
+7fc6e971 Merge pull request #656 from Beorseder/truepath-update
+b492eaba Lotsa Wiki Stuff
+bc275ec7 Few Bug Fixes
+82e0423c Artifical Smelter Fixes
+db3e755a Pathfinder Perks
+8d430691 Imitation refactoring
+6ac672eb Smoldering and Chilled breakdown label change
+7aea5254 Icon Edits
+2061a50a Merge pull request #655 from Vollch/ssfixes4
+d9273e78 Fixed mill, updated garrison strings
+21040199 Corrected description of Artifical Demon Hunters
+32057a45 Repack bundle
+b1945d76 Herbivore and carnivore canceling each others, soldiers description works with all trait combinations
+2b9d57d2 Path Finder +More shapeshifting stuff
+533130ab Artifical Hunters
+3ce7c547 Merge pull request #651 from Vollch/ssfixes2
+4a456cd6 Combining food genuses now actually does something
+9b041dcf More shapeshift fixes
+e2d3423a Fixed structures page in wiki
+597b7eb9 Updated Evolve Adept perk conditions
+fc9c3e55 Merge branch 'master' into truepath
+9f7b854b Update perk conditions for Novice and Journeyman
+a350fcf7 Merge pull request #649 from Beorseder/1.1.17
+05ee1a40 inc beta flag
+95cbfd03 Genus shift fixes
+9984789e Ascend lab synthetic updates
+e7cd7365 Artifical species fixes
+e1a0ab60 Wiki Cost Display Upgrades
+43eda688 Couple Mechanics Entries + Fixes
+257b8efa Wiki Trait Linking Change
+6ff5deea Shapeshifter trait
+be0e01cd Deconstructor adjustments
+089cc0c2 Linked trait
+0225db10 Updated description of dreaded achievement
+436066cd Merge branch '644' into truepath
+c01f2322 Wireless Signal Capacity
+a04bde9a Fixed bug with artifical and gov storage task
+06d99dcc Artifical Biodome reskin Plus other artifical focused things
+16a0c5b9 Artifical Smoldering Fixes Reskin Genetics tab for artifical beings
+1af123ee Adept Perk Artifical bug fixes
+b1f271a5 Logical Trait
+28d969cd Popper fixes
+d0f2ffdc Artifical start bug fixes
+44fcb66c Nanite Swarms
+873d8eff Mech optimizations
+d3f1ffe3 AI Core soft reset fix
+0aafc08e Synth adjustments
+e2dc6e64 Some more trait scaling
+0e8695c3 Emotionless Trait
+57db6080 AI Cores
+0d4d1359 Artifical Growth
+c3c81516 Merge branch 'master' into truepath
+1dc22c2d updated patch notes
+f6c8089c llamas no longer eat meat fields Resolves #637
+51e42808 Trick or Treat event fixes
+613f6567 Merge pull request #641 from Two101/halloween-smoldering-fix
+0e2f93c9 Ghost 3 fix for smoldering races
+b56b46e3 Wifi
+60910673 Bug fixes
+df958d7a Balance Changes
+f5c4d9ba Merge branch 'master' into truepath
+e04ee77d Fixed syntax error in Korean translation file
+a8ad9b81 Merge pull request #640 from sTo1212/patch-3
+a116796d Merge branch '1.1.15' into patch-3
+f8133393 Added New Ghost and Candy to Trick or Treat event
+1aae98a6 Update strings.ko-KR.json
+ba4d5012 Update Trick or Treat feat unlock condition
+f4d94081 Update wiki feat entry for Trick or Treat!
+7a798c8a Refactor Trick or Treat event code Added event entry to wiki
+14711c31 1.1.15 boilerplate
+06c26fd2 Merge pull request #638 from Beorseder/1.1.15
+b3bb54f6 Merge pull request #639 from sTo1212/patch-2
+e13a3947 Update strings.ko-KR.json
+0f128a03 Synthetic Evolution
+cca1d556 Fix rainbows
+21c0fbd7 More scaling traits Synth prep code
+2977f15a Queue Behavior Changes/Fixes + Build
+395e4771 Handful of Bug Fixes
+7a9605b1 Refactoring of Trait code Synth groundwork
+013c6fa0 More reset stuff
+ebe39949 Reogranized Resets
+8af60e1e AI Drift
+f537d39b Artifical Colonists
+e3875b1f Ship cost creep
+4eb82fd2 Random word generator for ship name fallback
+b1dbe0db bunch of bug fixes
+03f2a187 Fix challenge icons Mass Relay starts uncharged
+d74d4683 ARPA projects respect path Horseshoes added to fob and opperating base Spy gov tasks now work on rival city
+075f2c70 Minor bug fixes
+0297a6ab Fix holiday gift skin
+68d13b20 Fixed error in support loop
+a3b2cbea Eris War mechanic
+373582fb Eris Support system
+a2dd3168 Titan AI Supercore
+f7dc3174 Anti-Grav Bunks
+096212ec Data Decoder & Biotech
+98c1060b Kuiper Belt mining
+4fec1688 Kupier Belt and Eris stuff Mass Relay charging
+35265102 Merge branch 'master' into truepath
+531866e4 Merge branch '634'
+eaafaf43 Fixed cracked pylon upgrade issue with cataclysm
+dc4346d2 Stopped cracked pylons being cracked at cracking the game + filter thing
+29519be4 Merge pull request #633 from Beorseder/master
+29c1887a Cutting Edge Reset Message Log Hot Fix
+7526f2af Fixed Reset Message Logging
+7990c94b Merge branch 'master' into truepath
+39738dbb Cracked Pylons for Cataclysm
+312e9571 Prevent JS error on reset with new filtering
+c43525f2 1.1.14 patch notes
+3e35af8c Merge branch '629' into 1.1.14
+cc47f1b5 Few Bug Fixes
+c315549f Wiki Challenges Page + Bank Vaults Mechanics Entry
+f9162ec5 Message Log Configuration
+88b9e8fc Update Chinese localization
+cd31dd97 Update strings.zh-CN for stubs
+ebbea123 Eris and Kuiper Belt definitions
+ea91e0d3 Mass Relay
+67ac61db Triton Ground War Cipher Harvesting
+172f8474 Triton War prep
+4fa7d143 Triton Militarization
+708412ac Mercury Smelter
+962bfcef Triton first steps plus other stuff
+330e8a98 Quantium
+52459adb Plasma Techs
+6924b9ef Upgrade to JQuery 3.6.0 Fixed poppers in wiki
+973ebfaf TP Graphene, Titan Banking
+305922a3 Storehouse, Depot, & Crusier Wiki path fixes
+8c7de733 Titan Colonists & Hydrogen Power
+ed6f2f27 Condensed ship information option
+f29f990d Merge branch 'master' into truepath
+4486c460 Merge pull request #627 from pmotschmann/1.1.13
+58c2ea65 Update game version
+8c7a78dd Merge pull request #626 from Beorseder/1.1.13
+393420db electrolysis fuel consumption
+285e47c6 Path fixes
+5faac53d Custom Lab Stuff + Build
+37334eb0 Couple More Mechanics Entries
+1e54e8ec Wiki Requirement Links
+d48780fd Hell Training Timer + Minor Fixes
+e16a5a38 Syndicate balance adjustments
+4af494be Water Freighter, TP Spaceport Refactored tech path sorting Truepath Stanene Titan and Enceladus support code
+51fe4fdf Merge pull request #625 from EricAn0630/master
+8be7a9bf Update strings.ko-KR.json
+108ed06a Ship Crew implimented
+a413c19e Distance calculations
+a63c5956 Ship Fuel consumption Draggable ship list Truepath Temple Merch
+2578723c Added fuel info to Ship Yard
+87498ae4 Ship Name Generator
+6fab248c Ship Construction
+348bba4c Ship Design
+3dc3be10 Shipyard scaffolding
+55c0ca70 Improved touch support for main construction actions
+cfa89f50 Syndicate Basics
+2130f9da Cost Adjust refactor
+0f02b1ca Merge branch 'master' into truepath
+619c0cd8 1.1.12 patch notes
+8dbcd3f0 Merge pull request #622 from Beorseder/master
+d974cab1 Training Timer + Spy Operator Config + Build
+9c3fba22 More Mechanics Entries
+0fbaea0e Minute Bug Fixes
+6600001c Build Queue/Message Log Minimum Heights
+a3b983d2 adjusted inflation income
+963d33b2 message log height fixes
+083c0d26 Some Hot Stuff
+50adc759 Inflation Changes
+712b72e4 Merge pull request #619 from Beorseder/v1.1.11
+1804193c Inflation Stargate Fix
+1f506cc6 Inflation Bug Fix + Build
+fd94c16b Message Log Filters and Clearing
+16561b88 Mechanics Entries: Custom Species + Demon Lord
+5039d0ac Prevent Red Horseshoe Inflation
+4ab816a1 Merge branch 'master' into truepath
+a94c94aa Horseshoes and Sacrifices no longer cause inflation
+3df53083 Fixed inflation icons
+cdf8f717 Inflation Challenge
+404e30c9 Added patch notes for beoseder changes
+b8b6fda1 Merge pull request #618 from Beorseder/v1.1.10
+1e0a41a6 Little Bug Fixes + Build
+c7b0c6b3 Mechanics Mass Entry
+ffeaf23c Queue QoL
+a22b8d56 Custom Lab Upgrades
+9d1ddcad Outer System first steps
+737b5bf7 Fixed cataclysm fireworks
+24ba46ef Firework icon for firework feat
+8addc313 Added missing wiki firework string
+9a961590 Use old javascript from ancient times for old browsers Resolves #612
+28f0be35 Merge branch 'master' into truepath
+66aaf20d Corrected label in wiki
+45a19607 fixed undefined error with drawicon
+eaee7654 Spelling correction
+de814bea Added firework feat and icon
+0f8b8036 Added Quantum section to wiki
+b99c1511 Added quantum level to citadel station
+c38d3cdd Fixed dimensional tab in wiki Resolves #610
+52c60ad5 Mass Optimizer task settings for Copper and Iron
+1ad60398 Fireworks
+67be7610 compile version update
+03edbd9a Merge branch '609' into 1.1.18
+93818a6d Merge pull request #611 from Beorseder/master
+b3cd26e5 More Calculators + Mass Fixes
+f98c0bfd Broken Links
+743c1fc6 Merge branch 'master' into truepath
+aba170b5 Fixed additional issue with tech scavangers and cataclysm
+0eb0998e Mass Ejector task
+318c17d8 Updated readme file
+c105d941 Changelog updated
+af5dfa1c Merge branch '607' into 1.1.7
+ce5208da Merge branch '606' into 1.1.7
+9227a43c Fixed percision error with tech scavangers
+112aca0f Progress Event Documentation + Event Intros
+4b36f9a2 Small Calculator Fix + Simplification
+65f28bae Space tab swapping fixes
+37a35580 Truepath wiki structures and tech update
+09c70117 Outer Sol System
+832ddd7d Fuel rate adjustments
+ffae60b9 More production refactoring
+df967550 Start production code refactor
+2991efa4 Prestige Calculators
+aeb02978 Micro Solstice fix
+998364e4 check controlling fix
+c6c72a3c Added hell fortress option to exclude using ship crew as reinforcements
+c8be78d6 Merge branch 'master' into truepath
+d0d7c052 Iron Horseshoe cost adjusted
+768743fd Solstice event scaling
+9931123d Package of Bug Fixes
+4969d263 Launch Sabatoge
+16ac2049 Merge branch 'master' into truepath
+b73c0439 Adjusted morale values for solstice event
+6f735b62 Terrifying tax task enabled
+e99852a9 Merge pull request #603 from vizigr0u/patch-1
+75e914da Solstice Event
+a34e7cba Minor grammar fix
+611f5cfd String Pack example
+18410031 Merge branch '602'
+00c8165c added option to toggle research queue order separately from build queue
+9ca389a6 Truepath Rival
+bfbb4cd6 String Packs
+0d25cf16 Warfare update
+e862c922 Upgraded PopperJS to PopperJS 2 Resolves #598 Resolves #599 Resolves #508
+89b0458c Merge branch 'master' into truepath
+1e12496d Merge pull request #600 from pmotschmann/1.1.4
+1d5f7d63 Tooltip fixes
+7e376f7a Merge branch '596' into 1.1.4
+3f90ecd3 Fixed issue with weaponless mechs
+616226f9 Tech path forking
+a1be433c Events Update (Mostly Wiki Stuff)
+0693f521 Base resource adjustments
+06856093 Merge branch 'master' into truepath
+186322eb fixed more popper issues
+c39eb171 Merge branch 'master' into truepath
+bb6fecf7 Old poppers correctly cleared when triggered
+40392fa9 String update
+f7d4a54d string update
+c4e4b010 Merge branch 'master' into truepath
+47f8e77e Another horseshoe update
+ab317825 Refactor of popper code
+7d39427d Merge branch 'master' into truepath
+0d494c8e Fixed frenzy conversion issue in custom races
+87668807 Merge branch 'master' into truepath
+cd57913b Added vue binds to combat buttons
+683cc4e4 Fixed string error on hell wiki page
+eea3e797 Slave Replacement rask cash reserve setting
+f5632c47 Merge pull request #595 from Beorseder/1.1.2
+ffc10f34 Omnivore -> Carnivore Reconversion + Build
+f2abfd8e Full Frenzy Conversion
+86928ae8 Packed Bug Fixes
+993e480b Refector evolution challenge code Boilerplate for true path
+efe1ef01 Better horseshoe cost system
+38f3002d Decreased Adamantite horseshoe costs
+15154df9 Added config option for $ reserve value on merc and spy recruiter tasks
+352b7e05 Cautious restored to carnivore genus Buffed Dealmaker
+a41f3542 Horse shoes can now be queued Key multiplier now works with Q key
+c96d203d Backup save triggered when unifying with banana
+f98425aa Fixed a grammer mistake
+968673ab Logic update to auto sacrifice Now accounts for Kindling Kindred and Smoldering
+d99f3018 Merge branch 'master' into 1.1.0
+73068688 Added a limitor to auto sacrifices
+1ea76298 Fixed a minor grammer error in wiki
+0a092a6a Added special equipment section to hell wiki
+157643ec Added wiki docs for governors
+76e202b2 Rebalanced horseshoe costs
+a3b40f46 Governor metrics
+77015d11 Basic config for merc and tax tasks
+5a6394de Better calm descriptions
+d28969d4 Expanded spire wiki docs
+f8190043 Expanded hell section of wiki and other wiki polish
+4f9fe4b0 Fire the Governor
+1bd4d5d5 Renamed Frenzy trait to Blood Thirst
+2370f169 Fixed bug that caused unsanctioned tax revolts
+a3a7e815 Crate Manager logic tweak
+651c4574 Flagged fanatic trait for capybara
+77f4efa3 Capybara traits added
+13b42050 Horseshoe governor task
+6dd529e8 Disabled remaining omnivore definitions
+bcc7d4c0 Corruption Fix
+8e541182 Redesigned Centaur race Disabled Omnivore genus
+661f95b4 Ascend Lab trait scrubbing
+5d151270 Update package lock
+adbf35c2 Added advanced option to crate balancer task
+d93bf638 Instinct trait redone
+b8efef81 Fixed bug with Rage trait
+4c062537 Added missed Rhino fanatic trait designation
+56dc4f1d Rage and Heavy traits
+5fab0f1b Bug fix for crate assignment
+10c66d64 Removed storage task priority limiter No lonmger necessary after crate assignment refactor
+a16efb89 Storage Assigner Task config
+b97eabd7 Storage Task configuration options
+2cfab42c Small bug fixes
+39fb8722 Restored missing kobold achievement
+a7d91ee7 Fixed inconsistencies with mechbay space usage calculations
+c13ccb5e Animal achievements restructured
+19cf24da Curious trait for Cath
+8cf947a4 Merge pull request #591 from jaahay/patch-2
+a3cc87d2 Mech Constructor logic update Do not upgrade mechs to infernals if supply using buildings are in the queue
+0a0a49b9 Collector Mechs
+ad001972 Yet another massive mech overhaul
+da6537b2 Refactored mechcost code
+3aaa57a2 Update strings.json
+c0e0f0ce Concrete spire terrain
+33d57b80 Infernal Mechs
+8e6e8277 Titan Mech redesign
+bfaed39d Rebalanced mech power levels
+c02dafc2 Mech Construtor task module for governors
+119195a9 Merge branch 'master' into 1.1.0
+3b37fae6 Patch notes and changes to spire timer
+9760e5b0 Merge pull request #586 from Beorseder/master
+475f3a31 Update governor tasks
+b01e0983 Adde missing govActive import to portal.js
+58fdc889 Added no pain trait to associated governor
+dea20976 No Pain governor trait
+384304c9 Muckraker governor trait
+f51f20a7 Athleticism governor trait
+508af70f Gas Lighter media trait
+23e47b62 Aristocrats
+29520384 Extravagant
+d760b55d Pious and Inspirational
+1fc46e40 Spire/Waygate Clear Completion Times + Build
+32cacea0 Wiki Perks Multi-Level Extrapolation
+bb014a91 Multiple Bug Fixes
+50c551d0 Teacher, Theorist, Pragmatist, Dirty Jobs Added Governor traits for Educator and Blue Collar backgrounds
+96d03a26 Auto spy fix
+73586141 Expanded Governor task list Spying, Tax Mangement, etc.
+c9c0bb6e Merc governor module
+99c4a82c Task System for Governors
+52d12b45 Bump lodash from 4.17.20 to 4.17.21 (#584)
+ede8c868 Removed label fragment
+4067d747 Governor Appointment
+9833ca0b Merge branch 'master' into 1.1.0
+446e5480 Fixed cost scaling of transport ships
+82fe108b Merge branch 'master' into 1.1.0
+bdd1abcf Fixed version number
+6c429577 Fixed some issues with new events
+5c1ac928 Merge branch 'master' into 1.1.0
+7ceb290f Fixed bugs with event system Expanded minor event list
+a0aeb563 More minor events
+8d032c3d Minor event system
+a0f5cd0a Launch Day event
+f1fef692 Playful and Free Spirit traits
+2fcf337d Updated ru-RU strings (#580)
+622ee3bb Instincts Trait
+1b2682db Foraging basics
+5071c244 Carnivore mechanic changes
+3ad1c866 Reorganize animal genus. Rough cut creation of Beast genus types.
+67eeb80d Fixed issue with out of season species
+d124e79e Fixed faulty upgrade comparision
+19940f5b Merge pull request #577 from atikin19sh/newMAD
+9e440777 Maintain holiday race skin
+c33aeef5 Merge pull request #6 from pmotschmann/master
+94fc128d Updated translation
+16dad697 Merge pull request #575 from Toby222/main
+73072f5b Long run game loop metric
+1cbae85a Fixed ascension bug Resolves #576
+8a410f35 Challenge win conditions show in game
+afd18857 Basic metrics tracking
+c4a1ce04 Fix capitalization
+7f77de2d Change Blackhole to Black hole
+1bd12a2c Merge pull request #573 from atikin19sh/master
+f21ae922 Updated translation
+b96dd6ff Force github pages to rebuild it's incredibly dumb sometimes
+f1bfc4b7 Improved accessibility of Egg Hunt wiki entry
+ed0b0d40 Fixed issue with hunters unlocking egg 3
+473c8970 Fixed egg hunt feat unlock
+7a58f280 Merge pull request #566 from atikin19sh/translate-patch
+2cbebebf Add files via upload
+2fc0603c Upgrade fool feat
+fc8b6fa6 update patch notes
+e3b39eef Merge pull request #558 from silent1b/patch-3
+08f7663c Fixed banana check
+a0061aa7 Fixed some issues with Banana Republic Scenerio
+57a705bd Fixed incorrect change in pr 560
+76ecaa6b Merge branch '560'
+509b915a Compiled addition of Russian langauge
+0f1bbaa0 Add 'ru-RU' locale
+43509014 Spelling fix
+a90e7944 Update tech.js
+118ef063 Merge branch 'master' of https://github.com/pmotschmann/Evolve
+ee4014a8 Fixed redraw of minor traits
+a272315d Banana Challenge Changes
+bec421d6 Banana Smoothie Perks
+aaae68bb Expanded Wiki events section
+8012812c Merge pull request #557 from EricAn0630/master
+20575e6f Update strings.ko-KR.json
+388bdc79 Large and Massive trades applied to trade routes
+0b7eae35 Minor trait reorder by dragging
+46bc51ba Removed console.log statements
+226ca99c Banana Smoothie/Split unlock conditions implimented
+0a803e69 Added patch notes for 1.0.34 so far
+5a3fef49 More Trade Route Cancelling + Build
+33edf4e1 Many Bug Fixes
+21a5fa10 Banana Republic Challenge Groundwork for new challenge
+df40596c Fixed issue with new games
+2d2a0d9d Added start of events section to wiki
+950797ee Export as File option Resolves #549
+ff7db451 Enchanged spire threat assessment
+f545d849 Removed logical or assignment
+cbaeeada Fixed issues with unlocking Xeno Tourism before Tourism Resolves #547
+0ba8811a Fixed support labels for alien 2 system
+5a3b38f3 Fixed disabled button tooltips
+89b20530 Settings tooltips refactor
+747f5906 Merge branch 'governor' into 1.0.32
+8c91a8a4 Fixed updating issue with civics tooltips
+48600153 Merge branch 'master' into governor
+a8e0fcdc Fixed version number
+028a8bc3 Fixed species name of alien1 description
+76f2ad3b Merge branch 'master' into governor
+6854b532 Converted hell fortress tooltips to popperjs
+8ee9e3ad Fixed many tooltips that are cut off on some screen sizes Refactored some function code
+f5b63a05 Alien 1 and Alien 2 system renames
+64818035 Merge branch 'master' into governor
+4eacf9bf Smarter timer zero fill
+3fbc57c9 Fixed tooltip resource refresh function
+7d7526fe Fixed color of unemployed job
+6aa921dd Merge branch '545' into governor
+9c3f39df Merge branch 'master' into governor
+b14efff3 Alloy reassignment
+74b8fd8b Sacrifice Tracking
+57870671 More efficent resource highlighting
+577d7aee Fixed Demonic Hunters
+73b7de3b Merge pull request #544 from willoucom/fix_digit_in_queue
+60f2dc77 Unemployed/Hunter Rework
+38faacb9 Fixed errors with Casino vault size
+73527f6c Fixed wharf trade route amount
+493a3fd7 QOL: prevent flickering in buildqueue by padding min and sec with zeroes
+dffa7a35 Fixed errors in wiki with new game files Resolves #543
+a02a8d13 Added multitab warning Resolves #444
+b51e7768 Fixed viewport isseus
+8f9ddfeb Fixed evolution queue glitch
+ae6e7047 Updated wiki species desc string formatting
+0ee001ac Turtle Shells
+436679c4 Queue cleared on sentience
+87a40970 Merge branch 'master' into governor
+d72f7b02 Merge branch 'master' of https://github.com/pmotschmann/Evolve
+7f3710c6 Fixed issue with broken vue ojbects on civics tab after evolution when using preload tab content
+1accc1d5 Evo Queue Polish
+d356b913 Evolution Queue
+c318c301 Fixed container label of techs in wiki Resolves #537
+2d4279f2 Merge pull request #540 from DSLM/patch-1
+7eb4c375 Merge pull request #541 from Include1203/master
+c3b9e266 Small Update
+5ef80203 Update actions.js
+4cb9273d 1.0.28 tag
+4c1f407f Minor Trait Values + Build
+c116da20 Sundry Bug Fixes
+a14af6d7 Raised Trade Federation requirement to 750
+0d02544c Merge branch 'master' into governor
+cf6d59f9 Fixed incorrect description of trade achievement perk
+fa3fbdaf Merge branch 'master' into governor
+895f9881 Trade Route breakdown
+50d636e5 Trade Federation Achievement/Perk
+91134c2d Squished achievement unlockable from later extinction events
+535cc5ea Fixed aria label for jobs
+3a27fea3 Added Mastery section to perks page
+33376276 Merge branch 'master' into governor
+e4357c8d Space Marine Flair
+00bb6d75 Hyercubed Cheese
+cbec936c Merge branch 'master' into governor
+e8e87451 Removed extra setPowerGrid call
+2e1f47d8 Converting b-tooltips to popper tool tips on genetics tab
+c2a84318 Fixed powergrid tabload state check
+1c7489b7 Fixed scrolling issue for ARPA and Settings tabs
+870f1d08 Craftsmen popovers now show proper total diff of resource being produced
+57e9488a Reduced top margin on achievements page
+4a94bbc3 Merge pull request #524 from Beorseder/1.0.26
+5a253ba0 Crafting Tooltips Consumption
+426d4c12 Removed debug code from cheese level entry
+dcaf14de Merge pull request #523 from Rare-Account/patch-1
+2356482d Cheese Level
+d70ea3de Fixed typo
+8e032c1c Fixed universeAffix function
+14c13b7c Scrolling fixes
+81b33964 Use standard universeAffix function in wiki
+c6e33be5 Merge pull request #522 from Beorseder/1.0.26
+b0dd07c1 Wiki Achievement Universe Filtering
+27d83081 Merge pull request #515 from xPaw/gorddon_mission
+bbe72623 Merge pull request #521 from Beorseder/master
+14567f3e Crafting Tooltips
+6fb485ee Merge branch 'master' into governor
+264cd3b2 Fixed typo in pirate mechanics string
+f8e0ec6c Governor Generator
+2f0cf1f5 Fix incorrect gorddon_mission id
+75d6c10d Added Piracy section to wiki
+65fa173a Hell Fortress restored to military tab
+35381f35 Recompiling Stuff
+7884cea3 Merge pull request #512 from Beorseder/master
+ee788c6d Merge pull request #513 from xPaw/scroll
+94f5f9e5 Let the browser decide if a scrollbar is needed
+1d4458f3 Blackhole? No hole effect function + Build
+c64c0208 Numerable Bug Fixes
+1bc7f39a Added update call to evolve debug object
+d190e08f Reduced Chrysotile costs for structures that don't normally cost wood
+2aa11c51 Fixed bug with smolder adjust and custom values
+c5b83193 Fixed Evil Smoldering
+1e830dc7 Fixed bugs with Heat start Removed duplicate Faith multiplier from crafting
+92fe784a favicon media swapping
+e588172d Removed debug line
+4c4eb3d0 Fixed some issues with old saves
+04d6158a Faith applied to auto crafting
+9f7be28b Fixed changelog error
+28107e54 Added Challenge Gene and Mastery sections to Wiki
+f6c3c7b9 Chrysotile is now a basic loot type for war
+a5fa87ef Religion Mechanics wiki entry
+0c11b8b1 Recompile CSS
+6e0bb099 Merge branch '507' into 1.0.23
+9f42e5f5 Upgrade Path and other polish
+ebe51b6b Merge branch 'master' into 1.0.22
+c1c97335 Merge branch '506' into 1.0.22
+90911b1b Update changelog
+74f86512 Fixed Catacylsm start
+3e66bd91 Adding unadded changes
+846173e3 Chrysotile production
+72d1b94e Chrysotile for Heat races Replace Lumber with Asbestos
+acb9bce0 Add hover effect to sub/add buttons
+2d066413 Create light version of the favicon
+655dede7 Remove governance from wiki
+b967e4d8 Added additional information to queue wiki entry
+b89d01fa Added queue section to wiki
+37b97b75 Added section on default job
+9f2980b1 Load storage sub tab content only when viewed
+1095a7bf Load civics sub tab content only when viewed
+8ec89210 Load civilization sub tab content only when viewed
+bb9cf1af Added second pause button to top bar
+c585bd97 Removed debug line
+335754bf Added wiki section for mechanics with accelerated time
+d249a5a1 Accelerated Time
+42db183e Refactored GameLoop WebWorker Resolves #149
+9811f263 Combined some mainVue functions
+e96d2451 Prevent research queue from clearing
+36850eb5 Prevent potential memory leak
+47eb9e65 Fix trade summary and Event Conditions
+46becb51 Reinit tabs when toggling preload content
+d9b77ff0 Evolution Tab Loading fixes
+f4933d72 Seperate Tab Fixes
+6287a9e3 Update package file
+1de44628 Optimized tab loading
+7df1ea66 More tab refactoring
+af0dfd43 Reorg of tab code
+2a8964a3 Tab hotkeys when focus input fix
+37c41c7f Fixed issue with keyup event not releasing hot keys
+81f0b15f Fixed bug with key mappings resetting on reload
+011daeb4 Tab keybinds
+1cdf4388 Trait balance changes
+5b2fb414 Floating point display fix for special resources
+6f598e08 Fixed Dimensional tech page in wiki
+cea22cef Changelog updated
+b87c8f0a Fixed issue with species tech cost
+05f37e5a Merge branch 'master' into 1.0.18
+f9b373f0 Update Crowdin configuration file
+5adcf2f8 Added Coal to the holiday gift for all the bad people out there
+6c39e486 Improved No Queue Order timer accuracy on stacks Resolves #430
+5b208c62 Fixed Evolution problems with Unbound Resolves #500
+59812964 Message log now keeps last 3 messages
+6d3ae1f8 Added descriptions for city sectors
+118d779b Font Size Settings
+aa2cd2f2 Merge pull request #501 from ehcho0222/master
+22690832 Update strings.ko-KR.json
+f8f7903f Increased Blood Stone cost of Dark Bomb
+fcbc3c69 Adjustments to Gift code
+6162d901 Fixed new game bug
+5ef59ab6 Spelling error fix
+362a3e5c Removed TRANS from KO file
+d8b5af59 Merge branch 'master' of https://github.com/pmotschmann/Evolve
+297d25fe Revamped Holiday Gift tracking
+96c91bf1 Dark Bombs
+78506c04 Merge pull request #498 from foxwhite25/master
+ae70026a Exclusive stuff in gitee
+e9727d2f Some cheese name apprently
+f50dcdb7 Merge pull request #495 from danbrown1113/1.0.16
+4092afdb I wont call this gitee repo "almost perfect"
+db727ee4 normalization
+080cbac8 Changed CDN for jquery so all libraries use the same CDN
+7203d875 Fix discovering Steel from Ambush
+dbaa5b5d Save diagnostic
+837e2eff Fixed minor display bug in Mechlab
+36004f23 Steel discoverble from Ambush
+6159e6bd Address Github alert
+2f72a7b4 Inferno Reactor redesign
+802b9eff Revamped holiday gift
+6a6ef117 Upgraded Webpack and build process
+19139dba Update package files
+6c72163e Squashed commit of the following:
+21f524b3 Merge pull request #493 from Beorseder/1.0.15
+3597960f Merge pull request #492 from ehcho0222/master
+ecb88429 Added to Perks List + Accumulated Bug Fixes
+fee0d58a Update strings.ko-KR.json
+535638db Wrapping Paper
+73db2abe 1.0.14 release
+b5e59f47 1.0.14 Beta 1
+4214792d Hire Mercenary Multiplier Key Compatibility + Build
+a37b2f2e Negative Crate/Container Handling
+09f4178b Assembled Bug Fixes
+4862fe1e Fixed logic flaw in Sortable destroy flow
+f9894a50 Power Grid stuff
+cebea929 Garbage Pie and Finish Line unlockable by Demonic Infustion
+6bd5912e Added missing Ayibe cheese
+45d90174 Fixed power grid unlocking with infiltrator
+cbbe44e3 Code cleanup
+e4b2e72f Updated string
+e2b229a3 Expanded Wiki Entry on Infiltrator Infiltrator can now steal Infernium Fuel
+53a970c5 Expanded support grid to cover Andromeda and Boiling Lake
+f839a05f Support Power Grids
+af7d09ed Enhanced Power Grid
+58265eea Removed unnessicary css rule
+479d6058 MechLab Improvements
+dcb8f381 Upgrade Buefy and JQuery
+3d40ea6e Code cleanup
+81d167ed Removed TRANS: from korean translations
+9424c0d2 Merge pull request #484 from ehcho0222/master
+64a03eeb Added more cheese
+1d557c2f Update strings.ko-KR.json
+96b9be3b Update strings.ko-KR.json
+43b5c820 Memory leak fix Alt Swiss Banking names
+ce70d84f Merge branch '482' into 1.0.10
+edb41b78 GruvBox Themes
+f846672e Made the Locale dropdown similar to the other settings in the Settings tab
+18ac4f60 primary color change
+d358debc New theme Orange Soda
+15e5489f Fixed issues with wiki perk page
+eb21fb34 Fixed bugs with Wiki Perks page
+b7d374c9 Spelling Fixes
+5199728b Refactored Perks section Resolves #422
+4c491d87 Merge pull request #480 from foxwhite25/master
+927bdb33 Add files via upload
+36453eef Minor
+32d28512 Update
+9abcf7f5 Merge branch '1.0.8'
+c700cd33 Start refactoring perk list
+1f1be316 Fixed potential negative money raid Resolves #433
+f436e476 Lots of bug fixes Resolves #373
+7414fe58 Adjusted Neutronium cost of Inferno Reactor +Other bug fixes
+cedc59e1 Removed debug lines
+ba1d27c0 Fixed bug where technocracy prevents invasions from triggering
+7dea29c2 Merge pull request #479 from Zackh1998/master
+5d0b6d84 Add Scarletite to global.city.foundry upon foundry research
+f9949ce2 Buffed Titan mechs
+2f171c3e Bug fixes n stuff
+ad72e311 Merge branch '310' into 1.0.6
+3ab08c93 Added Header to power grid
+e0008f42 Accessible Power Grid Plus other improvements
+17f1132f Adjustable Power Grid
+a0368fb4 Merge pull request #477 from MrTanoshii/css
+72a48bef Merge branch 'css' of https://github.com/MrTanoshii/Evolve into css
+37e40389 Fixes to light theme
+188646d6 Merge pull request #3 from pmotschmann/master
+eb45fff0 Fixed bug with Custom cost check
+e5182dd3 Fixed typo in changelog
+0a7c321b Update changelog
+2aee6641 Invasion assessment
+ffc4dadc Restored taijitu
+fe33079f Fixed loss calculation
+b5bad0f0 Merge branch 'master' into 1.0.4
+5e05404b Alien 2 & Cthonian Invasion Fleet The way the fleets and losses are calculated has been redone
+b21adbfe Merge pull request #476 from foxwhite25/master
+70f558e6 Minor tweak
+625461a2 Done
+2674a8b6 Add files via upload
+66431806 Add files via upload
+fc9516e9 Add files via upload
+76ae7a83 Add files via upload
+02f1db49 Add files via upload
+0237d8d1 Add files via upload
+21c10f3f Add files via upload
+bee45fe0 Add files via upload
+982f23a5 Add files via upload
+afbb5fcc Add files via upload
+1ed48d77 Beta 2 flag
+cbd74a7b Merge branch '473' into 1.0.4
+55e2f059 popper text color fix
+b80cf69e Fixes .night theme inheritance issues, refer to #473 for further details
+d7f3f500 Fixed for tooltip background in night theme
+84458e89 Merge branch '472' into 1.0.4
+6c2c9db9 1.0.4 beta
+d844d319 Merge branch '472' into 1.0.4
+b180e105 Removed `// Keep` comments
+325d62cb Refactor of evolve.less
+a8647ab7 Typo fix
+43c1417e changelog update
+8ccbd4ec Demonic Misery
+3d693eae Merge branch '470' into 1.0.3
+42d2f4a3 Merge pull request #471 from lxsli/patch-1
+aaa7d935 Added combat section to wiki
+5c737dba hell extension spelling
+80a6784e Equilibrium Feat + Build
+55e4db83 Wiki Achievement/Feat Improvements
+6f07ed52 Merge pull request #469 from Two101/bugfix/compost
+26e18bd9 Dark theme colors identified
+d297ca57 Updated compost heap food formula to match the amount reported in the tooltip
+46df7eb5 Update evolve.css
+bf0ed25b Merge pull request #1 from pmotschmann/master
+9392c560 Fixed critical bug with starports
+2eb093c9 Crystal Adjustments
+f40bd109 Disable species buttons when junker is selected
+f4f13a18 GDE false start fix
+a98bf7f6 Merge branch '468' into 1.0.2
+71d6411d CRISPR Artifact Fix
+82535f00 Imported drawTech() to tech.js
+03578f77 Assignment Bug Fixes + Build
+0b66715a Special Tech Requirements
+6ea78b88 Fixed Wrath infusion
+8d60ceb5 String key fix
+e39f10d6 Valdi Genus revamp
+c853eb91 Merge pull request #467 from silent1b/patch-6
+37f47874 Strings typo fix
+999a225f Merge pull request #465 from silent1b/patch-4
+ae874597 Merge pull request #466 from silent1b/patch-5
+4d914bae Update strings.json
+1078e449 Update change.js
+9eb61bab Fixed display bugs with CRISPR costs
+51986bce Merge Commit
+6ab41c54 Typo fixes
+3fd29aab Moderate Bug Fixes
+aee01f22 Merge pull request #462 from MrTanoshii/master
+8478fb3e Wiki fixes
+d76aef67 Remove Beta flag
+20624ed6 Fixed rounding issue
+5aa6a538 Merge branch 'master' into overlord
+41197c1f Added wiki entry for Demonic Infusion
+eeeaa560 Demonic Infusion
+22265cd9 Merge pull request #461 from Toby222/typo-fix
+3265f252 div.nuke duplicate removed
+58fae845 fix typo in changelog
+6d65ac7a Gladator Perk
+983b83d6 Mech Scrapping
+0c821dcf Rebuild
+19cc1609 Merge pull request #459 from Beorseder/overlord
+aeb1eb84 Merge pull request #460 from Toby222/typo-fix
+bfbe3426 fix typo in change.js
+4d164803 Numerous Bug Fixes + Build
+c855009f Ritual Locking
+731dc032 Gladiator Achievement
+088c0c6d Merge branch 'master' into overlord
+00240ff8 Holliday icons requirements adjusted
+f06d2bac Merge pull request #456 from Rodrigodd/master
+4459c429 fix 'fix typos in strings.json'
+93b71a8d Merge fixes
+6c46d9bc Merge branch 'master' into overlord
+0d72e97a Merge pull request #457 from ehcho0222/master
+002b014a The Boring Update
+08074de7 Update strings.ko-KR.json
+c63aea7a update pt-BR translation
+af509cfb Merge branch 'master' of github.com:pmotschmann/Evolve
+cb20ceb1 update pt-BR translation
+b65a6eff fix typos in strings.json
+b8f3a146 Merge branch 'master' into overlord
+5932998f Trick or Trick event updates
+6d98b4e7 Merge branch 'master' into overlord
+2a24f49b Blood Awareness
+fa6ec832 Trick or Treat event
+393c8978 Merge pull request #454 from ehcho0222/master
+b2b4f422 Blood Infusion refresh on upgradex
+c66a09fb Split Tech into seperate file More Blood Infusions
+df9b4cf9 Restored ARPA cost checks
+f965ce39 Critial Bug Fix
+bed37f4a Added missing arpa string
+24d8c572 Blood Remembrance
+6844f298 Blood Infusions
+c78dd396 Blood Stone stuff
+8ee5383a Mech Construction
+7d18b560 Prototype Mechlab
+4046aa68 Mech Equipment, Status Effects, Weapon Ratings
+dd5eb2bc Spire Mob types
+b5c2ab85 Merge branch 'master' into overlord
+d6120c6a Fixed holy trait
+2263982e Mech stuff
+a67a4d3f Mech Tab
+0af0ae35 Spire Logic
+f3d62e16 Inferno Reactor
+023aaf04 Raised Codex Infinium boost to 45%
+57bfa829 Sphinx
+15773e75 Port, Base Camp, Bridge
+f7c819ab Spire Supplies
+faa3b02b Spire Transport framework
+4d7f8b8a Added government section to Wiki
+20b60fa4 Hell Crew
+379fdf6f Beta 14
+9f3faa09 Harbour power fix
+ce94358d Harbour Storage
+71e52785 Korean Translation Part 1
+417d3ecc Hidding filtering menu
+962ba4c7 Merge branch '453' into overlord
+7fb7e68f Refactored some popovers
+e45c6ea5 Lake Harbour
+827322c7 Lake streamlining
+c529d66f Rebuilt combat loot system
+bfc3e1af Wiki Achievements Universe Filtering + Build
+80c86764 Textual Bug Fixes
+a3bc4931 Pass Achievement
+0c4f3959 Fullmetal Achievement
+cbb5138c Resonance and Enlightenment
+440a8111 Harmonic Energy
+f0920fce Government Changes
+36f1ab7f Merge branch 'master' into overlord
+83db1be8 Fixed mispelling
+0e002f94 Infernite Mine, Zoo, Many other things
+e93c920f Smelter Refactoring Enabled Star Fuel and Inferno Fuel
+b46689e1 Gate Turret
+a4986a17 East and West Towers
+73a245b5 Fixed Wiki Sticky columns
+367f3d51 Merge pull request #440 from toman222/patch-1
+72e5dafb Bug Fixes
+27c16bf3 Fixed crafting casting
+b902a8ff Security Rounding
+8c4d79da Fixed refreshing of industry popovers
+5cac2ebf Removed debug
+0f02ab80 New Ritual formula
+895f71f4 locking unready techs
+7f5b8447 Converted industry and crate tooltips from buefy to popper Added Infernal Forge Resolves #269
+a4ca221d Fix typos in strings.json
+0f1c1f59 Rescaled Asteroid Redirect
+eb394f00 Arcology Vaults
+3803e6c4 Cyber Limbs, Detrivore Windmill, Ruins Power Reqs
+8e26e4b2 Advanced Biotech More scrolling enchancements
+acca6768 Codex Infernium, Arcology, Cybernetics
+33367de7 Fixed resource list regen on embassy construction
+e71e0918 Fixed spelling error
+e80ced42 Ancient City Ruins Vault, Archeaology Dark Night theme Other Stuff
+c7a3a08c Fixed UI glitching issues
+265af1ad Ship Fuel buffers
+8cd7649b Merge branch 'master' into overlord
+b627db84 Fixed label popper label color on Dark theme
+56622afe Scrolling changes
+481bd15a Merge branch '439' into overlord
+dde4ed24 Merge branch 'master' into overlord
+a9e1a576 More achievement enchancements
+4d7f7c07 Pig Latin Language + Build
+d8f5b5b2 Compiled Bug Fixes
+73c01cb9 Merge branch 'master' into overlord
+14989711 Expanded Achievement Information
+8f17b79c Monuments sections of wiki expanded.
+d9a24ab5 Fixed capitalizatin of the
+a59b82bd Added ARPA section to Wiki
+9cd530f0 Limited Creative trait interaction with Syphons Creative only gives the 20% discount for this project, no cost creep reduction.
+23f641d4 Left column sticky scroll adjustments
+77e76fb9 Set correct game state on Vacuum Collapse for restore
+2b8445a4 Fixed Resources row striping
+db5bb4cb Removed odd code fragment
+1efc062d Alchemy
+31eb510a Fixed some army modifiers
+3b7ff98a Merge branch 'master' into overlord
+70ac9293 Gameplay Basics section
+66efefa5 Added resources to Wiki intro page
+621f9d36 Set beta flag
+d6484bb2 Merge branch 'master' into overlord
+79060d86 Vacuum Collapse reset for Magic universe
+65b50a81 Merge pull request #437 from jaahay/patch-1
+b8d3e604 Build queue now has resource highlighting
+ca9049cf Fixed `arpa_perks_challenge2` typo
+91890302 Spell Costs
+12ddc1cb Fixed empty right side resource consume list
+055ceb33 Wizard Sanctum
+1c76d089 Monument Changes
+a65cf359 Merge branch 'master' into overlord
+7a24e5ac Fixed swarm control string
+29458959 0.9.19 Update
+cd70c9ad Mana Syphon
+ebcd9b95 Magocracy government Magic universe exclusive government
+4ad60740 Merge pull request #432 from toman222/patch-1
+878f6cf3 Update strings.json
+bcb069be String Fixes
+0c103a97 Added Magic universe to Wiki
+2f7effb5 Mana Nexus
+61dfeac8 Mana Engine
+9991b04d Clerics Upgrade
+a7db4538 Ritual Casting
+6a3ea829 Wizards Scientists replaced with Wizards in magicverse
+57d6619b Asteroid Redirection Added Asteroid Redirction ARPA project
+3f3cec2f Merge branch 'master' into overlord
+8cd4ff05 0.9.18 Release
+0348cd41 Quantum Swarm Control changes
+871ed809 0.9.18 Beta
+17933475 arpaTimeCheck function rename
+2747ef48 arpa queue times fixed
+595ca243 More Magic stuff
+62050cf3 Fixed Magic Mastery
+4b42381e Conjouring Polish
+67e8a86f Pylon adjustment
+cf1ee568 Merge branch 'master' into overlord
+02260c37 Revert "fix typo in strings.json"
+fd4bff08 Sticky resource list
+85fdb013 Merge pull request #428 from Rodrigodd/master
+384ee965 Merge branch 'master' of github.com:pmotschmann/Evolve
+4a98075b fix typo in strings.json
+1493efc5 update pt-BR translation
+291848d4 Merge branch 'master' into overlord
+aba31ae5 Merge pull request #427 from mousesama/cs-CZ_translation
+5a1fdd5d Updated Czech translation with latest string changes
+17d012b0 Sticky wiki menus
+a4259d45 Merge branch 'master' of github.com:pmotschmann/Evolve
+3c316386 fix typos in strings.json
+094c1e7f update pt-BR translation
+a47c2a3c Merge branch 'master' into overlord
+78df3293 Added sidemenu to Crispr page
+418dd537 Added side select menus for page content
+4d900630 Updated Sacrifice values on tech page
+dc54e95c Merge pull request #426 from toman222/patch-1
+ddc468f0 Update strings.json
+6a48da32 Fixed order of Civilized and Discovery tech eras
+63f15100 Merge branch 'master' into overlord
+f5cc47cc Fixed some tech strings
+f95b6105 Fixed tech era labels not clearing
+ab436df7 Fixed changelog
+73bb54b7 New research is now sorted by Era Resolves #390
+e91907e8 Democracy is now listed as a seperate 20% bonus Resolves #394
+02d45a64 Unlocked CRISPR upgrades are now colored green in wiki Resolves #277
+b0514f3f Star Dock tech is now called Space Dock for consistency Resolves #423
+e72aa058 Fixed Catacylsm Ascension
+dd2ed47f Basic harvesting no longer affects production estimate Added Dark Energy effect for Magicverse
+271c0385 Mana basics
+d2d9dfb2 Added Magic universe icon
+83963824 Start of Magic universe
+3d6310a0 Merge branch 'master' into overlord
+dd5520bd Changed IG Scavenger to Tech Scavenger
+9b06f50f 0.9.16 Release
+0b203865 Coupled Bug Fixes + Build
+c20f3b97 Wiki Tech Requirements
+4de02d76 Fixed several NaN issues with Wiki
+3a0fd805 Updated railway description
+5492156e Merge branch 'master' into overlord
+f50251db Fixed issues with tax revolt removing sample elerium
+c7e69ad9 Fixed new game not loading
+6ea69d03 Added rounding to smelting output display
+56aba55e Fixed sticking government popover
+db61f8e2 Fixed bug with espionage popover sticking open
+5ab95db7 Hell Expansion Scaffolding
+eb25c11d Changelog spelling error fixes
+8d17b15b Converted remaining Popper calls to popover function
+08493994 Converted Wiki to main game popover function
+2c0e500c Bug fixes for Genome Sequencing Resolves #418
+bac20009 Reorganized Wiki achievement page Resolves #419
+b572dc84 Enhanced Muscle Fibers listed on perks page Resolves #420
+a9ab3bb8 More Popper conversions Standardizing popper through common function. Work in progress.
+7ec13ac2 Added Holy trait to Angelic races
+df3b9ff2 0.9.13 release
+3f281c75 Merge branch '0.9.13'
+cc6ed3ad Refactored some Popper calls Many more to go.
+fc2e314f Special resources popover descriptions now update Resolves #401
+c9b67e69 Merge branch '416' into 0.9.13
+42bbbe17 Adding missing dependency for less. Can't build css without it. Don't expect user to have it installed globally.
+4922086d Merge pull request #415 from justino/missing_less
+e7a1c08f Cleaning up bottom promo bar html. Fixing html nesting issues with H1. Changed the external links from a group of A's with pipe's between them  to an unordered list with css defined content separators. Expanded the html template in index.js so it was all visible instead of all on one line.
+c0abdd60 Adding missing dependency for less. Can't build css without it. Don't expect user to have it installed globally.
+beb3d2dd Updated czech translation with new strings + some fixes
+7d9ce615 Updated PopperJS and Beufy Eliminted Lodash
+49d67d9d Merge pull request #413 from mousesama/cs-CZ_translation
+2846842f Updated czech translation with new strings + some fixes
+4820c55d Fixed Galactic Exchange Bug
+5871e42a Modified changelog text
+35cab875 Made Finish Line feat actually unlockable
+f2ce4fd0 Fixed some spelling errors
+ad8ab630 Achievement upgrades now send a notification
+949e0304 Added a state correction for stabalize blackhole
+437c1d9a Interstellar/Intergalactic Cataclysm adjustments
+9f8020a7 Added Finish Line feat for Cataclysm ascension
+a69bb3b7 Fixed another bad string
+e8772995 Fixed mis-spelling in string
+e53e06e8 Added Universes page to Wiki
+64f9fc06 Fixed issues with infoBoxBuilder function
+daa77292 Finished Resets section of Wiki
+ecddf20b Finished Ascension section of Wiki
+dd12ca99 Renamed Evil Factory Fur
+ad9f7221 Fixed Factory Fur production overcharging Polymer
+1b4d868c Reset Mechanics section for Wiki
+c7a11bd0 Refactored info builder
+80b2d6c8 Remaining Planet Wiki page information
+7a57c39f Merge pull request #410 from AaronSofaer/patch-1
+97fe974d Added trashed information to wiki
+5f90b153 Partial planet trait list for wiki
+a0c9cc10 Fixed Fur Factory
+e6d642ca Update strings.json
+a73feb4c Text is now selectable in the wiki
+e7b7f0bb Build release version of 0.9.10
+3b3abcf8 Planets Wiki Section Incomplete, data on traits pending.
+b0493d37 Merge branch '0.9.10' into wiki
+2fd120c3 Reset knowledge correctly after cataclysm restore
+11547fb1 Fixed issue with restoring backup made after cataclysm reset
+80d95548 Merge branch '408' into 0.9.10
+15ec04d4 Synthetic Fur
+a447cc39 Added ogre update for resources
+c9933b84 Merge pull request #409 from StoneCypher/SlightlyImprovedBuild
+08a98af0 Merge branch '0.9.10' into SlightlyImprovedBuild
+c8e924bf set beta flag
+aefaa11f Added save upgrade for ogre achievement
+6d2bf7c6 Merge branch '405' into 0.9.10
+f7a10a88 Accidently removed lodash
+57259a3e Reorganized code to not rely on Symlinks This will let it run locally on Windows
+138ac2b7 easier to read, doesn't miss fonts anymore
+c8feaf30 Add setter for global so that module boundaries don't cause cors breakage on es6 16.3.5 read-only reference exposure
+1cd7c28d Merge pull request #404 from StoneCypher/master
+3132fb22 Merge pull request #407 from Beorseder/0.9.10-Clone
+2a2c57de Amassed Bug Fixes
+ed9750f5 update manually-kept version numbers
+be6c44a9 Move patch to accepted gating location
+96452f17 Fix codebase and string references for 'orge' to 'ogre'
+35809990 local build process.  creates `docs/` as artifact dir
+c5215842 changed non-standard shell sequence ; to standard && to get build to run on windows
+c5523c88 Over queued items are now cleared down to the correct max amount
+2299bc12 Merge branch 'master' into wiki
+042140bd Expanded rival city name list
+ede8cdec Fixed Ziggurat descriptions with ancients
+3db82859 Updated perks page to reflect new ancients line
+879af2b5 Oligarchy high tax morale bonus
+ef66e083 Fixed Noble tax bug
+a3f266c7 Fixed blackhole reset bugs
+79dd0841 Enhanced Muscle Fibers
+ea8a95b9 Ancients CRISPR line rescaled Added Devotion between Faith and Acolyte Fully unlocked tree remains the same overall cost and stength
+29c0ae64 Fixed compost heaps
+3b000d95 Updated key name of compost heaps
+a9bdc4cc Merge branch 'master' into wiki
+af4ca885 Fixed ARPA issues with queue
+382d985f Fixed Star Dock queueing Resolves #392
+084f09d0 Fixed problems with research queue popovers sticking
+b69f9eed Removed debug code
+c55ae5fa Added popovers to research queue Also fixed a lot of bugginess with building queue popovers
+0836a3af Building Queue popovers Resolves #320
+de38c71c Added geology traits to planet information Resolves #357
+8e82f2cb Immoral Warmonger now works with Autocracy and Frenzy
+1cf0ee6d Slave pens are now limited to 4 per pen
+5fd13693 Merge pull request #386 from mousesama/cs-CZ_translation
+413e263d Added initial version of Czech (cs-CZ) translation
+ca897367 Fixed space dock queueing issues Resolves #383
+c0f20934 Merge branch 'master' into wiki
+d66746c6 Added missing Lodge to population breakdown Resolves #370
+5004ebf9 Fixed description of evil tree hugging soldiers Resolves #372
+3a4a1077 Reorganized the breakdown for Lumber, Stone, Iron, Copper, and Coal. This makes it easier to understand the effects of some buildings. Resolves #364
+b9bc5f33 Fixed popover sticking on World Collider completion Resolves #374
+878afaef Multiple Star Docks can no longer be queued Resolves #376
+642da7a4 Parasite growth in Cataclysm
+56572e97 Disabled remaining weather effects in Cataclysm
+230dd3ce Fixed issue with railways in cataclysm mode
+8a4c14e9 Merge pull request #379 from subanark/Wiki_Planets
+065fd5f6 Fixed bug with infiltrator unlocking nanoweave
+9152999c Fixed Iron Will gold perk
+f4645736 Fixed perk label
+ca33cc1d Fixed Terrifying Iron Will bug
+e2247eff Fixed bugs, added support for additional resource types
+8c1bcd89 Added planets wiki page. Added constants to the planets (only used in wiki right now)
+14ccc8dd Prestige Resource wiki section
+b89b501d Intergalactic Infiltrator Added some late game techs to the Infiltrator tech list. Fixed bug with Oligarchy tax riots between 36% and 45%.
+aa01e7da Moved text fragment to strings file
+e39f946a Bunch of Wiki Stuff
+939939de Failed History buff Raied from +1 to +2 Geothermal Energy
+c6db5529 ...
+faef933f Spelling error fix
+c0ab3dc5 Reward increase for Catacylsm
+a84082f5 Removed console log
+d6f157d3 Added CRISPR section to Wiki
+7a806408 Extended Recombination Line
+42ef83e5 Added Restore Point feature
+10793d52 Merge pull request #371 from rreed/some-wiki-updates
+f469e444 Fixed Subspace Beacon upgrade string
+59b7b180 Several low-hanging typo fixes
+5778d907 Removed debug lines
+ade8e814 Fixed Dyson Net
+dfc73dcb Removed beta flag
+674fdfa6 Updated changelog
+ba523ba7 Merge branch 'wiki'
+45146bd0 Added Cataclysm warnings
+9d7cd057 Fixed bug with casinos
+dafa4dfe Revamp Cataclysm Perks
+6c6577c4 Cataclysm Strings
+74f78de3 Cataclysm Perks
+de113458 Iron Will Progression
+10818cb9 Demon Slayer adjustment
+10305b62 Cataclysm Ziggurat and ARPA effects
+e3a88e23 Merge pull request #368 from Beorseder/wiki
+395afd80 Adjusted scrooge and demon slayer
+faaf8074 Wiki Technology Effects
+92d79258 Localized flair text for space marine tech
+f377f225 Exo Labs now count for gene lab progress in Cataclysm.
+ea0ca668 Cataclysm tweaks
+2bf1df4c Cataclysm Exo Lab / Observatory Synergy
+58ee7bf5 Removed ternary
+40088bf5 Fixed issues with ARPA timer + Cataclysm stuff
+07f9dc94 Fixed Aluminium breakdown
+c73fbab5 Merge branch 'master' into cataclysm
+f81f3fcb Increased Mars Cataclysm Support
+05e93fb4 Merge pull request #367 from Rodrigodd/master
+f1e84eac Cataclysm Smelting and other stuff
+1a92c46b updated pt-BR translation
+bd5d0c1c String replacements for Sappy trait
+ac5dc648 Fixed Fragrant trait strings
+6d7e4a4b Set 0.9.0 Beta flags
+48d6a9d2 Pinguicula Traits
+cf6e491e Photosynth trait replaced with Sappy
+2145ffcf Soul Link upgrade
+c5b6d273 Fixed OTB string
+41a598de Off Track Betting
+77c574cc Exotic Ejector coloring Exotic materials in the Mass Ejector are now a separete color to draw suspicion to them.
+e97075db Orichalcum Dyson Sphere
+da5ef654 Online Gambling and Bolognium Vault upgrade for Casinos
+0a4ea867 Minor string corrections
+4982e7f3 New upgrades and balance changes Xeno Tourism and Fertility Clinic upgrades. Balance changes to some intergalactic era stuff.
+ef95850b Cataclysm Triggering Scenerio Added reset option to trigger the Catacylsm.
+34c15116 Piracy Trigger Adjustment
+93ef3a82 Reduced Bolognium cost of Freighters
+ff190090 Cataclysm Satellite/Observatory Synergy
+8ab434c8 Added Scrooge Achievement
+5c35512d More cataclysm changes
+833694cf Cataclysm initial setup
+106e9618 Cataclysm config
+434b2f6e Scenario Groundwork
+2339b23c Pinguicula groundwork
+e84a73f0 Fixed queue issues caused by refactoring
+703ce1f2 Added strings for new traits
+f3b1515c Squashed commit of the following:
+1721ee3a v0.8.17 cleanup
+05071b83 Space Miner auto assign Space miners will now automatically be assigned from the default job if possible when a space station is constructed.
+e4aeffc3 Default factory material Newly constructed factories will default to producing Alloy instead of nothing.
+e406492b Enabled Double Density achievement
+b88ea3b8 Reorganized some queue code
+84f09d5e Merge branch 'master' into 0.8.17
+1518f441 Fixed ascension feat unlocking bugs
+041d3513 Fixed casino tooltip
+3410b7b0 Biomes applied to compost heap
+100d12c4 Updated beta version
+6d75e680 Updated knowledge cost of Adv Mulching
+22c8d946 Merge branch '362' into 0.8.17
+4269c6c7 Autodeoccupation Addition/Fix + Build
+7c088b20 Ample Bug Fixes
+5454d2e1 Fixed bug with Infiltrator
+e6e141eb Merge branch 'master' into 0.8.17
+4d22d3bb Mulching upgrades
+a9216a79 String fix
+d097210b Hot Composting and Detritivore Lodge
+637259f3 Basic Composting for Detritivore
+573c2d30 Mellow planet changes
+f6c63101 Double Density achievement
+acf99e4c Merge pull request #361 from Rodrigodd/master
+fa479448 update pt-BR translation
+a1c0e04c fix checkStrings.py
+e179a6ae fix english typo: 'raied' -> 'raised'
+9d73d2ab Casino Redesign Casinos now start powered and generate money but require power for either the cash generated or max morale boost to function. Extreme dazzle upgrade now increases Casino revenue by 50%. Power cost lowered by 1.
+936c484f Merge pull request #358 from toman222/patch-1
+0cb0cc61 Update strings.json
+c8af09ea Update strings.ko-KR.json
+46327d9b Set fanatic trait for Molding
+9fbb552e Infiltrator and Hibernator traits
+c6a4c570 Molding and Pingulcula scafolding Rounding out the starter genus
+98b40a18 Tundra bug fix
+c9835a22 Tundra update
+afae71a0 Unstable Iron Tools Unstable planets now get earlier access to iron tools.
+5be33f84 Set beta flag
+917cb597 New planet modifiers & Oceanic Changes
+59188c1e Fixed Creator and Heavyweight Champ wiki entries
+6ba251f9 Wiki stuff
+f7d4fa14 Rebuilt game
+3d7a8370 Create strings.ko-KR.json
+2c5e84e0 Fixed mistakes in previous patch
+bb55671a Fixed css issues with wiki achievement icons
+39a9d23c Buffed nearly all Government Types
+d16c92c1 Merged 349
+30c715b1 fix tech sort bug
+95f4c7cd Prestige resource descriptions
+e9aa77d8 Wiki achievement list layout changes
+560a2191 Merge branch '344' into 0.8.13
+4c885e31 Merged 345
+a45277f5 Merge branch '345' into 0.8.13
+e0e6303b Merged 346
+7757d6df Merge branch '346' into 0.8.13
+d8e0e5ca fix typos in string.json
+e92c8d27 update pt-BR translation
+80652b9d Misc Bug Fixes
+2e52dae2 Merge branch 'master' of github.com:pmotschmann/Evolve
+4d6606b9 Sorting new research items by knowledge cost.
+1854aaa8 finish
+55638e79 archive width in wiki
+57ed88ab Amended patch notes for 0.8.12
+0bac9cc0 Fixed minor issues with new farmer system
+aa72c3d9 Fixed spelling errors in change log
+6aa64cc6 Farming redesign Farms no longer produce food directly, instead the boost farmers upto the number of farms owned.
+a3805359 Brightened special text on Night theme.
+4f430701 Energizer Feat Added feat for ascending without building any thermal collectors
+d680abfd Fixed structure popovers for interstellar, intergalactic, and hell in wiki..
+e09dfbfc Update changelog with kW to MW change.
+ca2eefa5 Species creator complexity revamp
+b49d2f4c Merge branch '339' into 0.8.12
+cb46cb14 Compiling fixes
+27a53ad8 Merge branch '343' into 0.8.12
+72f31bc6 Merge branch '341' into 0.8.12
+aa7712d1 Merge branch '338' into 0.8.12
+fd177d67 kW changed to MW Kilowatts are now Megawatts.
+8cc2ecac updated translation tools
+86cd043c updated pt-BR translation
+b6b3b9c4 Reworked Diverse to match wiki wording.
+cbaa3424 Fixed soldier training rate and Diverse trait.
+3e08479d Changed piracy threat to only display "0%" or "None" when truly zero.
+d2c3d3ba Arrayed Bug Fixes
+f607c86a Merge 339
+d8e7061d Merge branch '340' into 0.8.12
+218ac95e merge 339
+27fe00e8 Fixed Dreaded achievement not rewarding if Dreadnoughts not researched.
+ef6b616f Congregated Bug Fixes
+82b4a84c Fixed elerium mining ships providing negative production when exceeding support limit.
+a1598098 Fixed slave pen status
+9bd10d5f 0.8.11 Release
+9e09a421 Untapped Potential
+0a395884 Bad traits never cost more then -1 Complexity will never cause bad traits to increase in cost past -1
+04922d51 Fixed div in wiki
+ccd7e04f Ascension changes
+677fd199 Technophove complexity perk
+87c1cf14 Ascension lab complexity tax
+3b57dc1d Overcapped Slaves released
+4f3aa467 0.8.11 branch creation
+bcdc72b4 Update actions.js
+d02d4036 Merge pull request #1 from pmotschmann/master
+abbb9360 Merge branch '0.8.10'
+5825de6a EM Field discharge effect
+14d561d0 Added perks for Technophobe achievement
+cc4cde19 Fixed easter race generation
+703009e7 EM Field Challenge Added main effect of EM challenge.
+9a281f67 Added missing Egg string
+6422f660 Added Feat for finding all the eggs.
+2b776550 Easter Event
+12fe554f Fixed Pathetic trait
+55ae8562 Fix patch notes
+192ce726 Fixed bruite trait
+bb3171e5 Fixed Easter date check
+12c53a34 Easter Event Part 1
+c0efc0fd Merge pull request #331 from Beorseder/wiki
+29fce946 Wiki Tech Sorting
+61a46448 No Queue Order ARPA fix
+af5eebe2 Fixed bug with extra information function
+9093e2ab Expanded Wiki Custom info to Tech section
+16ab77cc Wiki Custom Info Added a method for adding additional notes to Wiki Structures.
+c9eeec55 Disabled 'Gameplay' section of wiki This menu item currently has no content, hiding from menu.
+83566a84 Improved Changelog feature
+5fcc3802 Sentience Changes Chagne Log moved into Wiki
+84523fe8 Refactored code to work better with Wiki
+064fb8b5 Added costs to Wiki pages
+7cb58ff0 Overhaul of structurs and tech wiki
+59025644 Wiki Tech stubs Tagged Primitive and Civilized eras of technology.
+5c6f9034 Added FAQ section to Wiki
+8f421437 Fixed Ghostly refactor
+9a598cbd Finished racial trait refactor to support Wiki
+7ba7c648 Fixed string errors Fixed token errors with many of the new trait strings.
+0e944420 Another batch of trait refactors.
+cdfe50fd More traits refectored for Wiki
+171c38ce Iron Allergy Fix
+59fbca19 More wiki traits
+914f5f1a Fixed breaking bug with Ridid trait
+4fea3b79 Wiki Prototype Prototype for the built in wiki. Adds Races and Traits (incomplete, lots of strings are missing). Refactor of traits definition in progress.
+c73768e7 Merge branch 'master' of https://github.com/pmotschmann/Evolve
+9fcced9c Version 0.8.3 Resolves #328
+ce60ec32 Occupation by Federation Federation now reduces the soldier requirement of occupied cities by 5
+d870dc56 Fixed industrious text string
+b55de7b0 Merge pull request #327 from Beorseder/master
+096f19fd Heaped Bug Fixes
+64bfbefe RG Theme April Fix
+ffa300c6 Fixed incorrect string called by Dyson Sphere
+f63b7d46 Piracy ramps up more slowly Andromeda is explored
+18d3744c Updated changelog again
+dc25cbf9 Updated changelog for improved accuracy
+446a5349 Ramping Piracy for Gateway and Stargate regions Added Patch Notes for 0.8.1
+ec78dbc9 Merge branch 'master' into 0.8.1
+d8360d8b Bigbang Prestige fix
+f0352ae3 Better Information Recognition + Build
+dcecb53b More Multiplier Key Applications
+d319d168 Jumble of Bug Fixes
+69b50cb1 Removed logging
+7c4f43ca 0.8.0 Intergalactic Release
+167fde48 Utopia Icon
+86431c0f Fixed importing old save files
+b244eea7 Beta version inc
+94328cc7 Population abandonment fixes with crew Research tech categories are now a standard feature.
+49237299 Garbage Pie
+b2dcde85 Morale Achievement & Feat +Skull icon for Demon Slayer feat Fixed upgrade of Gun Emplacement
+cb2af936 Incite ratings adjusted
+f43e5f35 Biodome Redesign Redesigned biodome, adds less food but increases population from living quarters. Added additional information from Scout Ships. Added additional tooltips to Armada view.
+ac4bc2d5 Smorgasbord of stuff
+dfb6b56b Fixed predator drone upgrade
+b7308c55 Fixed some string issues
+f8972e94 Hell Upgrades
+1de010c1 Bug Fixes
+00023df0 Fixed mutation cost bug
+69a72b96 Fixed display of Mutation costs:
+d8567dbd Merge branch 'master' into intergalactic
+68147fcd Achievements after termination Ascend Lab achievement are now awarded after the web worker is terminated
+c1d1ce1f Reset multiplier
+e5ce044d Mutation costs rescaled
+438897aa Harmony Crystals
+09445eb5 Ascension Reset Custom race creator implimented and ascension reset.
+9c2ebe11 Merge pull request #321 from Rodrigodd/master
+077b4aa8 update pt-BR translation
+5bb5e0db Species Creator Interface Interface for the species creator.
+ef3dc321 Merge pull request #319 from karsen777/intergalactic
+5f654e53 Intergalactic techs + strings fixes
+43227c47 Ascension Machine switch Power On/Off now acts as a toggle for the real button.
+efc0073a Merge branch '314' into intergalactic
+15c3ffd5 Worker bug fix
+2896bd42 Sacrifical Alter bug fixes
+eb7d641f Merge branch 'master' into intergalactic
+c3e7d2b1 Updated changelog
+19888508 Merge branch '318'
+a1ec6b68 St. Patricks Day event
+f0509c83 Collected Bug Fixes
+d63a8671 Progress
+ad6ced23 Orichalcum Panels Solar Swarm upgrade and various bug fixes.
+2c2a25a7 Ascension Mechanics
+b99c4c15 Space Elevator
+682b4ac1 Luxury Condos
+8c8b38a1 Merge branch 'master' into intergalactic
+92a1ec60 Memory leak fixes
+2b5e0d10 Ascension Research start
+1bcd4fc6 Intergalactic bug fixes
+05c6f046 Orichalcum Chtholian System content and Orichalcum Tech.
+224a774f Chthonian System Unlock Chthonian System
+69c02cba Merge pull request #317 from Rodrigodd/master
+cd43406c Merge branch 'master' of github.com:pmotschmann/Evolve
+38334979 fix string swap in localization
+11e7bd9c Merge branch 'master' into intergalactic
+9e5800af Merge pull request #316 from Rodrigodd/master
+57d89e24 Scout Ship scounting 2 Scount ships are now required in each sector to get a threat rating.
+f1c969f8 updated pt-BR translation
+ac7bdb00 Armada View Rebuilt Armada view is now responsive and show crew levels.
+ff5815b1 Nanaweave Hammocks
+7231d14c String Fixes
+9525bf79 Merge branch 'master' into intergalactic
+80f5a0c0 Group of Bug Fixes
+362b10be New research categories
+7c0a4e86 Merge branch 'master' into intergalactic
+22639108 Merge pull request #313 from pmotschmann/0.7.26
+3d7d7274 Phage ranks of traits now count twice
+c720f03c Prevent possible rounding errors with genes
+9954881b Swapped Mass Extinction and Creator Perks
+df8f55d5 Extinc Race Resurrection
+e285dc7d Friday the 13th event
+db9af2bf Joyless Perk update Joyless perk now gives +2% Max Morale instead of extra mastery.
+e7a7c039 Alien Database Plus all sorts of techs learned from it.
+59b4cc64 Refactor : Shrine calculations Fix for duplicate variable name causing incorrect morale calculation.
+5e89caca Fixed crew cap calculation
+ad2ce967 Foothold rework, Ore Processor, Scavanger
+e80d301b Build
+e71df1b2 Refactor : Shrine calculations Refactor missed university bonusses.
+24cba2ce Refactor : Shrine calculations Add changes from original master.
+d9195a7a Refactor : Shrine calculations Fix number to text decimal convert error.
+bfaa8855 Refactor : Shrine calculations Cleaned up shrine calculations to remove code duplication.
+c62fbdc6 Armed Miner Added armed miner functionality
+4ebd1986 Merge branch 'master' into intergalactic
+2b182761 Less dumb trade post fix Never write code when you're tired.
+ce4a0db9 Merge branch 'master' into intergalactic
+59ed4b70 Fixed trade post construction bug
+894ab909 Merge pull request #309 from Rodrigodd/master
+fc9f11a5 updated pt-BR translation
+d18a50f3 Scafolding
+cc37c5da Foothold Station
+451d7d31 Armada Military Crew Fix Fixed issues with distributing military crew in the armada
+b5c040d9 Merge branch 'master' into intergalactic
+46fcaba6 Unicorn Moon Shrines The unicorn Shrine is now tied to the moon phase
+4519ee9e 0.7.25 Notes
+15b336cd Bundle of Bug Fixes
+81064a22 Bug Fixes
+be0a8e1b Alien Assault Mission Initial Assault of Alien2 System
+6344f98a Subspace Sensors upgrade Colonist job is now automatically filled from the default job.
+3eecc788 Fixed breakdown key name for Vitreloy Plant
+d2a497ad Removed extra comment
+d90f051f Alien1 System Added the friendly Alien Star System Consulate, Resort, Vitreloy Plant, and Super Freighter.
+fb4d4cd8 Gun Emplacements
+18254806 Fixed Helium Mine consumption highlighting
+d14f70b1 Minor trait tooltips
+66a3c40d Persuasive Gene and Negotiator Negotiator CRISPR upgrade. Persuasive minor gene.
+e549a0a3 Merge branch 'master' into intergalactic
+399fbb0f Updated Vue, Beufy, Popper, and Sortable.
+ec703c1f Intergalactic Bug Fixes
+571f3f05 Unlocked Intergalactic Content for testing
+69fb65fa Forge Defense kills tracked
+520797eb Soul Forge mechanics Added the soldier mechanics to the soul forge
+a19ef4fe Fixed visual issues with Galactic Trade
+2a10499d Expeditions and Mega Factory
+3c044b4d Metaphysics Soul Attractor & Soul Absorbtion
+455b1e3f Visual Improvements Structures that consume resources now highlight the consumption.
+1124c791 Gateway Depot Polish
+a93cf2ff Merge branch 'master' into intergalactic
+a9f4ee07 Merge branch 'master' of https://github.com/pmotschmann/Evolve
+10d965c8 Prevent Cheating Cheaters from Cheating even more.
+e9ee5bbc Shore Leave, Ship Dock, and Gateway Depot.
+a180c838 Merge pull request #305 from Rodrigodd/master
+af7256d5 pt-BR translation
+22b5ce31 Fixed a bug merge bug with Steelen
+7ca88f51 Merge branch 'master' into intergalactic
+3b48e20d Selectable Prestige Icons
+c6e2efb7 Merge branch 'master' into intergalactic
+fe54ea49 Updated cherub description
+341ab0e1 Duke Steelem Feat
+d8407892 Valentine's Day Event
+65578e68 Merge pull request #304 from Beorseder/master
+462877ec Steelen Difficulty Increase #2
+41f33402 Merge pull request #303 from Beorseder/master
+bc89d67d Racial trait ARPA interactions Updated interactions of various traits with ARPA projects
+9b180953 Steelen Script Protection
+1a3bc00b Merge pull request #302 from Beorseder/master
+6907ba6b Steelen Difficulty Increase
+095893c9 Merge branch 'master' into intergalactic
+85abaafd 0.7.22 Notes
+1646aa60 Merge branch '296'
+06fcafea Merge branch '301'
+60657dcc Removed erronious dyson declaration
+482c6e0b Dyson Sphere Upgrade Dyson Net into a Dyson Sphere.
+db07ab77 Stellar Forge
+e1696b5a Defense Platforms
+5d235e9c Batch of Bug Fixes
+9bebd666 Piracy, Sensors, and More
+684309a6 Merge pull request #1 from pmotschmann/master
+860fff14 Armada Interface
+b4adc5b4 Frigate Research
+9f03b868 Dormitory & Symposium
+4ff22fcb CRISPR Mastered & Mastery Gene
+a2122ef3 Galactic Trade Draft version of Galactic trade system
+37a1e1b2 Prevent double tap from zooming on mobile.
+0896ddd1 0.8 Beta 7
+f8b3e7d3 Merge branch 'master' into intergalactic
+262b2d52 Armada & Piracy Framework
+fbd8dc4a Alien Embassy
+7439351d Fixed some issues with carport
+c7943d4b Repair Droids Repair Droids for Fortress Interstellar reset now grants extinction achievements
+4131b19d Merge pull request #299 from DavidFerrerBeltran/patch-1
+3db76972 Update strings.json
+05f4daf6 Demon Slayer feat
+012a6f55 Fixed antimatter priest issues
+43f17b79 Fixed temples with priests
+47c77e1b Rebuilt Game Bundle
+ee4f442d Merge branch 'master' into intergalactic
+88663a2d 0.7.21 release
+b6c22fc6 Merge branch '295'
+3ae7b897 Fixed heavy universe bug
+ab8b8537 Antimatter Priests Priests now apply to temple storage bonus in antimatter universe.
+dc2f8310 Updated Annex requirements
+87b824cd Faith CRISPR line & Priests
+4d85b868 Fixed bugs with Ziggurat
+49b62e1c Fixed bug with annex and purchase
+90e71046 Set beta flags for 0.8
+0e350b46 Fixed unification conditions
+05f4b5d7 Unification 3.0 System + Federation Government Cities can now be individually controlled though Conquest, Influence, or Money.
+c2abb5d1 Depricated Heavy Universe Feats These originally existed sololy to track progress on a sub achievment but are now unnessicary and do not fit the purpose of feats. They have thus been removed, universe Icons on the bioseed achievements server the same purpose as these out of date feats.
+0cdad1c8 Alien Contact
+6a4e7750 Merge pull request #298 from Rodrigodd/master
+a800ab92 update pt-BR translation
+6e8b2def Research Queue Post Fix
+c704d526 Small Bug Fix
+dee2b85e Factory Labels fix
+db83a7fb Espionage Clarity + Build
+a0da96ff Set of Bug Fixes
+321586da Slight Revision
+d3a9eee4 Frigate and Cruiser Definitions for frigate and cruiser ships.
+882e9fc0 Steelen Challenge Mode
+57afdc24 Structure Requirement Support for requiring an number of owned structures to buy something.
+88f94b1c Xeno Research and Alien Contact
+e0f4442d Merge branch 'master' into intergalactic
+c0b73d6f Patch notes for 0.7.20
+3bbf03c4 Universe Mastery Rework -Each Universe now tracks its own mastery level responsible for 40% of the mastery bonus, the remaining 60% comes from the general mastery level -Universal CRISPR Upgrade boosts universe specific mastery
+ddda0641 Military Crew asignment
+1ccdbb43 Assorted Bug Fixes
+439fe6c1 Smoldering and Chilled balance change
+fbd332a0 Infusion, Encoding, Shield Generator, Enhanced Droids Upgrades for various stuff.
+d748b0ce Merge branch 'master' into intergalactic
+54a6a088 0.7.19 Patch
+a16f4dda Merge branch '292'
+5395d0dc Merge branch 'master' into intergalactic
+e26d56ef Merge branch 'master' of https://github.com/pmotschmann/Evolve
+e0b42ffe Fixed issues with barracks unlocking. Refreshing the page is no longer nessicary to display the civics war options
+93640433 More Bug Fixes
+3bc706bc Merge pull request #290 from Rodrigodd/master
+ec406767 updated pt-BR translation
+0c6b64d6 Soul Forge
+7ce92c58 Updated changelog
+f533c974 Merge branch 'master' into intergalactic
+99fc477d Balance adjustments to some government types Buffs for Theocracy, Corpocracy, and Technocracy.
+646fd297 Merge branch '282'
+e89c1cdd Added patch notes Resolves #281
+3fd6573c Slaves on Resource List + Build
+32d34ab7 Small Bug Fixes
+8443cc4d Miner's Dream Perk Update
+8c165c18 Merge pull request #4 from pmotschmann/master
+12c4189e Fixed issue with civics tab unlocks. Fixed an issue with displaying foreign powers in civics tab on unlock.
+c6552d77 Merge branch 'master' into intergalactic
+e95cead2 Don't display -0% geology deposits
+a4ad98a9 New version checking
+fc0e60cd Discovery missions will no longer be removed from the queue
+379e4faa Merge branch '265'
+fc460e1c Graphical Bug Fix
+a8240c59 Updated Perk List + Bug Fix
+844c91bf Miner's Dream Achieve + Perk
+ad24ff29 Merge branch 'master' into intergalactic
+8815d92e ARPA projects now correctly calculate superproject sizes in queue
+1d3d5e3a Queue timer lack of production -1 timer fix
+b9122fbb Clear stuck open popovers
+b1fc3d0b World Collider lag fix
+9b0bff66 Merge pull request #284 from Rodrigodd/master
+9241e50d Bolognium Mining
+4a3ab772 Revert Symbolic Link replacement
+c909bf86 fix resource localization in planet description
+795259fa Mars Mining breakdown localization
+4d77dfd6 updated pt-BR translation
+fc5a0601 Merge branch 'master' into intergalactic
+f7afc16f Complex Achievements Update
+6a27c335 Merge pull request #3 from pmotschmann/master
+727ad830 Added release notes to research organization pr
+a06520f5 Bayer Process is a research, it unlocks aluminum
+422aaee2 Merge upstream
+2cd06773 Research categories
+babdb57f 0.7.13
+c2699bd9 More galaxy stuff
+018e6772 Starbase Gateway System Starbase and some groundwork for Crew system.
+64821111 Stargate Added stargate construction and first steps in the Andromeda galaxy.
+4b98e116 Merge pull request #275 from Beorseder/altMaster
+7e877824 Graphene Display Fix + Build
+fa7ecdbe Kinda bug fixes
+56156fd0 Occupation Spy Termination
+846425e0 Smart + Dumb change
+eebf9c38 Merge pull request #2 from pmotschmann/master
+634b1afe Merge pull request #272 from Rodrigodd/master
+39f029c0 Merge pull request #271 from RanaPeluda/master
+6ca381b9 update pt-BR translation
+4763bf2f Update
+9b98ca6c Merge pull request #3 from pmotschmann/master
+275ae95b Fixed Cultural Supremacy popover
+ff76f880 Gene Fortification
+0a80590e Fixed uranium bug with enviromentalist and coal ash Resolves #259
+be845311 Fixed timer on research
+7aea4ee6 Removed console.log from main
+af29ac59 Merge branch '268'
+e503f182 Xfer station uranium Added the uranium storage effect to the xfer station description
+e68d53d4 More Bug Fixes
+292e9b0f Merge pull request #1 from pmotschmann/0.7.11
+75d28c15 Build Game Bundle
+0e5622a1 Merge branch '267' into 0.7.11
+2540c1c0 fix planet selection description
+99ae2fcb fix some locations errors
+93f6af3a updated pt-BR translation
+362f6bc2 modified updateString.py Now it will not write in a update.~.json, but in the original file. Use git version control to avoid problems.
+24d86966 Update changelog
+b2091c64 CRISPR Darkening CRISPR upgrades are now darkened in unaffordable
+78e798bf Decay warning color Decaying resources will now use a warning color if you are losing that resource but at a slower rate then the decay rate
+e416fa94 Bottlenecked resource color distiction. The resource that will fill last is now red, others that are lacking are orange.
+2e6c7dc0 Suggestion: Geology Display Reskin
+1c01fcc5 Merge pull request #264 from Rodrigodd/master
+c46b10a4 Delta tracking on crafted resources. Delta tracking is now calculated for crafted resources all the time instead of just when no plasmids is enabled.
+7463d9b5 0.7.10 release build
+85d9e329 Crafting rate with no craft gene
+d8c51b34 Achievements now also check lower tiers correctly
+0205f77a Set beta flag
+8e6f15bb Cumulative achievement lower difficulty checking
+6d958bfc Craftsman Redesign Craftsman now continuously output product instead of once/twice a month. The overall volume is the same over time, just delivered incrementally.
+65ced0cc fix regular expression of locale token
+98333baa More sane geology popover constructor
+58f31c35 Rebuild bundle
+883d739b Windmill and Railway displays
+a11787c9 Slaver Fix
+f7eb5f08 Default Job Fixes
+4721de5f Planet Geology Display Fix
+234b86b5 Rebuild game
+4b2492d1 localized craftsman hover
+b48caee9 updated pt-BR translation
+35c8e4d8 Merge branch 'master' of github.com:pmotschmann/Evolve
+82b94e52 localized word 'cycle'
+697bacdb Version update to 0.7.9
+da7cbd23 Spy button is now disabled when not affordable
+cf53c37e Spy label change - replaced with :
+91736ada Imoprt/Export refactoring
+4f0de4cd Fixed issue with queueing arpa projects
+009be702 Fixed default job issue with craftman
+ee0b08cb Fixed issues with Novice perk
+df08eeec Added new perk descriptions Perk descriptions for Novice and Journeyman.
+af37ae41 Default job The default job can now be set to: Unemployed, Farmer, Lumberjack, Quarry Worker, or Scavanger.
+272d668f Achievement Hunting Feats And a few perks.
+f595220d changelog updated again
+3ffbefe0 Changelog update
+235fcaa1 Superproject batch queueing
+82ed240d Chistmas Holiday Stuff
+8805a294 Queue merge fix Preserve count of merging queue item
+df18411c Update strings file
+ea7504ea Merge branch '0.7.6'
+cf86888f Architect redesign Architect now doubles queue sizes instead of adding a flat +2
+dbff1334 Combine adjacent like queue items Adjacent queue items of the same type will now combine
+1dd46710 Fixed new game errors
+f1554865 Fixed 0.7 biome genus evolution bug 0.7 biome genus raes will now display after a reload of the page during evolution.
+b276e2f9 Merge pull request #257 from Rodrigodd/master
+f784d154 updated pt-BR translation
+b4e84b45 Moved messageQueue and modRes into functions.js
+30a2823f Removed console.log
+cd629913 Fixed last message showing on reload
+b77f6b52 Script support object cloning Deep clone actions and race objects instead of using JSON.stringify for script support
+27fc9be9 Merge branch '0.7.5'
+be43fd1b ARPA Queueing ARPA Projects can now be queued
+1b2f23f0 Queue timer cost creep Cost creep is now factored into the queue timer
+282c4637 Fixed Genetics lab soul eater bug Fixed a problem with soul eater as a major trait breaking the genetics lab
+b0772c67 Queue stacking Build queue can now stack multiple of the same building in one entry
+8bdb075e Trade Route precision Trade route prices are now tracked to 1 decimal
+b83882c0 Disrupter Rifle requirements Changed requirements for unlocking distrupter rifles
+f6d5565b Elusive spies survival Elusive spies will no longer be killed when they fail a mission
+415bbe10 Wendigo Lodges
+f5de715a Changelog update
+9528cc16 Better flair color for night theme
+9411fd8a Contrast improvements for Night and R/G themes
+e094dfc7 Night Theme trade control update Night Theme trade volume control made more night theme freindly
+e788b97a Compiled Game
+a1d0f42c Condensing and Fixing
+9a1ebe43 Redraw civics garrison on unification
+f771633c Unification Deoccupation
+b2650b9b New controls for setting buy/sell volume
+58de123a Merge pull request #254 from Beorseder/0.7.2
+68cc12ed Fixed Trait Descs
+c0b84811 Various Bug Fixes
+2583b396 Merge pull request #252 from Rodrigodd/master
+e74bf707 update pt-BR translation
+1bd20358 Merge branch 'master' of github.com:pmotschmann/Evolve
+b86146d3 updated pt-BR translation
+3588f22c Removed errant code string
+10e80209 Fixed attack button
+ce075412 updated changelog
+95235f51 Added protection againts negative spies
+2479226b More city name fixes
+1a263fe4 Feat star is no longer tiny
+01f862ad Government Name generation fixes
+1df3b1b2 Mini Garrison on Government Page
+ce9786ba Merge branch 'master' of github.com:pmotschmann/Evolve
+c68ec5d6 translated forgotten key
+c6720f07 Plasmid Mutation Counter
+a783429b Update strings.json
+9a22c6dc Merge pull request #249 from Ramdat/patch-1
+5090173a String spelling fixes
+4a5546f4 Rival city name generation fix Fixed problem with one of the potential name fragments
+8e7b486a Update Changelog
+e9e1b139 Updated feat string
+a15964ed Added heavy feats for new genus
+faa49f32 0.7.0 Release Candidate
+695c61c4 Rival City name generation
+e4027f37 Humpback and Thalassophobia traits for Kamel
+cda0b67e Snowy Trait
+d5323e79 Bug Fixes
+e0d874c6 Wendigo Fixes and ghostly
+de6266b6 Fixed spelling of Allergy
+d8c3f359 Fixed spelling of environmentalist
+ca0efd8d Occupied city soldier refund Soldiers are now credited back from occupied cities when unifying.
+14fd4240 Enviromentalist & Autoignition traits
+69d82e76 Spy capture event no longer triggers after unification
+450afa43 Fixed conquest unification
+d0ac75b5 Spy training upgrade
+cea8bda4 Rival cities gain hostility when attacked. Implimneted Slow Regen, and Mistrustful racial traits. Fixed Stellar Engine research now showing up without page refresh.
+f7734239 Fixed factory refreshing issues
+3e5787a8 update beta version number
+a77549c8 Thanksgiving Event Feat and Feative name for Arraak species between Nov 22nd - Nov 28th.
+02dc0c11 Enemy Government Polish, Fixes, and Adjustments.
+35e8c923 debug
+00437233 Fixed Money Unification cost display
+48dacd19 Unification Changes The requirements for each unification have been changed to tie into the new game mechanics.
+43f7e493 City Occupation A successful siege will now occupy a rival city.
+f7a5a8d9 Fixed spy data
+c7822580 Enhanced Spy Data Adding additional spies reveals more specific data.
+c4b7ed16 Removed erronious anarchist code from achieve.js
+06e7ccba Fixed spelling error
+efe80c2d Espionage Actions
+da877f01 Seige Event
+85167787 Reset Tabs to index 0 on newgame
+d4e939b3 Number notation systems Metric, Scientific, or Single Letter.
+32b029b8 Spy cost approximations Added cost approximation to spy costs.
+5a25b256 Elusive trait updated
+5f591c88 Merge branch 'master' into geopolitics
+ba2e5d61 Basic Spy Mechanics
+5535eedc Foreign Powers Initial foreign powers setup.
+1f1aa455 Merge pull request #248 from Rodrigodd/master
+5d0a5697 update pt-BR translation
+5289a951 Fixed crafter popovers
+e76580b8 Preliminary Foreign power stuff
+2152de06 MAD moved to military tab
+04bab7e0 Update main
+c96a324e Unorganized Trait. Military tab padding fixes.
+c097a452 Race stuff
+334be400 Merge branch 'master' into geopolitics
+96cf6ef2 Rebuild game
+e9bf1416 Merge pull request #247 from Beorseder/master
+d3205887 Color coding for industry operation levels
+835590d9 Removed debug code
+6c749a14 Balorg republic and socialist unlockable
+e133e142 Several industry techs now refresh the industry tab
+281d9359 Antimatter Consistency
+706de104 Railway now scales the number of routes with the number of freight yards.
+92c4c234 Railway now requires freight trains tech
+78877460 Merge branch 'master' into geopolitics
+2ef1f0eb Recompiled game
+3b5f289b Merge pull request #245 from Beorseder/master
+6db004c7 Merge pull request #246 from Beorseder/geoOld
+a33ee0fd Anarchist Perk Fix
+ee61e89e Heavy Universe Tooltip Fix
+0f888fd6 Antimatter Valdi Fix
+c00203f2 Challenge Multiplier Fix
+cca26c70 Craftsman can now pull from the farmer pool
+5b958f58 Morale rounding fix
+5c5e5092 CSS MAD fix for FF
+b58be14b Industry Tab Smelter, Factory, Mining Droid, and Graphene Factory are now all listed under a new industry tab
+660d256d Merge branch 'master' into geopolitics
+1ceaf24b Fixed temp variation
+e2cf8a93 Merge branch 'master' into geopolitics
+38ad8457 Added a feat for destroying an evil universe with an angelic race
+75843567 Job distribution. Increasing a job when you have no unemployed will now pull from farmers.
+ab0cc82f Update changelog.md
+7b4fd8a1 Merge branch 'master' into geopolitics
+3b0456f8 Fixed id conflict with last rites and ancient infusion
+30020018 Planet modifier adjustments Changed odd of special effects for Tundra, Volcanic, and Stormy planets.
+bcf67258 Challenge Multiplier adjustments.
+f2d9a172 Updated some hell calculations for casaulties
+35c5147c CSS Fixes
+3f71a065 Fixed interest rate on republic bankers
+001a0fd1 Fixed socialism ...
+d9d015a2 Fixed duplicate fortress rendering issue
+3e065e77 Civics tab split Civics tab is now seperated into Government and Military tabs. Fortress is now rendered under military in addition to hell tab.
+2680cba5 Fixed socialist Socialist now shows up under change governments.
+80ebbe24 Morale Rounding Morale displays are now rounded to 1 decimal place.
+778b3934 Government lockout time now scales with progression.
+6baee8a9 Socialist Government Added socialist goevrnment type.
+c84c16cb Goverment Changes Revolution is not longer a seperate mechanic. Government desriptions are more descriptive.
+593b3dc3 Initial government state fixes
+b958f661 Fixed government unlocking in civics tab
+11deed1d Rebuild distribution
+9750ad9e Merge branch 'master' into geopolitics
+fada11d3 Added some racial traits Scavanger, Lawless, Ravenous.
+ed75d2ab Inspiration knowledge removed. Inspiration event no longer adds upfront knowledge, the 100% increase in knowledge gain is now the sole benefit and that effect is better described in the event log.
+0babdb3d Corpocracy tech string
+fc0f9d13 Hell Wounded Wounded soldiers are now correctly calculated for hell patrols and fortress defense
+9ef2b3ff Extremely high tax penalty Taxes in excess of 40% now lower morale by 1.5% per percentage point.
+d4adfaba Corpocracy Added the corpocracy government type.
+59fe420b Added a 495 second lockout period after a siege
+c135f03f New citizens now default to farmers Refactored vue creation to use vBind function
+f863e336 Rapid Sequencing Upgrade for gene auto sequencing.
+5e2223d6 Grammer fix
+28041cde Merge pull request #243 from Beorseder/geopolitics
+84c42e57 Other Language Localization (Not Translated)
+6a0a0669 Merge pull request #242 from Beorseder/geopolitics
+ad62d63e Government Revolutions Rules regaurding changing your government.
+09358847 Merge pull request #241 from Rodrigodd/master
+9cf405c2 Refactoring of remaining races' planets
+d6059a92 update pt-BR translation
+94e561fa Added remaining race planet names Moved a bunch of race strings into strings file. 23 races remain to be refactored.
+f62be0b1 Merge branch 'master' into geopolitics
+c79b4810 Graphene Processing upgrade Upgrade for Citadel Station to effect graphene plants.
+d518e6a4 Merge PR #240
+11fd26bc Mini Localization pt.2
+8e0c831d Harvest Altar Localization
+dbc098e4 Some Bug Fixes
+cebf0b64 Refactored obsolete atomic mass code
+4f9c6deb Railway redesigned to feel more like a mega project
+4bca25e4 Bug fixes for 0.6.26 update
+72a0f1ae Bug fixes for 0.6.26 update
+be39d072 Merge branch 'master' into geopolitics
+3ce22160 Added whitehole perk to stats page Resolves #238
+18b9958b Evil Smelter Flesh Fix None-demonic evil smelters now correctly state they burn 1 flesh/s
+acdc340e Updated power on check to consistantly use newest method
+a252794c ARPA cost updating ARPA costs now update without mousing off and back on the buttons
+411a9663 Anarchist Achievement Added anarchist achievement and associated perk.
+c944e1f1 Minor bug fix and string correction
+f92a90cf Fixed several government implimentations.
+8dff2b04 Theocracy, Republic, and Technocracy. Implimented the Theocracy, Republic, and Technocracy government types.
+374b1599 Railway ARPA Project New ARPA Project, Railway. Boosts trade.
+4750e7c3 Anarchy, Autocracy, Democracy, and Oligarchy governments
+947857a3 Rocky Road Feat Added feat for bioseeding on a planet with 3 bad geology rolls.
+d9bc63fb Charter for goverments Prototype government switching system. Current Governments: Anarchy, Autocracy, Democracy, Oligarchy, Theocracy, Republic, Technocracy, Federation. None actually function yet.
+f92d3088 Fixed version number disappearing from topbar
+84ef7ed0 Mitosis and Metaphase New ARPA upgrades: Mitosis and Metaphase for mutations.
+705fa017 Citadel Effects Added Citadel effect and several upgrades for it. Updated modal triggers to new beufy method.
+964c4a70 Initial loading screen no longer looks broken. The base html structure is now loaded by index.js, this needs to be cleaned up more.
+78e8e171 Updated beufy to 0.8.6 Sortable is now version locked at 1.10.1 and delivered from unpkg cdn
+e8a8dad2 Fixed forge string
+690f332e Musical, Revive, and Forge traits Added Satyr Musical, Phoenix Revive, and Salamander Forge traits.
+04c43ff0 Merge branch 'master' into geopolitics
+4e917f11 Merge pull request #236 from Rodrigodd/master
+e2bca0b0 update pt-BR translation
+fa2ff2d7 Merge branch 'master' of github.com:pmotschmann/Evolve
+c7d1b9b4 add to_full and to_empty keys, and fix somethings
+93e5fb60 Fixed broken spanish string file
+9f8848fa Updated spanish strings
+8b980df6 Galactic Exchange redesign
+6d85fccf Smoldering, Chilled, & Heat/Cold Intolerance Added genus traits for Polar and Heat genus types
+4606066c Update 0.7 branch from master
+feff27d4 Merge pull request #2 from pmotschmann/master
+6a3474eb Custom Key Mappings Key Mappings are now configurable for multiplier and queue keys Geology bonus is now preserved on MAD reset
+cab6d256 Merge pull request #234 from Beorseder/geopolitics
+a50abd97 Suggestions: New Species' Planet Names
+f6c25212 Fixed halloween feat in micro universe Resolves #233
+84f8f6b9 More halloween flavor
+0c252df8 Achievement and Citidel strings
+dc7087fa AI Supercore AI Supercore upgrade and Citadel Station
+9be997fd Update from master
+b7eca82c Halloween
+f47df427 Dark Energy Antimatter Windmill fix Dark Energy now applies to windmills in antimatter universe
+578ae6e5 Update package.json version number
+b5c4fb80 Update geopolitical branch from master
+78532d34 Kindling Kindred Queue timer bug fix Fixed issues with queue timers and kindling kindred trait Resolves #228
+edc249a4 Fixed Galactic Landfill exotic mass Exotic mass now counts towards Galactic Landfill and Supermassive Resolves #229
+8dd91985 Rebuilt bundle
+5c00d64b Merge pull request #230 from HLXII/master
+3e5cbc85 Races for remainming biomes Race scafolding for Forest, Desert, Tundra, and Volcanic worlds.
+f19c9926 Fix atomic_mass script exposure
+1997ba31 Added code to detect a broken unify state and reset it
+615f3bd6 Expanded script support Note this changes the window.evolve object from a referse to global to an object with many sub sections. The global object exported to window.evolve is now window.evolve.global
+7705cb27 Compiled pull request
+736ad0f6 Total Morale Display Update
+1448ba6b Increment game version to 0.6.22
+d537f8fd Fixed timer issues with queues Resolves #225
+d3849417 Fixed war droids in patrols
+b3ffa798 update package.json
+83becf68 Merge pull request #226 from Rodrigodd/master
+088e7087 Merge branch 'master' of github.com:pmotschmann/Evolve
+96d0fec1 add numbers check for checkStrings.py
+a0266a45 update pt-BR translation
+3d5a7903 Added settings option for scripting support.
+9a2541cd Added build scripts to package file Moved less file into src/dist folders
+fd2bf7fe Removed another symlink Apparently github sucks at following symlinks
+80cbb838 Removed symlink
+e3d3c75b Now using webpack to bundle game
+c2270b26 Update vars.js
+a5603825 Fright Train upgrade moved
+d54479fa Spatial reasoning rounded
+8ddf96d1 Merge pull request #223 from Beorseder/master
+f5605b36 Cross achievement fix
+0b484973 Added toxic troll achievement
+2a5f9f96 Fixed synthesis of anti-plasmids Added anti-plasmids stat to stats page
+f05d8549 Cross achievement
+e68c67a2 Plasmid/Antiplasmid fix
+9bfd5572 Added more text to game data reset option to dissuade click happy people.
+4769310e Evil Ent Flesh Burning
+c939e3cc Asteroid Belt description update
+0af8b825 Crate rounding
+fa2d531e Fixed power errors with hell dimension turrets
+3eb9d754 Swarm control ai l10n corrections
+ec6e9cbe swarm control correction
+3869a284 Merge branch 'pr/218' into refactor
+63e12c9e Merge branch 'pr/217' into refactor
+a87e65ee Fixing module loading
+0330ffac update zh-CN translation
+72baf271 Swarm Satellite revamp
+a8c54059 Remove duplicate key
+06f71e90 Fixed demonic craftman id
+0bfd78a0 Update changelog.md
+53b8cc11 Cancel Routes
+512ffb87 Crate/Container build tooltip uppdated
+f0b3cf71 Buy slaves in bulk
+654a04f8 Slave Market
+84cc6591 Inspiration Effect
+332c6b8a Challenge toggle
+bdaddd18 Update changelog.md
+f4a3386e Genus Marking
+8438f2a9 Graphene Zig BD
+a987d21d Universe achievment tracking display
+51cda61c Fixed decay star
+753a4317 No queue order
+5cc44701 changelog update
+57ae5d7e Added queue button functionality to research queue
+ea51a60d Update achieve.js
+7aac8d79 Update vars.js
+fb2dba16 Update strings.json
+197a2536 Update changelog.md
+297202c7 Evolution Emblems
+9a224b50 Update arpa.js
+a1ed5b7f Space tab unlock message
+0095c9c6 Merc button css fix
+00a43d77 GPS Satelite Trade
+eef02406 Update jobs.js
+bd27b467 Hunter starting label
+094f2618 Merge branch 'pr/213' into 0.6.16
+76004dc8 Heavyweight perk fix
+1ac54db8 Changed creator perk description
+1733f016 Perk string spelling/clarity
+0a979a6f Merge branch 'pr/211' into 0.6.16
+affc70fd fix/update checkStrings.py
+b62638cd update pt-BR translation
+9a343480 Added additional stats tracking
+a332d7ed averse string update
+28b466fe Employment color coding
+f43d2732 Default queue state
+b7d3abe6 Queue key setting
+cf44d4d4 Update space.js
+4cafdf4e Merge branch 'pr/210'
+081235d7 Update changelog.md
+22bb8894 Asphodel Garden
+8997be86 City cat toggle
+3eab893e Celestial bug fixes
+17658237 Update achieve.js
+a088b8c2 Mutation stats
+15b3396e Merge branch 'pr/209' into 0.6.14
+834d6b65 Fade color
+e369d918 Merge branch 'pr/208' into 0.6.14
+35e75c3d Updated Perks List
+cdf50601 CRISPR Mutation perk text
+fe98f0ab Darkened gene/phage buttons on genetics tab
+a3c1f9c9 Added Queue button
+610f396b Fixed inaccuracy in powered wardenclyfee tower
+eec69d93 Wardenclyffe Description Max Knowledge Fix
+041dfb9a Fixed bioseed bug
+b98eb1c5 Update changelog.md
+c4d68d40 Hell Mercs
+5d4879d8 Added power usage to metal refinery
+b060e981 Temple floating point fixes
+a8a312fc Babel flair text
+fed5af21 Surveyor reports toggle
+33f4287b Fixed break in chinese string file
+52f1d75c Merge branch 'pr/205' into 0.6.12
+885f2767 update Chinese translation to 0.6.11
+0ce77e9b Spelling fixes
+6fd95ca4 Update changelog.md
+2d5e282f Merge branch 'pr/203' into 0.6.11
+605e5626 Scavengers
+9be1ed8c checkStrings support for chinese/japanese period
+af4d822d update pt-BR translation
+920d57d2 UV Exposure
+b1a0f96f New planetary achievements
+fae36052 Magnetic Planet
+ad3d6ff8 Update changelog.md
+fdd67a86 Merge branch 'pr/202' into 0.6.11
+f92866c7 Rage Atmosphere
+754f30a5 Cleaned up and added translation support to city category system
+64ea6922 Sorted city actions/buildings into categories.
+2389391b Update strings.json
+e0783027 Dank Trees
+3d873868 Planet trait compatibility upgrade
+f1ede399 Planetary Traits Scafold
+5a039cea Update locale.js
+298fde02 update simplified Chinese localization
+d879947c Kindling Kindred removal
+4919436f Fixed spelling error
+a9334e9b Graphene bone fix
+c9f644e1 Gene editing cost fix
+d862bc26 Merge pull request #197 from Ramdat/patch-1
+d22968d9 Spelling/grammar string fixes
+466deaad Corrected bleeding effect number displayed in description.
+2eba6ebd Changed bleeding effect calculations
+772bbc69 ARPA Fix
+75f634b2 Update changelog.md
+620b1220 Fixed repeative aria label
+61c76c03 Mass ejector aria label fix
+baa3ed81 Balorg queues
+354a86a8 Temple float fix
+5fa5bb3e changelog update
+c065ebd0 Power precision increased
+6fe55005 Astral Awareness
+f8e1ee98 Bleeding Effect
+9206fb75 Antiplasmid display
+d022fca9 Antimatter Temples
+73b0534c Update arpa.js
+0433a1a7 Antimatter Base Rules
+3689adb8 Donate link
+a2b65297 Update changelog.md
+8ae3d5c8 Timer cost adjustments
+0dce5d2d Research queue timers
+90ffa84b Queue reordering improvement
+2cf8c3b3 Evil races can once again gather food
+ba675f98 Update strings.pt-BR.json
+75859c36 Update strings.pt-BR.json
+f0894b8f Cath mills and spanish fix
+1a418c8b shroomi entity updated
+5aedd761 cacti entity description
+3846a6d1 Merge branch '0.6.6'
+d894e109 Merge pull request #195 from Ramdat/patch-1
+351b958d Fixed plasmid and phage counts in blackhole
+db88cfe8 Spelling/grammar/consistency
+c592a01b Blackhole informational text
+09bc9bde Windmill upgrade path
+0e6a8487 Update changelog.md
+f5cd3f62 Update changelog.md
+b4e19e9d Mantis Sacrifice Tech
+53d6e590 Challenge Multiplier rounding fixes.
+89e5dcc4 Cath Windmill fix
+ba1ce6f9 Update strings.es-ES.json
+9e400752 Update strings.es-ES.json
+fe4c1efd Update strings.es-ES.json
+e77cad39 Space fixes
+85915cb4 Grammar fixes
+0e9322c9 Merge pull request #1 from pmotschmann/master
+9239240f Merge pull request #193 from Ramdat/patch-1
+987affbb String edits
+35d56c8e Iridium mine precision
+d314772a Merge pull request #192 from Rodrigodd/master
+743700d0 fix 'TRANS:' space in updateStrings.py
+f4d74b30 change name from translation_tools.md to readme.md
+25b06520 update pt-BR translation
+8a260d9f add token count differ to checkStrings.py
+f4acffc9 fix updateStrings.py delete count
+127a403f Evil Ent stone fix
+6623c1a7 Hellscape farming tooltip
+12829770 Update strings.pt-BR.json
+a54c5205 Frenzy display bug fix
+ab9f01dd Micro warnings
+b39dd401 Double windmill fix
+d52b88dc Spanish String fixes
+a1133038 Fix "," error
+ec21223e Update 0.6
+32e4e960 Corrections
+177bbf46 heavy gravity label update
+7a4495a6 Spelling/grammar fixes
+b4647f35 Update vars.js
+a858fdd1 Perk fix
+47dd37ce Revert "Revert "Fixing perks""
+5ccb25d4 Revert "Fixing perks"
+730d60b6 bug fix version increase
+23d508a5 Fixing perks
+c3f1fb3f Fixed new game issue
+805d7c7a Update changelog.md
+a7248540 Update changelog.md
+53bd820f Evil dark energy
+111dd35b Preliminary patch notes
+d0ba8eae Alt universe icons
+0e079cfc Merge branch 'master' into Universes
+28cca5d8 Merge pull request #188 from RanaPeluda/patch-1
+ac70f0f4 update
+62523fb8 Update strings.json
+78fc88ef Vigilante Achievement
+42c6d1a0 Multivese achievement tracking
+4fc4b5ec Achievement format update
+48712a24 Evilverse Stuff
+3a9b574c Magnificent Trait
+05fd384e Noble fix
+6620e5bc Merge branch 'master' into Universes
+bba68e51 More celestial stuff
+a0e3f000 Merge pull request #185 from Rodrigodd/master
+6b3d2b6c Celestial traits
+5d47437a Biome weather adjustments
+ac1db360 Celestial Evolution
+6af938cd create python translations scripts
+828f1e7d update pt-BR and es-ES strings
+22a4abc8 Evil Smelter
+c82a4eaa Seraph and Unicorn achievements
+cd3a19ff Merge branch 'master' of github.com:pmotschmann/Evolve
+6769e37d Reclaimers
+0d6718b5 New decay rules
+2fb73bea Antimatter dark energy
+b22b6660 Merge branch 'master' into Universes
+c98b73b9 Merge pull request #184 from RanaPeluda/master
+0565290f Merge branch 'master' into master
+fcfaaf91 Update strings.es-ES.json
+0d415abd Standard Universe dark energy
+045ca427 Altar altered
+ad8846f1 Heavy Gravity dark energy
+845432c3 Not Tech condition
+1ede9f26 Micro universe dark energy
+78e50ddd More words can't available to traduce.
+1d3d6031 Decay universe perks
+531a1995 Merge branch 'master' into Universes
+d06c582b Removed bad char from spanish file
+69b2c14b Can't change this:
+4bf89e75 Update strings.es-ES.json
+aafbb2e1 Can't change this:
+2c4f65f0 Update strings.es-ES.json
+6179f657 Merge branch 'master' into Universes
+93184b46 Update README.md
+6ba961c1 Merge pull request #1 from pmotschmann/master
+fa98781b Seraph Traits
+13e26c7f Merge branch 'master' into Universes
+0da55724 Smelter fuel gauge
+c78914f2 Modal width
+9223c1e5 Repaired spanish translation strings
+a641069f Merge branch 'pr/181' into 0.5.18
+8e88b4e1 Update locale.js
+0f26a528 Update strings.es-ES.json
+94ba13e1 Update strings.es-ES.json
+d1248e93 Update strings.es-ES.json
+bc168e05 Update strings.es-ES.json
+4f1abe56 Finalizada traducción
+6d65ce09 Update strings.es-ES.json
+41d78e16 Create strings.es-ES.json
+3b958867 Challenge info added to planet popover
+543bb42a Topbar margin fix
+4059014e Merge branch 'master' into Universes
+5e753e3f Fanaticism bug fix
+244ad9af Seraph and Unicorn groundwork
+020c4594 Heavyweight Perk
+fb7b326c Fixed decay label
+b9bfb80d Decay Challenge
+9631443e Refactored turret and fission power code
+c5ef6f59 Power grid refactoring
+9ef86119 Linear decay formula
+11dc15bc Better Plasmid scaling formula
+4ba416c3 Decay mechanic
+74dcd106 Increased universe planet count
+ca793990 Heavyweight Achievement
+f282d801 Fixed proto universe error
+455d6225 Vue cleanup
+83f2a202 Blackhole mass listed in stellar engine
+cd2b1956 bioseed bug fix
+cd70c746 Heavy Feats
+ee15d389 Heavy Universe bonus
+a6393dad List Universe
+4de91f4a Big Bang Achievements
+3d00119c Micro Achievements
+4e6d60e8 Micro Universe
+799f15e6 Merge branch 'master' into Universes
+5582d2fc Update README.md
+c4950edc localizated 'Prehistoric'
+46abce92 update pt-BR translation
+a40b36e2 localizated 'Prehistoric'
+51a8b3b7 update pt-BR translation
+f42a5257 Merge branch 'master' into Universes
+2663cdbe Moved job restaffing code
+971700fb Update changelog.md
+e92da35d Fortress auto re-enforce
+0eb3040c Cannibalize Trait
+bee35155 Fixed neutron mission label Resolves #179:
+49b179c2 Merge branch 'master' into Universes
+d183d425 Soul Gem drop adjustment
+a750007a Heavy Gravity
+3ac16d12 Evil addendum
+ba9f1de1 Evil Universe
+15f65068 Update README.md
+34b4e55f Update README.md
+72eae668 More universe prototyping
+b0e30e4b Removed Buy/Sell option from crate modals
+bbe08c2e Universe Prototyping
+e679e776 String fixes
+29af63a6 Update changelog.md
+562f6c5b Refactoed consuption labels
+164ea125 update pt-BR translations
+1433d866 Merge branch 'master' of github.com:pmotschmann/Evolve
+18cc06fa Update pt-BR translations
+e06945e0 Fix some things
+17fb6b33 Container tab unlock bug fix
+cd45c1e8 Update main.js
+63bc7c38 Build queue multiplier key
+6ff263a4 Supermassive feat
+d737de47 updating pt-BR translation (220/417)
+e13316f0 4 english typos fixed
+fe506f4a Merge branch 'master' of github.com:pmotschmann/Evolve
+c1a7ade8 Smelter overflow detection
+8324c199 Merge branch '0.5.13'
+ca672e86 Fortress threat rating
+f0f83a1e Fixed belt mining low power miscalculation
+4df22a93 Challenge gene layout
+310fab6e Prevent r_queue corruption
+ba623e0d Update changelog.md
+a7656afd Pacifist Revamp
+407b3efa Spelling/grammar fixes, mechanic clarification
+3f1e319b Update actions.js
+dd6577e2 Queue clearing bug fix
+caf5da0f overflow fix
+cd66299d Gene mutation timer consistancy
+72e5c61e Action title wrapping
+bbf447d7 update pt-BR strings
+b3213675 update pt-BR strings
+ece4ccc6 update pt-BR strings
+75b74d6d update pt-BR strings
+660f3bdb Running action desc timer
+48587e1b DNA Fix
+d49072c8 Merge branch 'pr/172' into 0.5.11
+9e23613e Webfont
+d307a56d Gene mutation time in HH:MM:SS
+4dcddc0d queue corruption error handling
+987f11db Update changelog.md
+440b19ea Action ready timer
+3f2d91c2 Challenge listing
+30236eab Update fortress strings
+6f487648 Buffed demonic attractor
+3535b69c Remove completed queue items
+6d6af88d Queue bug fixes
+cff3e406 Craft resource timer fix
+e557baaf Crafted resource tracking in queue
+7d36eacd wiped build queues
+be3add55 Queue logging
+672b15af Queue timers
+9f663625 Queueing related fixes
+a4c26337 Mass ejector resource list fixed.
+be20641e Gene formatting
+d7ac1d7c Fixed display precision on some structures
+e038cbb4 Fixed $ breakdown empty consume line
+5cf5e79e Research queue sortable
+3f006dc1 Merge branch 'master' into 0.5.7
+ae2816d8 Fix bioseed losing dark energy
+5d913af2 Merge branch 'master' into 0.5.7
+1205db0d Reorderable queue
+8bdfd180 Update main.js
+cf5cc310 Update vars.js
+a2a153f0 Update changelog.md
+ddb6b301 Prevent requeueing same tech
+83507191 queue polish
+79f7f990 Mass ejector unlocking fix
+da406f6a Fixed rock quarry bonus
+50f21d70 Research Queue
+753239d4 Stardock Queueing
+cacf220c Space Queue Fix
+dc7416e8 Update changelog.md
+27be8626 Prevent requeueing same tech
+10e1b296 queue polish
+a479ac66 Mass ejector unlocking fix
+d9a8a463 Fixed rock quarry bonus
+e0561c28 Research Queue
+ec793f9d Stardock Queueing
+7a5a2ad2 Space Queue Fix
+502af4ec Fixed label of plasma turret upgrade.
+a01d2795 Update main.js
+ab8529a3 Merge branch 'master' of https://github.com/pmotschmann/Evolved
+8a65b5f4 Queue fixes
+e645ef81 Update strings.json
+cf7387ea Typo fixes
+e1c4737c queue cleanup
+a1b6f659 queue fix
+48170605 Fixed spelling of candidate
+e320cda0 Fixed spelling of dimension
+de9ae679 queue system
+6dfd61a2 Update changelog.md
+3c9d5ebd Update changelog.md
+01e26502 Night theme special color
+2ab20713 Mass Ejector Fix
+5392808a Disrupter Rifles
+4cb9abeb Stats & Achievement tabs
+aff93dc0 Fixed misnamed trait key
+84b5743b Fixed iron smelter Resolves #154
+6fe2b434 Update changelog.md
+f9987767 Disappearing craftsman fix
+65071209 Merge branch 'master' into deep-space
+286f7320 Fixed many things with terrifying trait and resource tab
+5179f8cd Mutation clean up
+6a9b5cc0 Big Bang Animation
+70093ee8 Added an extra step to bioseeding
+b0b5480c The Big Bang
+98eb454e Resource display fix
+b04a0f7f Survayor upgrades
+04091275 Bug:Taxes jump to max when first increased
+180fc82b transformation, metamorphosis, & transcendence
+45433f88 Mutation
+d84f8bf8 Gravitational Convection
+5e8c96e8 Stellar Engine adjustments
+19e8d575 Fixed low power mass ejection
+7f3fa7f0 Galactic Exchange
+2fae5698 Mass Ejector
+a2876f56 Stellar Engine, Far Reach Station
+7e4b8f4d Quantum Entanglement
+4f565f5e Storage adjustments
+cd8c6a33 Merge branch 'master' into deep-space
+6bc90918 Alpha Centauri Warehouse
+02b95b4a Carport Repair sytem
+fad3ef41 Added warning to Valdi challenge if you are on a hellscape planet
+ff263d9f Added aria label to crate button
+df384ed0 Fixed accesssibility problem with crate button
+b7c6e5fc Merge branch 'master' into deep-space
+4a8085a3 Joyless Challenge
+8300bd79 sp fix
+3b87b534 Blackhole Unlock
+37cd59da Elerium Prospector
+28009afc War Droids
+1567a630 Production BD l10n
+4ffc5ce1 Neutron Storage
+e1393937 Patrol Cruiser
+1b40436f Neutron Miner
+8cc728cc better res breakdown layout
+0656b87d Power generation breakdown
+5ffe49e5 Bug fix and balance changes
+afc022fe ELYSIS Process
+e035982a Dyson Net
+af9bf539 Dimensional Readings, Graphene Vault, and Tamper Proof Safe.
+334ea28d Super Stars
+6418e4e1 Sensor Drones
+d6de3552 Aerogel
+e3376201 Plasma mining, Predator drones, Atractor.
+55215a0c Plasma Weaponary
+0c7e6a6e AI Logistics and Graphene Crates.
+30f77330 Subspace Beacons
+b118ea29 VR Center, VR Training, and Virtual Assistant.
+7f4810c9 Hellfire Furance
+85da109e Chainsaws and Adamantite hoes
+3e379047 Fusion and Cargo Yards
+5400e458 update pt-BR strings
+3a50faeb Graphene, Stanene, and Virtual Reality.
+948ec1b9 Merge branch 'master' of github.com:pmotschmann/Evolve
+fa4352ad BAC Tanks, Adamantite Vaults, and Adamantite Jackhammers
+ecc25f6c Patrol notification fix
+5d872c6f Merge branch 'master' into deep-space
+c305689c Weak CRISPR now applies correctly in space
+670f0d3b Weak Crisper
+ac0da7c9 Deuterium storage breakdown
+d3cdc9a2 Gas Harvester
+b7e7a9c0 Removed redundant tech strings
+72354cd1 Patrol reports toggle
+3fdde655 Demon surge event
+aa6cc2ce Fixed soul gem generation
+d427c01e Soul Gems
+606c4a6a Nexus Station
+e0eebc4b Adjustments and Nebula prep
+9d0fac14 Infernite base value
+a02b8b26 Fortress Repair
+eebbe70d Merge branch 'master' into deep-space
+c425de86 Smarter Smelter
+b48df29e Seige logic fixed
+f7a670fd Added a Patreon link to the bottom bar
+4ab8aca6 Siege logic
+5f89418a Merge branch 'master' into deep-space
+e77bf7f9 Genetic Disaster
+a4dad6bd Survayor danger
+22b43ff3 Ambush adjustments
+78eb2a1a Fortress patrol adjustments
+de07b8c8 Rudimentary blood war mechanics
+3cab610b Merge branch 'master' into deep-space
+aa0418f2 Special action button
+7107d919 Scaling power functionality
+590cb452 Laser Turrets
+a74cd79c Fortress/Garrison vue updates
+762bc003 Pandemonium & Blood War
+f87a5afc Turrets & Surveyors
+53dc148e Fortress functionality
+31d43a66 Fortress scaffolding
+99a4932b Portal file
+35c47f98 Fixed crate/container bug
+843ea1eb Evolve tab string
+4a67199f Tab reorganization
+da801235 Xfer Station
+1abb95a2 Fringe Laboratory
+d5af9fc2 Processing Facility
+cab18b46 Habitat
+feb84104 Adamantite Screws
+c1d02ead Merge branch 'master' into deep-space
+9b11b2a5 A.R.P.A. SR improvements
+a497207b New Crate/Container management
+aae55011 Merge branch 'master' of github.com:pmotschmann/Evolve
+0d56db8c Miing Droid functionality
+1759447f Mining Droid scafold.
+424a1173 Advanced Resource Definitions
+f2228a09 Starport
+2763310f Affordability check updates for interstellar
+5a3f9754 Grammer fix to red mission
+def38bfe Scaffolding for Nebula, Nuetron Star, and Blackhole.
+4ce517f5 Paycosts input refactor
+1da6244c Alpha and Proxima Centauri
+5b1242d9 Merge branch 'master' into deep-space
+06318d98 Factory ARIA improvements
+a0d32268 Deep Space tab display
+ef90d4e3 Update changelog.md
+5b6a58b3 Sub Space Tabs
+1a62e196 IndexLocalization
+6963cf6f Localized tab headers
+340de501 Buffed Leathery
+e7b94002 Interdimensional Portals
+5e708cd8 Warp drive strings
+27ac888a Tachyons & Warp Drive
+6b08b0c6 update pt-BR strings
+42c18026 Merge branch 'master' of github.com:pmotschmann/Evolve
+5423f8ce Gene mutation scale
+ed469998 Version update
+eeb6fade New Achievement Perks
+3e3c24e9 Added explorer and creator achievements.
+ccfe9df1 Slow + Hyper
+19151c4d Update changelog.md
+09675f66 Advanced resource color
+7bbbdcb0 Challenge Phage
+5025f48d Fanatic Centaur
+29326336 update pt-BR strings
+698e7ea1 Merge branch 'master' of github.com:pmotschmann/Evolve
+aca6629b mass driver starting calc
+8e3f438c Bug fixes
+cabfd526 Update changelog.md
+2398b279 Resource highlighting
+476931c1 Fixed resource row coloring
+578f345a Improved SR building cost descriptions
+c7458e25 Smelter aria improvements
+8dd261ff Ent Fanatiscm fixes
+8feecf34 ARPA destory validation
+17f03571 Dimensional Compression cost fix
+926341cf Expanded slave death flavor.
+e509b647 Slave death event
+e1037221 Balorg Slaver trait
+b11081bf Fanaticsm minor trait fix
+29564b97 Oiil extractor fixes
+d6d36c09 Resource row coloring
+2a83ae88 Augmented SR descriptions.
+666011b1 update pt-BR strings
+c001cc09 Fixed living quarters
+bcc8e9fb Fixed race name key in events
+3c835fcd Fixed dazzle cost
+7dddcdbf Update actions.js
+61166e48 fixed spacedock
+9497abb8 fixed housing issue
+bc4dc117 Fixed dazzle
+3f78810b Balorg taxes
+a9253d03 Evil windmills
+89bda164 Experimental demolish mode
+789edcb2 Factory key multipliers
+ce57b00d Cement Factory renamed
+f273a4e5 A.R.P.A. approximations
+5fbfe413 Extreme Dazzle
+50c35e66 Oil Depot String fixes
+86abf6e2 Update changelog.md
+e03dfddf Ambidextrous buff
+8baa9263 DNA Sequencer
+122ef8f9 Merge branch 'pr/138' into 0.4.30
+76e5ca65 minor code reorganization
+9035cdf4 Revert "correct 'orge' to 'ogre'"
+49065d6c remove '[100%]' from pt-BR locale name
+5c989ffb update strings.pt-BR.json
+624e2179 Merge branch 'master' of github.com:pmotschmann/Evolve
+05d5af5a human race planets names localization
+b2efe992 Merge branch '0.4.29'
+7de8d307 Phage option
+9d1f8cc0 removed duplicate trait entry
+0df07812 Gene Assembly
+abcacba8 Shotgun Sequencing
+b89642b6 backfill genes
+2a8601ef correct 'orge' to 'ogre'
+27eab2ca race names localization
+3187bb35 jobs names localization
+016819ac pt-BR translation (1784/1784)
+a246735b Phage genes presistence
+24acb758 gene manipulation
+7385a121 Merge branch 'master' of github.com:pmotschmann/Evolve
+45d893d1 pt-BR translation (1717/1784)
+4f114a47 Fixed worker drone cost
+d7f582a7 update strings
+c1c8ae30 Merge branch 'master' of github.com:pmotschmann/Evolve
+0df70282 pt-BR translation (1588/1781)
+c7f50c99 Update vars.js
+a6da2667 Merge branch 'master' into 0.4.28
+077ee85c Added missing hellscape achievement
+eca265bc Synthesis line of CRISPR upgrades
+8d20049c Removed debug line
+5a85198f Iridium and Helium-3 unlocking
+c4b64d26 Added Gene resources.
+1414d927 Random trait stacking
+fdca4166 Seperated minor traits from major traits.
+d5cfd3cf Fibroblast minor trait
+3dcaff68 Satellite and Observatory cost reductions
+f6942ade Merge branch 'master' of github.com:pmotschmann/Evolve
+0e41acaf Fixed deify/study old tech display
+3a800f95 Merge branch 'master' into 0.4.28
+0d8ccf77 pt-BR translation (1382/1781)
+cddac40f Merge branch 'master' of github.com:pmotschmann/Evolve
+5a6837f8 spatial reasoning phage fix
+01920d60 warmonger achievement fix
+467f1aed grammer fixes
+43fb4460 Fixed some bugs with new SR functionality.
+d92f81cb SR action descriptions
+7dcbfde6 Power key multipliers
+a99e6385 Alt doomed event text
+56042684 Crispr listed as perks
+f465c118 Improved Fanacism unlocking
+719b9d1d pt-BR translation (1251/1772)
+69ddee34 update strings.pt-BR.json
+e1522f7a Merge branch 'master' of github.com:pmotschmann/Evolve
+31720638 Removed duplicate strings
+2bcc1121 Fixed Soul labels
+8f38ff1a ARPA resource labels
+30fe9a9e Quantum Manufacturing
+4488be30 Fixed nano tube unlock cost
+6a8d3c38 Merge branch 'master' of github.com:pmotschmann/Evolve
+1e4f8edc pt-BR translation (940/17943)
+0a35584f Fixed space station string
+4b64caca Merge branch 'master' of github.com:pmotschmann/Evolve
+d6539d4d pt-BR translation (767/1793)
+ae70ffa8 Merge branch '0.4.24'
+d0a0df83 fixed deify unlock
+a37c4bf8 Update changelog.md
+62dd3ea0 Study Ancients
+37a94c27 Fixed immoral problem
+ca51a2b6 pt-BR translation (617/1993)
+6f0553e5 Merge branch 'master' of github.com:pmotschmann/Evolve
+b2969963 Ancient Theology Unlocking
+e887526f Fixed selling bug with imp race
+170d5d7b Ancient Theology
+e81494f6 Cement factory label
+2f0c1461 Thermomechanics
+e771b6e9 pt-BR translation (505/1777)
+0ca2058d pt_BR translation (321/1775)
+bf4a6fbf update fork
+8272d73f pt_BR translation (321/1775)
+34d56d80 Update strings.json
+eeef8ab4 Update changelog.md
+c9f1673a Merge branch '0.4.23'
+d950fb00 Basic evil citizens now generate money
+d61b7c70 Hellscape never cold
+055e519c Slaughter unlock on evolution
+17271726 Balorg fana trait set correctly
+ac165f1a Hellscape Warnings
+6c0df06a Phage Fix
+25494a4f Demonic Achievements
+f581ebaa Merge branch 'master' into 0.4.23
+00676938 fix various typos for strings.json
+da3a46ee Merge branch 'pr/136' into 0.4.23
+0cbc8ed7 Conniving & Pathetic Trait
+e2d1132b Added trait definitions for demonic races
+2d2420fa Observatory Cost rebalance
+facd6355 Towers of Babel
+046d1748 Smelting with Souls
+0aa3cc1f fix various typos for strings.json
+f8c38121 Terrifying Trait
+7a02fff8 Boneweave
+ef682d5d Millions+ Percision.
+6ea0a13b Immoral Trait and more Evil stuff
+537ef8d4 Soul Wells
+f23b92f3 Apartment and Cottage desc fixes
+49c57f97 Fixed soft reset phage tracking
+0a669a3a Fixed 251 plasmid issue.
+7ea74a54 Fixed fuel consuption bug
+8d552b62 Mass extinction fix
+a964a320 space string fixes
+7247cada Fixed more issues caused by l10n work
+8224729f Fixed a few minor issues with l10n refactoring
+4546327c Merge branch 'pr/135' into 0.4.21
+dbe7089f remove _title sufix from tech
+4011cda3 action.js tech localization
+da319f9a action.js tech localization
+63dfeb28 Merge branch 'pr/135' into 0.4.21
+4b902591 dimensional warping fix
+78ee83ab phage stat
+f52c78e0 Merge branch 'master' into master
+c6d9c78c Phage
+58da0d38 fix more localizations
+ff92f61c Mine String Fix
+0853cffe More tech l10n
+f3b2bde3 fix some localizations
+be9a2cf7 fix merge
+2eb6ecd1 Merge remote-tracking branch 'pmotschmann/master'
+4d2af49d More tech l10n refactoring
+3a1f3aa2 Space Station Elerium
+d0128626 Carnivore Windmill
+aa660524 update fork
+733b643a preparing for merge
+49f32b6f update localization
+21bd5363 fixed mine and coal mine descriptions
+a4398ede removed extra char from observatory
+cb937300 Started tech l10n
+ebb45a1d Fixed fission power label
+1d8ed565 fixed gnome mislabeled as goblins
+8ef0956d Remaining city l10n
+28646e20 space factory loc fix
+844c95da Fixed oil extractor description
+2c96b037 Fxied outpost power display
+7c99d6de Metal Refinery required.
+cc89b813 Update changelog.md
+44d19528 Fixed planet description tooltip
+8fbf6308 Fixed space problems
+ac3987b9 Fixed description of ocean worlds
+796770b6 Lower cost of interstellar probes
+aebcd05b Planet Geology
+c1858e3b Old Gods tracking
+ea14b9cb space.js l10n fixes
+a74cf65d Merge branch 'pr/132' into 0.4.18
+c043f24f Merge branch 'master' of github.com:pmotschmann/Evolve
+fcde1713 space.js localization
+6db7bf26 Underwater fires
+b286108b Added H tags
+e2250ab6 Bank - Rock Quarry l10n
+b1fa4402 Challenge level indicator
+a1938f00 star dock l10n
+39085a31 More action l10n refactoring
+ed1f5d02 Update changelog.md
+06cb01b9 Hostipal & Boot Camp
+06fc79e0 Cheaper Mass Drivers
+d00e48c5 Mass extinction unlock change
+9f4621c5 Removed animination setting
+8b6be291 Military advice
+07ac4ec2 ARPA remaining
+ea5379d4 Multiplicative bonuses
+410af03b Partial city l10n
+cde2bd78 Aluminium can now be looted
+88cac279 Enable Reset, reset on load
+99096dc1 Fixed Dimension Compression upgrade
+3d0bc9ba Frenzy now prevents warmonger
+43716b86 Sheet Metal unlocking
+51662ab1 Space era material cost redistribution
+853d2cfb Aluminium Statues
+58da9142 Fixed steel loot label
+c7533086 change log updated
+dddddef3 Aluminium Storage
+0073efc2 0.4.13 changelog
+69cc47de Aluminium
+68eed574 Accessibility changes
+87bafc91 Merge branch 'pr/129' into 0.4.13
+44d0aa4b resource.js localization
+8dd0777d Added aria live to messege queue
+c89b67ae Fixed cost highlighting
+0f10b08c Cost approximations
+9c1f3873 Blackhole perk
+254be834 Fixed event timer
+c6c3f840 Fixed achievement unlocking
+78a43bba Update changelog.md
+3cefbf8d 0.4.11
+c67bd54a Fixed new game bug
+12d1f4d2 Update changelog.md
+a4215c52 Fixed demonic invasion tracking
+a777795e Spelling error fixes
+66eddacd civics.js localization
+556bf5ca Fixed monument title
+4550d0ea Fixed error in patch notes
+8a21960c Crafting ratio details
+e7f8b175 Removing Debug Code
+7d1ee2c8 Fabrication Craftsman
+1fab821c update fork
+c97e36e6 arpa.js localization
+fcc47139 0.4.8 description
+67c1939b Evolution stage localization
+5451e566 races.js locale support
+d3676eac MAD Unification
+31e1334c Merge branch 'localization' into 0.4.8
+0cd08bf8 Disabling WIP translation for merge
+662b8b96 Fixed CSS alignment
+add7c20b Merge branch 'pr/126' into 0.4.8
+3bc075fb Fixed avian reset bugs
+c9e35987 Update changelog.md
+ab0f5c8f Challenge gene bonus
+0d4c2fe2 Merge branch 'master' into localization
+7c8604b9 Genesis cost reductions
+89694f65 update libraries
+5098cc7d Merge branch 'master' into master
+5df22c18 fixed achieve.js localization
+141d0b1a update pt-BR translation
+1046e4a5 Buffed many racial traits.
+79b509eb Mastery Bonus
+02a733b9 Low poer warning with none active
+07cecbb7 Continuous Gene Research
+11ec8081 event.js localization
+b116abe9 Love the game, typo correctoins.
+f5c828bc add "locale" translation that I have forget
+5a32b0b6 create strings files / start pt-BR translation
+39ddcd1c create strings files / start pt-BR translation
+b73b49b1 Worker Drone nano tube costs
+773efc88 No Plasmid challenge tweak
+6194074f Wharf update
+a1d58d38 events.js localization
+19f55697 jobs.js localization
+d85c74c8 localization setting option
+02bd613b Localization support system
+73854865 Vocational training & challenge achievements
+20e00930 Merge branch 'master' of https://github.com/pmotschmann/Evolved
+dcf6345b Spelling error fixes
+7ecdefc5 Fixed Rejection description
+d7327b5c Worker drone description
+a675908e Stress clarifications
+3da067f2 Fixed factory bug
+da13dc65 Update changelog.md
+af37ba07 Merge pull request #120 from pmotschmann/0.4.0
+ac91bf82 0.4.0 Release notes
+279f7a95 Merge branch 'Deterioration' into 0.4.0
+7a66645f Race Selection
+0281a313 Biomes and 2nd reset achieves
+11e0a064 Completed Stardock
+5fad425a Space Balance Adjustments
+d2cfff5b Mining Drones
+5a2a90fe Space Dock, Seeder Ship, and Interstellar Probes
+004360c6 Space sourced iron
+926b9f1f Cyclops Intellience Trait
+a7b992a7 World control now stops random attacks.
+362d9a25 World Domination
+95da18ed Dimension Compression
+b204ae7b Smelter changes
+bc9cf75a Fixed smelter oil bug
+2975950b Merge branch 'Deterioration' of https://github.com/pmotschmann/Evolved into Deterioration
+9869ac0c Quantum Computing
+4a1cf3fa Merge pull request #113 from omsi6/Deterioration
+935694b8 grammar fixes
+92423473 Challenge Modes
+b11d4a66 World Collider
+da058ec1 Swarm AI
+78e5a4fc Riot fix
+ac14a7f4 Genetic Deterioration
+2dcbd2c8 Fixed artificer price
+f31ba3e9 Update changelog.md
+54d8a65a Merge pull request #112 from pmotschmann/Space-2
+7c11e3b9 0.3.11 release notes
+dac9ca11 Merge branch 'Space-V2' into Space-2
+b58d55e0 Steel Check
+c3db805d Revert "Cache busting"
+912ea724 Night Theme update
+cdfa0ab6 Elerium Reactor & Oil Extractor
+3dca6d28 Cache busting
+89db0fd3 Launch facility failsafe
+96c8784c Neutronium tech
+86d3127d Neutronium
+75296cec Space Marines & Helium Attractor
+5f4a7918 Trade route pricing
+b60125a0 Wharf, Swarm Plant, Artificer, Genetic Repository
+f556ae87 Discord link
+3a11232d Merge branch 'Deep-Space' into Space-V2
+c3206e25 Mythril Beams
+d7760806 Elerium Breakdown
+64f40f8b Elerium Containment
+9f2cdaac Craftsman Validation
+7054abb8 Fix some typos in research descriptions
+bf6e16e2 Elerium Mining & Exotic Lab
+d45ce500 Warmonger
+50341688 Elerium Unlocking
+15f6aaa1 Spaec mission affordability check
+10f50079 Breakdown Trade fix
+7dc56511 Updated Version infromation for 0.3.5
+b52f33a4 Merge
+27dfc642 Mythril Craftman unlocking
+f58e0ab0 minor grammar fixes
+488f6099 Fixed titanium bug
+ff7e672a Version update fix
+f6ee0785 Asteroid Belt
+9d5e53be Compiled CSS file
+192443fd Merge branch 'pr/105' into 0.3.4
+8c926908 fix button greying out in light theme
+d2492af2 Assembly Lines
+0ed67850 Fixed incorrect breakdown attribution
+85319887 Mars Factory crafting bonus
+6981a4f5 Space Manufacturing
+aceafb78 Control Towers & Nav Beacons
+ac9d4f91 Fanatism ent bug fix
+a2d35419 Game save fix
+2f42f309 Preventing game crippling bugs
+6f4d0bad Building Redundancy Check
+16de8e62 Merge pull request #104 from pmotschmann/0.3.0
+ad05b1ea Reset cleanup
+477a400b Improved unlocking order of moon and mars.
+0bc3377a 0.3.0 Update
+240551e4 Merge branch 'space' into 0.3.0
+a6e22da5 Biodome
+c6b69234 Orbital Fuel Depot
+f9e4719c Atmospheric Mining
+e1076a3f Remaining Planet Names
+56d9570b Fixed fanatism bug.
+9c0fab17 New Iridium and Mythril based upgrades.
+a024ffb6 Dysan Swarms
+d66dbf8c Moon Observatory & Tourism
+3d80a183 Unique planet names
+9c91d21a GPS, Mars Mining, Fabrication, Garage, Geothermal
+a1e72e69 Spaceport
+e6e5de33 Mars Outpost and Mythril
+3d6cad22 Planet Descriptions
+7ffe59db Probes
+3c6ba1e7 Mass Drivers and Casino
+924da8f1 Iridium and Helium-3 mines
+65b23ee8 Storage Rescaling
+bbeca5cb Moon Base
+fc32916e Aria button roles
+4062ccce Fixed storage unlocking bug
+cc8db3c0 Orbit
+d25774d8 Fixed rock quarry bug
+e05d7eaa Updating Version Number
+a5bc2354 Farmer, Lumberjack, and Quarry Workers changes.
+6335b346 Fixed #97
+1424933e Market row alternate coloring
+d2af7db4 fix typos/missing periods in resource effects
+86425f77 Sporgar redesign
+ca4a7fe1 Red-Green color blind theme
+6da858ca Fixed evolution max affordability check
+0b20dfa2 Fixed issue with previous cost fix
+5931e885 Max cost bug fix
+d5166214 Fixed farm flair text
+cf1366b0 Metal working before Foundry
+b9287809 Axes before storage
+67cc9977 Research tab reset
+4352ee24 Currency before storage
+ab7f5c40 Default tax rate fix
+50b23d0a Only update global.civic.taxes if it actually exists
+d8be8cb6 full/empty timer restricted
+ac32d59b Update changelog.md
+08d7bc6d Tax Revamp
+6e2183e6 Theology Requirements
+84579d61 Evolution Paths
+64b96e15 Storage increase
+e88ed774 Crates rescaled
+c22b0427 Capacity cost check on load
+7a183a02 Max affordability cue
+4a609356 ARPA Cost Updating
+35efd481 Removing unneeded loop
+af70060b Storage Timers
+a250b334 Selenophobia Breakdown
+0cb68838 Save Validation
+24b85322 Fixed army rating display
+9dd3a48b Fixed resource display orders
+8a6fa588 Fix smelter iron bonus display issue
+b99ac566 Multipler keys enable/disable
+49a9bf26 Job & Trade key multipliers
+d9427a56 Coal Miner validation
+d44bdf1f Trade route import/export symbols
+2d60b562 Operate spelling
+c8f15f97 War advise
+66294f35 Fixed Recombination
+f69ce39a Manual Crafting Fixes
+d21e7731 Uranium Breakdown Fixes
+733ce061 Fixed foundry bug with Ent gods
+d5fa947c Plasmid bonus now applies to the sundial
+ef1df272 Reduced some kindling kindred costs
+43626d18 Gene research messages
+f003d4ff Added dates to changelog
+d7ef2eee Fixed money issues caused by PR
+3fedce37 Changelog updated
+09080923 fastLoop Cleanup. Readability of Resource deltas / breakdowns (#61)
+63aabcf5 Fixed a spelling error
+6e4b5970 Spelling and grammer error fixes.
+4c2b4805 Research Tabs
+9a5ab0b1 Settings Fix
+3ab888af ARPA Plywood Fix
+46fe2af8 Old research tab added
+69773b3f Game export improvements
+19b822d3 Extended spatial reasoning path
+e7a0f219 University base price
+12b56578 Resource Cap Breakdowns
+6288377e Fixing new changelog and version number
+ea30a8f2 Update changelog.md
+f9837250 Reduced Goblin Greed
+931369ea Prevent corrupt save strings from loading
+18254069 Changelog linked in game
+5a3fca8c Fixing a few typos throughout the code. Incomplete assessment
+e8701380 Misc typo fixes
+bb6f9d26 Full Resource Indicator
+7e8109b8 Fixed #41 & #46
+59334e1f Sheet Metal Unlocking
+4108dfba Nerffed Gluttony
+5bd63378 Fixed Library Bonus
+086a44a7 Fixed lower power issue with Wardenclyffe
+89692f86 Fixed issues with key mulitplier stickiness
+7c67b767 Reordered some buildings
+353c6188 Fix exploitable crafting bug
+fba7acfc Revoked Immortality
+320326b7 More Weather cleanup (Morale effects)
+f1a12afa Added Weather to Food Breakdown. Minor cleanup. What's with the weird tax calc? It was being misreported before.
+6e89a9b6 Library Bonus
+7977cf91 Hivemind Farmers
+89a79c71 Evolution 2.0
+0fe9690f Fix Pessimism/Optimism parity (#36)
+5db141e1 Knowledge Plasmids
+a61782bc Expanded Stats
+5e3d4ce5 Trade route ratios
+5ba11c58 Craft All
+714df5ea Message Queue Limited
+6cace4df Fikxed Slitheryn Trait
+ead88e7d Stats Page
+8b43b04f Sculpture & Monolith cost reduction
+2299c6f4 Gene mutation plasmids
+d140bb3a Fixed morale breakdown bug
+8dcb219e Bottom Margin
+f9eaffac Home Safes
+eee4be4d All Racial Traits Implemented
+073a2e70 Starvation
+80724bdb Second Evolution Achievement
+d1fa28fc Max Morale Changed
+93e3122c Evolution Progress Bar
+b01720cc Hollow Bones & Rigid
+5202aad6 Morale cap changed
+e937f8ef Wind Turbine
+ce50ef8e GM Food
+f9273031 Flair Text
+3f6009c8 Basic Housing Labels
+90f85532 Tunneler and Leathery traits
+d124fd9a Recombination & Gene Mutation
+6ea8cc2a Defcon 1 button text
+0ff9b993 Fixed Knowledge Breakdown
+5c1e677b Changed miner tooltips
+a8edc93a Resource Rounding
+84bfa3d6 Plasmids apply to crafting
+c1abd17d Enhanced Crate Multipliers
+354de607 Fanatical Tree Worship
+57d1f425 Removed redundant craftsman step
+fe702453 Brickworks
+3eb91894 Fixed building stacks of buildings
+f69ad576 Master Craftsman
+02adb5e2 Crafty, Resourceful, and Inept
+56f9b266 Apprentices & Carpentry
+adead3e9 Fixed top bar z-index
+fea336ba Foundry & Crafted Mats
+b37edac8 Madagascar Tree achievement
+a695db37 Fanatical Cath Worship
+4c44e148 Kindling Kindred & Smelters
+18f2be5f Fixed Smokehouse Gltich
+ef3b866b Fixed Reset Bugs
+505dcf35 No Cath Hoes
+fc4d31f2 Smokehouse & Lodge
+ee3138ea Morphogenesis & Divine Proportion
+9c2e52c8 Fixed cost of divine remembrance
+e53e632a Crispr Upgrades
+80b5ec1b Crispr
+80539dbf Monuments
+1df0d8b3 Affordablity cue improvements
+381d7cb9 Resource cost highlighting
+ffa7218b Fixed market redraw
+2df3bf42 New Nuke Animation
+c037ad4f Affordablity Visual Cue
+1b62eddf Fixed Income Precision
+2310f2e2 Diverse, Chameleon, & Resourceful
+09677f0b Fixed Crate Tooltop #27
+96d54ba8 Fixed Issue #26
+117abb57 Fixed breakdown bug
+9ae9f929 Ancient Ruins Fix
+068a6315 Garrison 2.0
+280dd419 Money Overhaul
+8d0d988e Most Resource Breakdowns
+42c369fe 8 Resource Breakdowns
+c54661ab Fixed Nuke Bug #25
+a91d1b43 Creative Display Fix
+338bb54f Ancient Cache Event
+58457c20 Balance Changes
+e62f37f7 Blackhole Achievement
+cf1481dc 4 New Traits Activated
+6530c9e4 Morale Adjustments
+c9e06b73 Achievements
+3ec01f75 Cement & Steel Change
+7caf28d4 Web Worker
+9ac164b4 Knowledge Rebalance
+26b7be53 Extra Labor Validation
+27ad4e1e Morale
+b6728450 Plasmid Increase
+4c9aa36d Message Queue Positioning
+2ee8db85 Luxury Goods now scale
+b96fdded Trade Route UI Update
+5ea99fc3 Fixed ARPA issue #23
+a7cd553b Rotary Kiln & Fluid Reactor
+2635b5fd Fixed Factory Issue #22
+ec8301b1 Primitive Tech
+2ab06c5d Fanaticism & Anthropology
+7a2c2e68 Agriculture Rebalancing
+37b4c214 Fixed power unlocking issue
+76921780 Fixed incorrect hoe description
+829ddee7 Cleaning up the readme a bit. (#20)
+a03a85e1 Fixing misspelling (#19)
+a0182ce4 Better Evolution Descriptions
+70310f9a Fixed new game errors
+d05ae174 Additional Stats Tracking
+2548bdcd Theology & Temples
+610b08e8 Locking Theology
+93f9917c Mutual Assured Destruction
+3974e228 Hedge Funds & 401K
+a9a5ca09 Fixed a spelling error
+2cb6b5d9 Higgs Boson
+43c183b6 Oil Fracking
+dca193df Titanium Crates & Screw Conveyor
+f81922c2 Stock Exchange
+9ff3d2cc Fixed Lumber Bug #14
+169b2a2a Route Tooltips
+07dfbf60 Creative Trait + Extras
+3f317b7c Uranium Ash
+7b2e6025 A.R.P.A
+c6365156 CSS Improvements
+6f7663ff Night Theme
+69d1ee20 Uranium & Fission
+f123c84e Bioscience & Polymers
+3fd83762 Trade Post Upgrades
+45b0c6e7 Trade Routes
+96f76fe4 Weather Revamp
+c854c4ae Removed Wind CSS
+aaed0315 Weather Icons
+592013ae Pyrophobia, Toxic, and Nyctophilia
+8fcf242c Fixed #13
+130eb4a1 Carnivore Trait
+e8d11c7a Bug Fixes
+9faba710 Smelter & Mining Upgrades
+664c8a3a The Internet + some other stuff.
+6bd550f4 Removed stray char
+d5da2348 Factories
+9226224f Revamped Descriptions
+13eef658 Warehouses
+0e72a622 Last Messege
+4da9cc08 Titanium
+5c13fb93 ANFO Fixed
+5ab2b335 Oil
+12a7b15a Faster Main Loop
+83b89d58 Hunting
+dd4ca8f3 Smarter Power
+13456945 Bessemer Process
+71f890d0 Fixed Spelling Errors
+89224459 Scientific Journal
+8d307bf6 Popver Consistency
+6756aa32 Low Power Warning
+ef98803c Powergrid Consistency
+cfd70492 Electricty Display Fix
+af568fbd Hunger Rework
+d02cf82f Evolution Balance Changes
+6b4b286e Fixing CSS problem
+a21fd162 Webkit CSS Button Fix
+3e7e1755 Mine Conveyor Belt
+965975d9 Farm Houses
+b648716c Light Theme
+4c9c2465 Fixed raid event
+12c6b93d Mercenaries
+dda026ef Theming Rework #3
+e35097d2 Quick Crate Info
+75e50d48 Biomes
+5296412b Popper Cleanup #10
+54a87201 Explosive Mining
+1e500d1b Gantry Cranes
+9b76e3b3 Windmill
+bc46dfe7 Sledgehammers
+3566112b Wounded Soldiers
+1159166d Precompiled CSS
+e8f476ca Adjunct Professors
+d15de564 Calendar Issue #7
+77d07c57 Minor bug fixes
+90a2de38 Scales & Arrogant traits
+0673a755 Fixed issue #8 & #9
+31cf24ec Weather Effects & Traits
+7b57a989 Fixed issues #5 & #6
+5cd008fe Date tracking and weather.
+6dc65860 Barns, Pack Rat, Hoarder, Paranoid
+1d06f5d5 Hivemind, Tough, and Lazy
+addd366a Garrisons
+ed6205b6 Fixed Stone Consumption Bug
+1d98fdaf Resource Rate Counters
+0e9accf6 Series EE Bonds
+b49e8d2e Apartments
+d4381023 Electricty & Mad Science
+5da7095c Smelting & Steel
+8224688e Update README.md
+e5eb2b37 Savings Bonds
+8fecba04 Black Powder
+c6683108 Ent Crates Fixed
+8d38f8b9 Key Click Buildings
+ec30d598 Crate Tooltip Moved.
+4dcc534d Key Multipliers
+38db4059 Containerization
+a3dc1913 Sawmills
+59081a97 Coal
+3c04e5fe Seven Traits Activated
+3b865e26 Tax Revolt
+c31a2386 Fixed Newgame Bug
+0e93cc9f Tax Rates
+8f9301f0 Commodities Market
+15a33d7d Lumber Yard
+56d2c2ec Events Module
+20e38867 More Modules
+f5425461 Game Reorganized into ES6 Module
+683b0a0f Merge branch 'master' of https://github.com/pmotschmann/Evolved
+33079414 Shed Upgrade
+3be5ad9e Bug Fixes
+204fc406 Fixed population growth bug
+60675c28 New progression content
+b8e50750 Added Cement Plant
+057593a0 Fixed bugs with several traits
+02cc5c6c Tech Unlocking Refactored
+5c517d1d More Code Reorganization
+518da233 Resource Highlighting
+db619f52 Reduced First Event Time
+f51f342d Protoype Event System
+3ac4761a Resource definition update
+7b03dcc1 Resource delta precision
+8a1e8696 Game Import/Export Feature
+67e73e26 Local Storage Compression
+3458ad8a Mining
+d5f3585f Fixed Bankers
+8ba2437a Update README.md
+2362b87a Civics formatting
+6b281ff4 Settings Options
+1d6e69b9 Early Civilization
+5e42ee65 Job System
+fb57297e Reqments Action Attribute
+4095b112 Removed debug line
+485dc62f More racial trait definitions
+a46601cc More Phase 2 scafolding
+cd76d227 Phase 2 Groundwork
+0a14e4a9 Refactored Code
+82eb0fb2 Resource delta tracking
+2514eb95 Streamlined Evolution
+2c624178 Decreased Evolution Costs
+5bca7c35 Updated Local Storage
+cc54db78 Added missing traits.js file
+f2a5604a Evolved Incremental
+f8c0e1fb Initial commit
